@@ -1,8 +1,8 @@
 {{Short description|DC Comics character}}
 {{for|the character in the alternate future of Kingdom Come in the DC Comics|Kid Flash (Iris West)}}
 {{Superherobox <!--Wikipedia:WikiProject Comics-->
-| image = File:Iris West.jpg
-| caption = Iris West in ''The Flash Secret Files & Origins'' #1 (November 2010).<br>Art by [[Francis Manapul]].
+| image = Iris West.png
+| caption = Iris West in ''The Flash'' vol.5 #70 (May 2019).<br>Art by [[Howard Porter (artist)|Howard Porter]].
 | character_name = Iris West 
 | publisher = [[DC Comics]]
 | debut = ''[[Showcase (comics)|Showcase]]'' #4 (October 1956)
@@ -80,7 +80,7 @@ In the ''[[Injustice: Gods Among Us]]'' prequel series, Barry met with Iris some
 * In the film ''[[Justice Society: World War II]]'', Iris is voiced by Ashleigh LaThrop.  
 
 ====DC Extended Universe====
-[[Kiersey Clemons]] was cast as Iris West in ''[[Justice League (film)|Justice League]]'', though her scenes were cut. Her scenes were later restored in the [[director's cut]] ''[[Zack Snyder's Justice League]]'', in which Barry Allen uses his speed to save her from a traffic accident.<ref>{{cite web|url=https://twitter.com/krolljvar/status/793882510602039296|title=Justin Kroll on Twitter}}</ref> She is slated to appear in the upcoming film ''[[The Flash (2022 film)|The Flash]]'', which is a part of the larger [[DC Extended Universe]].<ref>{{cite web|url=https://variety.com/2016/film/news/the-flash-movie-kiersey-clemons-iris-west-1201822282/|title='The Flash': 'Dope' Actress Kiersey Clemons to Star as Iris West in Movie (EXCLUSIVE)|publisher=Variety|last=Kroll|first=Justin|date=July 25, 2016}}</ref>
+[[Kiersey Clemons]] was cast as Iris West in ''[[Justice League (film)|Justice League]]'', though her scenes were cut. Her scenes were later restored in the [[director's cut]] ''[[Zack Snyder's Justice League]]'', in which Barry Allen uses his speed to save her from a traffic accident.<ref>{{cite web|url=https://twitter.com/krolljvar/status/793882510602039296|title=Justin Kroll on Twitter}}</ref> She is slated to appear in the upcoming film ''[[The Flash (2022 film)|The Flash]]'' (June 2023), which is a part of the larger [[DC Extended Universe]].<ref>{{cite web|url=https://variety.com/2016/film/news/the-flash-movie-kiersey-clemons-iris-west-1201822282/|title='The Flash': 'Dope' Actress Kiersey Clemons to Star as Iris West in Movie (EXCLUSIVE)|publisher=Variety|last=Kroll|first=Justin|date=July 25, 2016}}</ref>
 
 ===Video game===
 In ''[[Injustice: Gods Among Us]]'', Iris is mentioned by the Regime's Flash. While talking to Shazam on the Justice League Watchtower, Flash tries to rationalize Superman's increasingly cruel behavior by saying, "Yeah...I asked myself, 'What if what happened to Lois happened to Iris?'"

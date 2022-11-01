@@ -1,6 +1,6 @@
 {{Short description|Title character of V for Vendetta}}
 {{Use dmy dates|date=September 2022}}
-{{about|the titular character from the graphic novel comic book ''V for Vendetta''|other characters|V (disambiguation)}}
+{{about|the titular character from the graphic novel comic book ''V for Vendetta''|his successor|Evey Hammond|other characters|V (disambiguation)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 | image          = V taking a bow.jpg
 | caption        = V in ''[[V for Vendetta]]''<br />Art by [[David Lloyd (comics)|David Lloyd]].
@@ -20,7 +20,7 @@
 }}
 '''V''' is the [[title character]] of the [[comic book]] series ''[[V for Vendetta]]'', created by [[Alan Moore]] and [[David Lloyd (comics)|David Lloyd]]. He is a mysterious [[Anarchism|anarchist]], [[vigilante]], and [[Propaganda of the deed|freedom fighter]] who is easily recognizable by his [[Guy Fawkes mask]], long hair and dark clothing. He strives to topple a [[totalitarian]] regime of a [[dystopian]] United Kingdom through acts of [[heroism]]. According to Moore, he was designed to be [[Ethical dilemma|morally ambiguous]], so that readers could decide for themselves whether he was a hero fighting for a cause or simply [[Insanity|insane]].<ref name="giantmoore">{{cite web | work=GIANT Magazine| title=A FOR ALAN, Pt. 1: The Alan Moore interview | url=http://www.comicon.com/thebeat/2006/03/a_for_alan_pt_1_the_alan_moore.html#more | access-date=31 March 2006 |archive-url = https://web.archive.org/web/20060330072000/http://www.comicon.com/thebeat/2006/03/a_for_alan_pt_1_the_alan_moore.html#more <!-- Bot retrieved archive --> |archive-date = 30 March 2006}}</ref>
 
-V made his first live appearance in the 2005 film ''[[V for Vendetta (film)|V for Vendetta]]'' played by [[Hugo Weaving]] and [[James Purefoy]]. The 2019 television series ''[[Pennyworth (TV series)|Pennyworth]]'' has been confirmed to be a [[prequel]] to ''V for Vendetta''<ref name="V-Pennyworth" /> with the series' [[Alternate history|British Civil War]] eventually giving way to the [[Norsefire]] government and rise of V.<ref name="CBR" /><ref name="CBR2" /><ref name="SciFiNow" /> Its 2022 [[Pennyworth (season 3)|third season]] introduced predecessors to V wearing his signature Guy Fawkes mask.<ref name="AV" />
+V made his first live appearance in the 2005 film ''[[V for Vendetta (film)|V for Vendetta]]'' played by [[Hugo Weaving]] and [[James Purefoy]]. The 2019 television series ''[[Pennyworth (TV series)|Pennyworth]]'' has been confirmed to be a [[prequel]] to ''V for Vendetta'',<ref name="V-Pennyworth" /> with the series' [[Alternate history|British Civil War]] eventually giving way to the [[Norsefire]] government and rise of V.<ref name="CBR" /><ref name="CBR2" /><ref name="SciFiNow" /> Its 2022 [[Pennyworth (season 3)|third season]] introduced predecessors to V wearing his signature Guy Fawkes mask.<ref name="AV" />
 
 ==Fictional character biography==
 ===Origin===
@@ -92,6 +92,7 @@ On 29 July 2019, the day following the [[series premiere]] of ''[[Pennyworth (TV
 <!--FOOTERS-->
 {{V for Vendetta}}
 {{Alan Moore}}
+{{Gotham and Pennyworth}}
 
 <!--LANGUAGES-->
 
@@ -120,4 +121,5 @@ On 29 July 2019, the day following the [[series premiere]] of ''[[Pennyworth (TV
 [[Category:Fictional characters without a name]]
 [[Category:Fictional prison escapees]]
 [[Category:Vertigo Comics characters]]
+[[Category:Pennyworth (TV series) characters]]
 [[Category:Vigilante characters in comics]]

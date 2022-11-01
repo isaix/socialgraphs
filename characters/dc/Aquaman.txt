@@ -68,7 +68,7 @@
 |villain =
 |sortkey =
 }}
-'''Aquaman''' is a [[superhero]] appearing in [[American comic book]]s published by [[DC Comics]]. Created by [[Paul Norris]] and [[Mort Weisinger]], the character debuted in ''[[More Fun Comics]]'' #73 (November 1941).<ref>{{Cite news |title=Happy 70th Birthday Aquaman! |publisher=The Aquaman Shrine |url=http://www.aquamanshrine.com/2011/09/happy-70th-birthday-aquaman.html |access-date=9 October 2011 |archive-url=https://web.archive.org/web/20111028123352/http://www.aquamanshrine.com/2011/09/happy-70th-birthday-aquaman.html |archive-date=28 October 2011}}</ref> Initially a backup feature in DC's anthology titles, Aquaman later starred in several volumes of a solo comic book series. During the late 1950s and 1960s superhero-revival period known as the [[Silver Age of Comic Books|Silver Age]], he was a founding member of the [[Justice League]]. In the 1990s [[Modern Age of Comic Books|Modern Age]], writers interpreted Aquaman's character more seriously, with storylines depicting the weight of his role as king of [[Atlantis (DC Comics)|Atlantis]].<ref name="dc-ency">{{Cite book |last=Wallace |first=Dan |title=The DC Comics Encyclopedia |publisher=[[Dorling Kindersley]] |year=2008 |isbn=978-0-7566-4119-1 |editor-last=Dougall |editor-first=Alastair |location=London |pages=18–19 |chapter=Aquaman}}</ref> Aquaman's villains include his archenemy [[Black Manta]] and his own half-brother [[Ocean Master]], among others.
+'''Aquaman''' is a [[superhero]] appearing in [[American comic book]]s published by [[DC Comics]]. Created by [[Paul Norris]] and [[Mort Weisinger]], the character debuted in ''[[More Fun Comics]]'' #73 (November 1941).<ref>{{Cite news |title=Happy 70th Birthday Aquaman! |publisher=The Aquaman Shrine |url=http://www.aquamanshrine.com/2011/09/happy-70th-birthday-aquaman.html |access-date=9 October 2011 |archive-url=https://web.archive.org/web/20111028123352/http://www.aquamanshrine.com/2011/09/happy-70th-birthday-aquaman.html |archive-date=28 October 2011}}</ref> Initially a backup feature in DC's anthology titles, Aquaman later starred in several volumes of a solo comic book series. During the late 1950s and 1960s superhero-revival period known as the [[Silver Age of Comic Books|Silver Age]], he was a founding member of the [[Justice League]]. In the 1990s [[Modern Age of Comic Books|Modern Age]], writers interpreted Aquaman's character more seriously, with storylines depicting the weight of his role as king of [[Atlantis (DC Comics)|Atlantis]].<ref name="dc-ency">{{Cite book |last=Wallace |first=Dan |title=The DC Comics Encyclopedia |publisher=[[Dorling Kindersley]] |year=2008 |isbn=978-0-7566-4119-1 |editor-last=Dougall |editor-first=Alastair |location=London |pages=18–19 |chapter=Aquaman}}</ref> Aquaman's villains include his [[archenemy]] [[Black Manta]] and his own half-brother [[Ocean Master]], among others.
 
 The character's original 1960s animated appearances left a lasting impression, making Aquaman widely recognized in popular culture and one of the world's most recognized superheroes. Jokes about his wholesome, weak portrayal in ''[[Super Friends]]'' and perceived feeble powers and abilities have been staples of comedy programs and stand-up routines,<ref>{{Cite web |last=Bradley |first=Laura |date=12 December 2018 |title=A Brief History of Pop Culture Dumping on Aquaman |url=https://www.vanityfair.com/hollywood/2018/12/aquaman-jokes-family-guy-big-bang-theory-south-park |access-date=16 January 2019 |website=HWD}}</ref><ref>{{Cite web |date=4 November 2018 |title=How The Animated Justice League Erased Super Friends' Aquaman |url=https://www.cbr.com/how-animated-justice-league-saved-aquaman/ |access-date=31 December 2018 |website=CBR}}</ref><ref name="auto">{{Cite web |last=Fuller |first=Devin |date=24 December 2018 |title='Aquaman' Through History: The Stuff That Memes Are Made Of |url=https://www.nytimes.com/2018/12/24/movies/aquaman-through-history-tv-movies.html |access-date=31 December 2018 |website=[[The New York Times]]}}</ref> leading DC at several times to attempt to make the character edgier or more powerful in the comic books.<ref>{{Cite web |title=AQUAMAN Evolution: From Laughingstock to New 52 Rock Star |url=https://www.newsarama.com/6966-aquaman-evolution-from-laughingstock-to-new-52-rock-star.html |access-date=31 December 2018 |website=Newsarama.com}}</ref> Modern comic book depictions have attempted to reconcile these various aspects of his public perception, with many versions often casting Aquaman as serious and brooding, saddled with an ill reputation, and struggling to find a true role and purpose beyond his public side as a deposed king and a fallen hero.<ref>''Aquaman'' (vol. 7) #1 (November 2011). DC Comics.</ref>
 
@@ -465,13 +465,13 @@ During the 2013 "[[Trinity War]]" storyline, Aquaman's [[Crime Syndicate of Amer
 |-
 |7
 |'''''Exiled'''''
-|''Aquaman'' (vol. 7) #41–47
+|''Aquaman'' (vol. 7) #41–48
 |200
 |{{ISBNT|978-1401260989}}
 |-
 |8
 |'''''Out of Darkness'''''
-|''Aquaman'' (vol. 7) #48–52, ''Aquaman: Rebirth'' #1
+|''Aquaman'' (vol. 7) #49–52, ''Aquaman: Rebirth'' #1
 |144
 |{{ISBNT|978-1401268749}}
 |-
@@ -615,7 +615,7 @@ By 2008, cultural critic [[Glen Weldon]] noted that Aquaman had become ridiculed
 
 == See also ==
 *[[List of Aquaman enemies]]
-*[[Namor]] - a similar character from [[Marvel Comics]] who precedes Aquaman's debut.
+*[[Namor]] - a similar character from [[Marvel Comics]].
 
 ==References==
 {{Reflist|2}}

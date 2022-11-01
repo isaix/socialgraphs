@@ -4,13 +4,18 @@
 |image=[[File:Brainmallah.png|250px]]
 |caption= [[Monsieur Mallah]] with the Brain, from the cover to ''Outsiders'' #37.<br />Art by [[Daniel Acuña]]
 |real_name=Unknown (Pre-Crisis and Post-Crisis)<br>Ernst ("The New 52" continuity)
+|species=[[Cyborg]]
 |publisher=[[DC Comics]]
 |debut=''The [[Doom Patrol]]'' #86 (March 1964)
 |creators=[[Arnold Drake]] (writer)<br>[[Bruno Premiani]] (artist)
 |alliances=[[Brotherhood of Evil]]<br>[[Injustice League]]<br />[[Secret Society of Super Villains]]
 |aliases=Ultimax
 |partners=[[Monsieur Mallah]]
-|powers=Genius-level intellect<br>Bionic surrogacy
+|powers='''(Currently)''':
+*[[Genius]]-level intellect
+*Bionic surrogacy
+'''(Formerly)''':
+*Mass consciousness
 |}}
 '''Brain''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic books]] published by [[DC Comics]] commonly as a frequent enemy of the [[Doom Patrol]].  He is a French genius and criminal mastermind.<ref name="dc-ency">{{Citation  | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Brain | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 60  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 978-0-7566-4119-1}}</ref>
 
@@ -103,7 +108,8 @@ In [[Smallville season 11]], The Brain appears on the back of Monsieur Mallah, r
 {{reflist}}
 
 ==External links==
-* [https://dc.fandom.com/wiki/Brain_%28New_Earth%29 Brain] at DC Comics Wiki
+* [https://dc.fandom.com/wiki/Brain Brain] at DC Database
+* [https://comicvine.gamespot.com/the-brain/4005-31126/ The Brain] at Comic Vine
 
 {{Doom Patrol}}
 {{Teen Titans}}

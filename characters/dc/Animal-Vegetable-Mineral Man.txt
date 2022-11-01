@@ -6,14 +6,15 @@
 | publisher = [[DC Comics]]
 | debut = ''The Doom Patrol'' #89 (August 1964)
 | creators = [[Arnold Drake]] (writer)<br>[[Bruno Premiani]] (artist)
-| alter_ego = Dr. Sven Larsen
+| alter_ego = Sven Larsen
 | full_name =
-| species = <!-- optional -->
+| species = [[Metahuman]]
 | homeworld = <!-- optional -->
-| alliances = Doomed
-| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| alliances = Front Men
+| aliases = AVM-Man
 | supports = <!--optional-->
-| powers = Can change his body into the form of any animal, vegetable, or mineral.
+| powers = *[[Chimera (mythology)|Chimeric]] [[shapeshifting]]
+*High intelligence
 }}
 '''Animal-Vegetable-Mineral Man''' is a fictional character appearing in [[American comic books]] published by [[DC Comics]]. He is a foe of the original [[Doom Patrol]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=5–6}}</ref>
 
@@ -23,20 +24,20 @@ The character made his first live adaptation on the first season of the ''[[Doom
 Animal-Vegetable-Mineral Man first appeared in ''The Doom Patrol'' #89 (August 1964) and was created by [[Arnold Drake]] and [[Bruno Premiani]].<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |page=180}}</ref>
 
 ==Fictional character biography==
-Dr. '''Sven Larsen''' is a [[Sweden|Swedish]] [[scientist]] and a former student of [[Chief (comics)|Dr. Niles Caulder]], but they had a falling out after Larsen accused Caulder of stealing his idea for the anti-decay ray. Larsen gains his superpowers after falling into a vat of [[amino acids]]. This gave him the right arm and leg of a plant, the left arm and leg of diamonds, and a half-torso of a [[Tyrannosaurus]] with half of his human head shown to be fused with part of the Tyrannosaurus' neck. He uses his powers to get revenge on Caulder and his Doom Patrol.<ref>{{cite book |last1=Morris |first1=Jon |title=The Legion of Regrettable Supervillains: Oddball Criminals from Comic Book History |date=2017 |publisher=Quirk Books |isbn=978-1594749322 |page=138}}</ref> The Doom Patrol defeat Larsen and are able to remove his powers. He later regains them and fights the Doom Patrol again.<ref>''The Doom Patrol'' #95 (May 1965). DC Comics.</ref>
+'''Sven Larsen''' is a [[Sweden|Swedish]] [[scientist]] and a former student of [[Chief (comics)|Dr. Niles Caulder]], but they had a falling out after Larsen accused Caulder of stealing his idea for the anti-decay ray. Larsen gains his superpowers after falling into a vat of [[amino acids]]. This gave him the right arm and leg of a plant, the left arm and leg of diamonds, and a half-torso of a [[Tyrannosaurus]] with half of his human head shown to be fused with part of the Tyrannosaurus' neck. He uses his powers to get revenge on Caulder and his Doom Patrol.<ref>{{cite book |last1=Morris |first1=Jon |title=The Legion of Regrettable Supervillains: Oddball Criminals from Comic Book History |date=2017 |publisher=Quirk Books |isbn=978-1594749322 |page=138}}</ref> The Doom Patrol defeat Larsen and are able to remove his powers. He later regains them and fights the Doom Patrol again.<ref>''The Doom Patrol'' #95 (May 1965). DC Comics.</ref>
 
 Larsen returns to face the second incarnation of the Doom Patrol in ''The Doom Patrol'' vol. 2 #15 (December 1988) and #16 (Winter 1988), in partnership with [[General Immortus]]. He is defeated after [[Celsius (comics)|Celsius]] encases him in ice.
 
 In a 2009 interview with [[Keith Giffen]] about his ''Doom Patrol'' comic, Giffen reveals that Larsen should be a villain in it.<ref>{{cite web| url= http://www.comicbookresources.com/?page=article&id=19932 |title= Giffen New Chief Of 'Doom Patrol' | date= 7 February 2009 | website= ComicBookResources.com | accessdate= 17 July 2015}}</ref>
 
-In the twelfth issue of the series, Larsen is now a member of the Front Men, a team of super-powered guards working for Mister Somebody Enterprises. His team is working to discredit the Doom Patrol, having been coached in various ways on how to make the heroes look bad for the cameras. Unknown to the Front Men, [[Mr. Nobody (comics)|Mister Somebody]] has rigged their uniforms to deliver fatal blows in ways that make it seem as if the Doom Patrol killed them intentionally.<ref>''Doom Patrol'' #12 (2010). DC Comics.</ref>
+In the twelfth issue of the series, Larsen is now a member of the Front Men, a team of super-powered guards working for Mister Somebody Enterprises. His team is working to discredit the Doom Patrol, having been coached in various ways on how to make the heroes look bad for the cameras. Unknown to the Front Men, [[Mr. Nobody (comics)|Mister Somebody]] has rigged their uniforms to deliver fatal blows in ways that make it seem as if the Doom Patrol killed them intentionally.<ref>''The Doom Patrol'' Vol 5 #12 (September 2010)</ref>
 
 In 2011, "[[The New 52]]" rebooted the DC universe. Animal-Vegetable-Mineral Man is re-introduced as part of an experimental security measure that Niles Caulder unleashes on intruders when his underground complex is breached.<ref>''The Ravagers'' #11. DC Comics.</ref>
 
 In the "[[Watchmen]]" sequel "[[Doomsday Clock (comics)|Doomsday Clock]]", Animal-Vegetable-Mineral Man is listed as a member of [[India]]'s sanctioned superhero team called the Doomed in light of "The Superman Theory" that started a metahuman arms race. He gained a reputation there where he ate their foes.<ref>''Doomsday Clock'' #5 (May 2018). DC Comics.</ref> He was with the Doomed when they alongside the Outsiders and the People's Heroes tried to bring Superman in for what happened in Russia.<ref>''Doomsday Clock'' #12. (December 2019). DC Comics.</ref>
 
 ==Powers and abilities==
-Animal-Vegetable-Mineral Man can change any part of his body into the form of any animal, vegetable or mineral, including combining several at once. In most of his appearances, his arms, legs and the left side of his face take on various forms, leaving his torso and the right side of his face normal.
+The Animal-Vegetable-Mineral Man can change any part of his body into animal, vegetable, or mineral forms, as well as combining several more at once.<ref>''The Doom Patrol'' Vol 1 #89 (August 1964)</ref> In most appearances, he possesses extensive knowledge of [[biology]].
 
 ==In other media==
 ===Television===
@@ -51,8 +52,7 @@ Animal-Vegetable-Mineral Man can change any part of his body into the form of an
 {{Reflist}}
 
 ==External links==
-* [http://dcuguide.com/w/Animal-Vegetable-Mineral_Man_(Sven_Larsen) Unofficial biography at DC Universe]
-* [http://www.comics.org/details.lasso?id=18531 Entry at Grand Comics Database]
+* [https://dc.fandom.com/wiki/Animal-Vegetable-Mineral_Man Animal-Vegetable-Mineral Man] at DC Database
 
 {{Doom Patrol}}
 
@@ -63,6 +63,6 @@ Animal-Vegetable-Mineral Man can change any part of his body into the form of an
 [[Category:DC Comics metahumans]]
 [[Category:DC Comics hybrids]]
 [[Category:Doom Patrol]]
+[[Category:Fictional biologists]]
 [[Category:Fictional Swedish people]]
 [[Category:Fictional scientists]]
-[[Category:Fictional human–animal hybrids]]

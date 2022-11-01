@@ -4,7 +4,7 @@
 |character_name=G'nort
 |real_name=G'nort Esplanade G'neeshmacher
 | species = [[List of alien races in DC Comics#G'Newtians|G'Newtians]]
-| homeworld = G'newt
+| homeworld = [[List of DC Universe locations#Planetary systems|G'newt]]
 |publisher=[[DC Comics]]
 |debut=''[[Justice League International]]'' #10 (February 1988)
 |creators=[[Keith Giffen]]<br>[[J. M. DeMatteis]]
@@ -15,7 +15,7 @@
 '''G'nort''' (pronunciation: "nort"<ref>''[[Who's Who in the DC Universe]]'' (loose-leaf) #16 inside front cover equivalent.</ref>) '''Esplanade G'neesmacher''' is a [[fictional character]], a [[DC Comics]] [[superhero]]. G'nort is a member of the [[Green Lantern Corps]]<ref name=jli10>{{Cite comic | Writer = [[Keith Giffen|Giffen, Keith]] | Cowriters = [[J. M. DeMatteis]] | Penciller = [[Kevin Maguire (artist)|Maguire, Kevin]] | Inker = [[Al Gordon (comics)|Gordon, Al]] | Story = Soul of the Machine | Title = Justice League International | Issue = #10 | Date = February 1988 | Publisher = [[DC Comics]] | Page = 6 | Panel = 6}}</ref> and later a [[Darkstars|Darkstar]] and a member of the Justice League Antarctica. He resembles an [[Anthropomorphism|anthropomorphic]] [[dog]] and is thoroughly incompetent and generally disparaged by other heroes; in fact, he is usually portrayed as being a loser and used as [[comic relief]].
 
 ==Publication history==
-G'nort first appeared in ''[[Justice League International]]'' #10 and was created by [[Keith Giffen]] and [[J. M. DeMatteis]]. during their [[Justice League]] period.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=116}}</ref> His name was originally spelled Gnort; his semi-human face, manner of speech, and style of dress showed that the inspiration for the character was sewer worker [[Ed Norton (The Honeymooners)|Ed Norton]], played by [[Art Carney]] in the classic television series ''[[The Honeymooners]]''. However, in later appearances, his face became more canine and the spelling of his name was changed.<ref name="dc-ency">{{Cite book | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = G'nort | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 139 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref>
+G'nort first appeared in ''[[Justice League International]]'' #10 and was created by [[Keith Giffen]] and [[J. M. DeMatteis]]. during their [[Justice League]] period.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=116}}</ref> His name was originally spelled Gnort; his semi-human face, manner of speech, and style of dress showed that the inspiration for the character was sewer worker [[Ed Norton (The Honeymooners)|Ed Norton]], played by [[Art Carney]] in the classic television series ''[[The Honeymooners]]''. However, in later appearances, his face became more canine and the spelling of his name was changed.<ref name="dc-ency">{{Cite book | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = G'nort | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 139 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
 
 ==Fictional character biography==
 G'nort is from the planet G'newt. [[Hal Jordan]] explains that G'nort became a Green Lantern due to the influence of his uncle, who was a famous member of the Lantern Corps.<ref name=jli10/> Despite his obviously limited intelligence (not intelligent enough to read a map) and profoundly lacking tactical judgment, the character is consistently depicted as brave, loyal, and honorable. This fact is overlooked by most heroes, although [[Superman]] has pointed it out on occasion.
@@ -56,7 +56,7 @@ G'Nort later becomes a central part of the Corps again. He is seen welcoming ref
 
 ==Other versions==
 ===''I Can't Believe It's Not the Justice League''===
-In the alternate dimension visited by the ''Super Buddies'' in ''[[Super Buddies#I Can't Believe It's Not the Justice League|I Can't Believe It's Not the Justice League]]'', the dimension is populated by twisted counterparts of the main universe characters. There, G'nort is a rampaging flea-infested giant whose body is used as a battleground.<ref>{{cite book |title= The supervillain book: the evil side of comics and Hollywood|last= Misiroglu|first= Gina|year= 2006|publisher= [[Visible Ink Press]]|ISBN= 0780809777}}</ref>
+In the alternate dimension visited by the ''Super Buddies'' in ''[[Super Buddies#I Can't Believe It's Not the Justice League|I Can't Believe It's Not the Justice League]]'', the dimension is populated by twisted counterparts of the main universe characters. There, G'nort is a rampaging flea-infested giant whose body is used as a battleground.<ref>{{cite book |title= The supervillain book: the evil side of comics and Hollywood|last= Misiroglu|first= Gina|year= 2006|publisher= [[Visible Ink Press]]|isbn= 0780809777}}</ref>
 
 ===''Justice League Unlimited''===
 In the ''[[Justice League Unlimited]]'' comic spin-off, G'nort starts his career as a regular Green Lantern Cadet, [[nephew]] of the famous G'Newt but lacking any skills and talents. He is brought to [[Qward]] by [[John Stewart (comics)|John Stewart]] along with other Lanterns to stop [[Sinestro]]'s last plan to destroy Oa by flaring over the planet with antimatter bursts.
@@ -71,8 +71,8 @@ In an alternate universe ruled by evil versions of the ''[[Planetary (comics)|Pl
 * G'nort appears in ''[[Justice League Action]]'' episode "The Fatal Fare". He is seen during [[Roxy Rocket]]'s commercial for her transport service as one of her customers.
 
 ===Non-fiction===
-* G'Nort's career is examined in 'Green Lantern and Philosophy'.<ref>{{cite book |title= Green Lantern and Philosophy|last= Irwin|first= William|year= 2001|publisher= [[John Wiley & Sons]]|ISBN= 978-0-470-57557-4|page=66}}</ref>
-* G'Nort receives a paragraph in 'Planet Dog: A Doglopedia'.<ref>{{cite book |title= Planet Dog: A Doglopedia|url= https://archive.org/details/planetdog00sand|url-access= registration|last= Choron|first= Sandra|year= 2005|publisher= [[Houghton Mifflin Harcourt]]|ISBN= 978-0-618-51752-7|page=[https://archive.org/details/planetdog00sand/page/30 30]}}</ref>
+* G'Nort's career is examined in 'Green Lantern and Philosophy'.<ref>{{cite book |title= Green Lantern and Philosophy|last= Irwin|first= William|year= 2001|publisher= [[John Wiley & Sons]]|isbn= 978-0-470-57557-4|page=66}}</ref>
+* G'Nort receives a paragraph in 'Planet Dog: A Doglopedia'.<ref>{{cite book |title= Planet Dog: A Doglopedia|url= https://archive.org/details/planetdog00sand|url-access= registration|last= Choron|first= Sandra|year= 2005|publisher= [[Houghton Mifflin Harcourt]]|isbn= 978-0-618-51752-7|page=[https://archive.org/details/planetdog00sand/page/30 30]}}</ref>
 
 ==References==
 {{reflist|30em}}

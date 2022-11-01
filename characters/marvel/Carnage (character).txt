@@ -19,7 +19,7 @@
 *Symbiote's autonomous defense capabilities
 *Undetectable by Spider-Man's spider-sense
 }}
-'''Carnage''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]], usually depicted as an adversary of [[Spider-Man]] and the [[archenemy]] of [[Venom (character)|Venom]]. The character made its first appearance in ''[[The Amazing Spider-Man]]'' #361 (April 1992),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=78}}</ref> and was created by writer [[David Michelinie]] and artist [[Mark Bagley]], although the first published artwork of Carnage was penciled by Chris Marrinan.
+'''Carnage''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]], usually depicted as an [[List of Spider-Man enemies|adversary]] of [[Spider-Man]] and the [[archenemy]] of [[Venom (character)|Venom]]. The character made its first appearance in ''[[The Amazing Spider-Man]]'' #361 (April 1992),<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=78}}</ref> and was created by writer [[David Michelinie]] and artist [[Mark Bagley]], although the first published artwork of Carnage was penciled by Chris Marrinan.
 
 Carnage belongs to a race of amorphous [[Extraterrestrial life|extraterrestrial]] organisms known as [[Symbiote (comics)|Symbiotes]], which form a [[Symbiosis|symbiotic]] bond with their hosts and give them super-human abilities. Originating as an offspring of Venom, Carnage is much more powerful than its parent symbiote because of the symbiotes' biology, and is in many ways a darker version of him. Like Venom, Carnage has had multiple hosts over the years, but its most infamous one remains its first -  killer '''[[Cletus Kasady]]''', whose sadistic personality perfectly matches that of the symbiote. Other notable hosts include [[Ben Reilly]], [[Karl Malus]], and [[Norman Osborn]], as well as [[Gwen Stacy]] in the alternate [[Ultimate Marvel]] continuity.
 
@@ -363,6 +363,7 @@ The Cletus Kasady incarnation of Carnage appears the Broadway musical, ''[[Spide
 [[Category:Fictional amorphous creatures]]
 [[Category:Fictional mass murderers]]
 [[Category:Fictional parasites and parasitoids]]
+[[Category:Fictional monsters]]
 [[Category:Fictional rampage and spree killers]]
 [[Category:Fictional serial killers]]
 [[Category:Fictional filicides]]

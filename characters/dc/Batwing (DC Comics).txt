@@ -7,8 +7,8 @@
 | imagesize      =
 | caption        =
 | publisher      = [[DC Comics]]
-| debut          = '''(David Zavimbe)'''<br />''[[Batman Incorporated]]'' #5<br/>(May 2011)<br/>'''(Luke Fox)'''<br />''Batwing'' #19<br/>(June 2013)
-| creators       = '''(David Zavimbe)'''<br/>[[Grant Morrison]] (writer)<br/>[[Chris Burnham]] (artist)<br/>'''(Luke Fox)'''<br />[[Jimmy Palmiotti]] (writer)<br/>[[Justin Gray]] (writer)<br/>Eduardo Pansica (artist)
+| debut          = '''David Zavimbe''':<br />''[[Batman Incorporated]]'' #5<br/>(May [[2011 in comics|2011]])<br/>'''Luke Fox''':<br />''Batwing'' #19<br/>(June [[2013 in comics|2013]])
+| creators       = '''David Zavimbe''':<br/>[[Grant Morrison]] (writer)<br/>[[Chris Burnham]] (artist)<br/>'''Luke Fox''':<br />[[Jimmy Palmiotti]] (writer)<br/>[[Justin Gray]] (writer)<br/>Eduardo Pansica (artist)
 | aliases        = Batwing
 | species        = Human
 | homeworld      = Earth
@@ -16,61 +16,58 @@
 | partners       = [[Batman]]
 | supports       =
 | powers         = Master martial artist<br />Flight via suit's wings<br />Arsenal of weapons and high-tech gadgets<br />Skilled detective
-
 <!--Series section-->
-|title               = Batwing
-|cvr_image           = Batwing01.jpg
-|cvr_caption         = Cover for ''Batwing'' #1 (September 2011).<br>Art by [[Ben Oliver]] & Brian Reber
-|cvr_alt             =
-|schedule            = Monthly
-|format              =
-|limited             =
-|ongoing             = Y
-|1shot               =
-|Superhero           = y
-|pub_series          =
-|date                = September 2011 – August 2014
-|1stishhead          =
-|1stishyr            =  
-|1stishmo            = 
-|endishyr            =  
-|endishmo            = 
-|1stishhead#         =
-|1stishyr#           =
-|1stishmo#           =
-|endishyr#           =
-|endishmo#           =
-|issues              = 34
-|main_char_team      =
-|writers             = {{collapsible list|[[Judd Winick]] (#1–14)<br>[[Fabian Nicieza]] (#15–18)<br>[[Jimmy Palmiotti]] and [[Justin Gray]] (#19–34) }}
-|artists             = 
-|pencillers          = {{collapsible list|[[Ben Oliver]] (#1–3, 5–6)<br> [[ChrisCross]] (#4)<br>[[Dustin Nguyen (artist)|Dustin Nguyen]] (#7–8)<br>[[Marcus To]] (#9–14) <br> Fabrizio Fiorentino (#15–18)<br>Eduardo Pansica (#19–34) }}
-|inkers              = {{collapsible list| Derek Fridolfs <br> Ryan Winn <br> Julio Ferreira }}
-|letterers           =
-|colorists           = {{collapsible list| Brian Reber <br> Pete Pantazis <br> [[Paul Mounts]] }}
-|editors             =
-|creative_team_month =
-|creative_team_year  =
-|creators_series     =
-|TPB                 =
-|ISBN                =
-|nonUS               =
-
+| title               = Batwing
+| cvr_image           = Batwing01.jpg
+| cvr_caption         = Cover for ''Batwing'' #1 (September [[2011 in comics|2011]]).<br>Art by [[Ben Oliver]] & Brian Reber
+| cvr_alt             =
+| schedule            = Monthly
+| format              =
+| limited             =
+| ongoing             = Y
+| 1shot               =
+| Superhero           = y
+| pub_series          =
+| date                = September [[2011 in comics|2011]] – August [[2014 in comics|2014]]
+| 1stishhead          =
+| 1stishyr            =  
+| 1stishmo            = 
+| endishyr            =  
+| endishmo            = 
+| 1stishhead#         =
+| 1stishyr#           =
+| 1stishmo#           =
+| endishyr#           =
+| endishmo#           =
+| issues              = 34
+| main_char_team      =
+| writers             = {{collapsible list|[[Judd Winick]] (#1–14)<br>[[Fabian Nicieza]] (#15–18)<br>[[Jimmy Palmiotti]] and [[Justin Gray]] (#19–34) }}
+| artists             = 
+| pencillers          = {{collapsible list|[[Ben Oliver]] (#1–3, 5–6)<br>[[ChrisCross]] (#4)<br>[[Dustin Nguyen (artist)|Dustin Nguyen]] (#7–8)<br>[[Marcus To]] (#9–14)<br>Fabrizio Fiorentino (#15–18)<br>Eduardo Pansica (#19–34)}}
+| inkers              = {{collapsible list|Derek Fridolfs|Ryan Winn|Julio Ferreira}}
+| letterers           =
+| colorists           = {{collapsible list|Brian Reber|Pete Pantazis|[[Paul Mounts]]}}
+| editors             =
+| creative_team_month =
+| creative_team_year  =
+| creators_series     =
+| TPB                 =
+| ISBN                =
+| nonUS               =
 <!--Categories-->
-| cat            = super
-| subcat         = DC Comics
-| hero           = y
-| villain        =
-| sortkey        = Batwing
+| cat     = super
+| subcat  = DC Comics
+| hero    = y
+| villain =
+| sortkey = Batwing
 }}
+'''Batwing''' is a [[superhero]] appearing in [[American comic books]] published by [[DC Comics]]. Within DC Comics internal continuity, Batwing is one of several superheroes patterned after the famous superhero [[Batman]]. Batwing, in particular, was conceived by Batman as his crime-fighting counterpart overseas, 'the '''Batman of Africa''''.
 
-'''Batwing''' is a [[superhero]] appearing in [[American comic books]] published by [[DC Comics]]. Within DC Comics internal continuity, Batwing is one of several superheroes patterned after the famous superhero [[Batman]]. Batwing, in particular, was conceived by Batman as his crime-fighting counterpart overseas, 'the Batman of Africa'.
-
-The first Batwing is David Zavimbe, a [[Democratic Republic of the Congo|Congolese]] police officer, created by writer [[Grant Morrison]] within the pages of ''[[Batman Incorporated]]'' prior to receiving his own [[eponym]]ous series. Following later events within ''Batman Incorporated'' and ''Batwing'', Zavimbe is replaced in the role by Luke Fox, an American mixed martial artist who had been Batman's first choice in the role, who is also the son of Batman's close associate [[Lucius Fox]].
+The first Batwing is '''David Zavimbe''', a [[Democratic Republic of the Congo|Congolese]] police officer, created by writer [[Grant Morrison]] within the pages of ''[[Batman Incorporated]]'' prior to receiving his own [[eponym]]ous series. Following later events within ''Batman Incorporated'' and ''Batwing'', Zavimbe is replaced in the role by '''Luke Fox''', an American mixed martial artist who had been Batman's first choice in the role, who is also the son of Batman's close associate [[Lucius Fox]].
 
 Batwing faces a roster of adversaries ranging from international super villains to the Democratic Republic of Congo's corrupt police force. ''Batwing'' expands the DC Universe by taking place in Africa, making David Zavimbe both the first (in continuity) black Batman and one of the few characters headlining a series outside the United States.
 
-Luke Fox appears in the [[Arrowverse]] TV series ''[[Batwoman (TV series)|Batwoman]]'' as part of the main cast, portrayed by Camrus Johnson. He takes on the mantle of Batwing at the end of the second season.
+Luke Fox appears in the [[Arrowverse]] TV series ''[[Batwoman (TV series)|Batwoman]]'' as part of the main cast, portrayed by Camrus Johnson. He takes on the mantle of Batwing at the end of the [[Batwoman (season 2)|second season]].
 
 ==Publication history==
 The character proper appears first in "Batman of Africa", in ''Batman Incorporated'' #5 (May 2011), written by Grant Morrison.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=35}}</ref> He was designed by [[Chris Burnham]],<ref>{{cite web|first=Chris |last=Sims |url=http://www.comicsalliance.com/2011/05/12/batwing-batman-of-africa-exclusive |title=Introducing Batwing, The New Batman Based in Africa [Exclusive] |publisher=[[Comics Alliance]] |date=May 12, 2011 |access-date=September 9, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110912120450/http://www.comicsalliance.com/2011/05/12/batwing-batman-of-africa-exclusive/ |archive-date=September 12, 2011 }}</ref> but was first drawn by [[Yanick Paquette]].

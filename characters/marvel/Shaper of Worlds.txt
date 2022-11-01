@@ -1,7 +1,7 @@
 {{Short description|Fictional character}}
 {{All plot|date=February 2011}}
 {{Infobox comics character
-| image          = Shaper of Worlds profile from the Official Handbook of the Marvel Universe Master Edition Volume 1 (1991).webp
+| image          = 
 | caption        = 
 | character_name = The Shaper of Worlds
 | publisher      = Marvel Comics

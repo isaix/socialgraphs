@@ -16,14 +16,11 @@
 |alliances = {{plainlist|
 * [[Justice League]]
 * [[List of government agencies in DC Comics#D.M.A.|Department of Metahuman Affairs]]
-* [[Justice League Dark]]
-* [[Justice League Task Force (comics)|Justice League Task Force]]
-* [[Justice League Europe]]
 }}
 |homeworld = [[Themyscira (DC Comics)|Themyscira]]
 |species = {{plainlist|
-* [[Amazons (DC Comics)|Amazon]] (human)
-* [[Amazons (DC Comics)|Amazon]] (human) / [[Olympian Gods (DC Comics)|Olympian demigoddess]] <small>(2011–present)</small>
+* [[Amazons (DC Comics)|Amazon]]
+* [[Amazons (DC Comics)|Amazon]]-[[Olympian Gods (DC Comics)|Olympian demigoddess]] <small>(2011–present)</small>
  }}
 |partners = {{plainlist|
 * [[Wonder Girl]] (various)
@@ -39,10 +36,11 @@
  | titlestyle = background:transparent;text-align:left;font-weight:normal;
  |title = ''See list''
  |
-*Superhuman strength, speed, stamina, durability and intelligence
+* Superhuman strength, speed, stamina and durability 
 * Immortality
+* Regenerative healing factor
 * [[Flight]]
-* Multilingualism
+* Master martial artist and hand-to-hand combatant
 * Using [[Lasso of Truth]], [[Wonder Woman's bracelets|indestructible bracelet]]s, projectile tiara, sword, shield, and invisible jet
  }}
 |cat = super
@@ -67,7 +65,7 @@ The character is an archetypical figure in popular culture recognised around the
 {{Main|Publication history of Wonder Woman}}
 
 ===Creation===
-In an October 1940 interview with the ''Family Circle'' magazine, [[William Moulton Marston]] discussed the unfulfilled potential of the comic book medium.<ref>{{cite web|last=Lyons|first=Charles|title=Suffering Sappho! A Look at the Creator & Creation of Wonder Woman|url=http://www.comicbookresources.com/?page=article&id=7921|website=[[Comic Book Resources]]|date=August 23, 2006|access-date=August 23, 2006|quote=In October 1940, the popular women's magazine "Family Circle" published an interview with Marston entitled "Don't Laugh at the Comics," in which the psychologist discussed the unfulfilled potential of the medium.|archive-url=https://archive.today/2013.01.19-165128/http://www.comicbookresources.com/?page=article&id=7921|archive-date=January 19, 2013|url-status=live|df=mdy-all}}</ref> This article caught the attention of comics publisher [[Max Gaines]], who hired Marston as an educational consultant for National Periodicals and [[All-American Publications]], two of the companies that would merge to form [[DC Comics]].<ref>{{cite web|last=Lyons|first=Charles|title=Suffering Sappho! A Look at the Creator & Creation of Wonder Woman|url=http://www.comicbookresources.com/?page=article&id=7921|website=Comic Book Resources|date=August 23, 2006|access-date=August 23, 2006|quote=Maxwell Charles Gaines, then publisher of All-American Comics, saw the interview and offered Marston a job as an educational consultant to All-American and sister company DC Comics.|archive-url=https://archive.today/2013.01.19-165128/http://www.comicbookresources.com/?page=article&id=7921|archive-date=January 19, 2013|url-status=live|df=mdy-all}}</ref> At that time, Marston wanted to create his own new superhero; Marston's wife and fellow psychologist [[Elizabeth Holloway Marston|Elizabeth]] suggested to him that it should be a woman:<ref name="Bostonia">{{cite web | last=Lamb | first=Marguerite | date=Fall 2001 | url=http://www.bu.edu/alumni/bostonia/2001/fall/wonderwoman/ | archive-url=https://web.archive.org/web/20071208045132/http://www.bu.edu/alumni/bostonia/2001/fall/wonderwoman/| archive-date=December 8, 2007 | title=Who Was Wonder Woman? | work=Bostonia }}</ref>
+In an October 1940 interview with the ''Family Circle'' magazine, [[William Moulton Marston]] discussed the unfulfilled potential of the comic book medium.<ref>{{cite web|last=Lyons|first=Charles|title=Suffering Sappho! A Look at the Creator & Creation of Wonder Woman|url=http://www.comicbookresources.com/?page=article&id=7921|website=[[Comic Book Resources]]|date=August 23, 2006|access-date=August 23, 2006|quote=In October 1940, the popular women's magazine "Family Circle" published an interview with Marston entitled "Don't Laugh at the Comics," in which the psychologist discussed the unfulfilled potential of the medium.|archive-url=https://web.archive.org/web/20080420133117/http://www.comicbookresources.com/?page=article&id=7921|archive-date=April 20, 2008|url-status=bot: unknown|df=mdy-all}}</ref> This article caught the attention of comics publisher [[Max Gaines]], who hired Marston as an educational consultant for National Periodicals and [[All-American Publications]], two of the companies that would merge to form [[DC Comics]].<ref>{{cite web|last=Lyons|first=Charles|title=Suffering Sappho! A Look at the Creator & Creation of Wonder Woman|url=http://www.comicbookresources.com/?page=article&id=7921|website=Comic Book Resources|date=August 23, 2006|access-date=August 23, 2006|quote=Maxwell Charles Gaines, then publisher of All-American Comics, saw the interview and offered Marston a job as an educational consultant to All-American and sister company DC Comics.|archive-url=https://web.archive.org/web/20080420133117/http://www.comicbookresources.com/?page=article&id=7921|archive-date=April 20, 2008|url-status=bot: unknown|df=mdy-all}}</ref> At that time, Marston wanted to create his own new superhero; Marston's wife and fellow psychologist [[Elizabeth Holloway Marston|Elizabeth]] suggested to him that it should be a woman:<ref name="Bostonia">{{cite web | last=Lamb | first=Marguerite | date=Fall 2001 | url=http://www.bu.edu/alumni/bostonia/2001/fall/wonderwoman/ | archive-url=https://web.archive.org/web/20071208045132/http://www.bu.edu/alumni/bostonia/2001/fall/wonderwoman/| archive-date=December 8, 2007 | title=Who Was Wonder Woman? | work=Bostonia }}</ref>
 
 {{quote|William Moulton Marston, a psychologist already famous for inventing the [[polygraph]], struck upon an idea for a new kind of superhero, one who would triumph not with fists or firepower, but with love. "Fine," said Elizabeth. "But make her a woman."}}
 
@@ -194,7 +192,7 @@ In the Silver Age, Wonder Woman's history received several changes. Her earlier 
 
 ====Bronze Age====
 {{main|Bronze Age of Comic Books}}
-In ''Wonder Woman'' #204, Diana's magical powers and costume were returned to her and she is once again reinstated as Wonder Woman.<ref name="Guion"/> I-Ching is killed by a crazy sniper in the same issue.<ref>{{cite web| last= Cronin| first= Brian| title= Diana Prince – Forgotten Classic| url= http://snarkfree.blogspot.in/2005/04/diana-prince-forgotten-classic.html| publisher= Snark Free Waters| access-date= April 23, 2005| quote= Sadly, though, in the last issue of the run, I-Ching was murdered and Wonder Woman was given amnesia. When the Amazons returned her memories (and her powers), they left out her memories of her experiences as just plain "Diana Prince."| archive-url= https://web.archive.org/web/20140810224523/http://snarkfree.blogspot.in/2005/04/diana-prince-forgotten-classic.html| archive-date= August 10, 2014| url-status= live| df= mdy-all}}</ref> Later, Diana meets her sister [[Nubia (comics)|Nubia]], who is Hippolyta's daughter fashioned out of dark clay (hence Nubia's dark complexion).<ref name="Jones, Jr. article&id=24229">{{cite web|last=Jones, Jr.|first=Robert|title=Wonder of Wonders|url=http://www.comicbookresources.com/?page=article&id=24229|website=Comic Book Resources|access-date=December 31, 2009|archive-url=https://web.archive.org/web/20100116064649/http://comicbookresources.com/?page=article&id=24229|archive-date=January 16, 2010|url-status=live|df=mdy-all}}</ref><ref name="Strickland">{{cite web|last=Strickland|first=Carol|title=The Illustrated Nubia Index|url=http://www.carolastrickland.com/comics/wwcentral/misc_indexes/nubia/nubia.html|publisher=Carol A. Strickland|access-date=January 26, 2009|archive-url=https://web.archive.org/web/20090106132824/http://www.carolastrickland.com/comics/wwcentral/misc_indexes/nubia/nubia.html|archive-date=January 6, 2009|url-status=live|df=mdy-all}}</ref> Nubia claimed to be the "Wonder Woman of The Floating Island", and she challenges Diana to a duel which ends in a draw.<ref name="Strickland"/> Returning to her home, Nubia would have further adventures involving Diana.<ref name="Jones, Jr. article&id=24229"/>
+In ''Wonder Woman'' #204, Diana's magical powers and costume were returned to her and she is once again reinstated as Wonder Woman.<ref name="Guion"/> I-Ching is killed by a crazy sniper in the same issue.<ref>{{cite web| last= Cronin| first= Brian| title= Diana Prince – Forgotten Classic| url= http://snarkfree.blogspot.in/2005/04/diana-prince-forgotten-classic.html| publisher= Snark Free Waters| access-date= April 23, 2005| quote= Sadly, though, in the last issue of the run, I-Ching was murdered and Wonder Woman was given amnesia. When the Amazons returned her memories (and her powers), they left out her memories of her experiences as just plain "Diana Prince."| archive-url= https://web.archive.org/web/20140810224523/http://snarkfree.blogspot.in/2005/04/diana-prince-forgotten-classic.html| archive-date= August 10, 2014| url-status= live| df= mdy-all}}</ref> Later, Diana meets her sister [[Nubia (comics)|Nubia]], who is Hippolyta's daughter fashioned out of dark clay (hence Nubia's dark complexion).<ref name="Jones, Jr. article&id=24229">{{cite web|last=Jones|first=Robert Jr.|title=Wonder of Wonders|url=http://www.comicbookresources.com/?page=article&id=24229|website=Comic Book Resources|access-date=December 31, 2009|archive-url=https://web.archive.org/web/20100116064649/http://comicbookresources.com/?page=article&id=24229|archive-date=January 16, 2010|url-status=live|df=mdy-all}}</ref><ref name="Strickland">{{cite web|last=Strickland|first=Carol|title=The Illustrated Nubia Index|url=http://www.carolastrickland.com/comics/wwcentral/misc_indexes/nubia/nubia.html|publisher=Carol A. Strickland|access-date=January 26, 2009|archive-url=https://web.archive.org/web/20090106132824/http://www.carolastrickland.com/comics/wwcentral/misc_indexes/nubia/nubia.html|archive-date=January 6, 2009|url-status=live|df=mdy-all}}</ref> Nubia claimed to be the "Wonder Woman of The Floating Island", and she challenges Diana to a duel which ends in a draw.<ref name="Strickland"/> Returning to her home, Nubia would have further adventures involving Diana.<ref name="Jones, Jr. article&id=24229"/>
 
 The last issue of Volume 1 showed Diana and Steve Trevor announce their love for each other and their subsequent marriage.<ref>{{Cite comic | writer =Gerry Conway | artist =Don Heck | story =Of Gods And Men | title = Wonder Woman | volume = | issue =#329 | date = February 1986 | publisher =DC Comics}}</ref><ref>{{cite news|last=Mozzocco |first=J. Caleb |title=The Many Loves of Wonder Woman: A Brief History Of The Amazing Amazon's Love Life |url=http://www.comicsalliance.com/2012/08/28/the-many-loves-of-wonder-woman-steve-trevor-nemesis-batman-superman-romance/ |work=ComicsAlliance |access-date=August 28, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120830054351/http://www.comicsalliance.com/2012/08/28/the-many-loves-of-wonder-woman-steve-trevor-nemesis-batman-superman-romance/ |archive-date=August 30, 2012 |df=mdy-all }}</ref>
 
@@ -261,6 +259,15 @@ Following the events of the Darkseid War, Wonder Woman is told by the dying Myri
 The "Lies" story arc runs parallel with and explores Diana's search. No longer able to get into Mount Olympus, Diana tracks down Barbara Ann Minerva, the Cheetah, to get help.<ref>''Wonder Woman: Rebirth'' #1 (2016). DC Comics.</ref><ref>''Wonder Woman'' (vol. 5) #1 (2016). DC Comics.</ref>
 
 In the "[[Watchmen]]" sequel "[[Doomsday Clock (comics)|Doomsday Clock]]," Doctor Poison attended the meeting established by the Riddler and mentioned a rumor that Wonder Woman was forcefully dragged back to Themyscira by her fellow Amazons.<ref>''Doomsday Clock'' #6. DC Comics.</ref> Wonder Woman comes out of hiding to address the United Nations, hoping to defuse the metahuman arms race. However, the summit is interrupted by Black Adam, the Creeper, and Giganta, who take advantage of the absence of most of Earth's superheroes to attack the UN at the time when the superheroes were confronting [[Doctor Manhattan]] on Mars.<ref>''Doomsday Clock'' #9. DC Comics.</ref>
+
+== Other versions == 
+
+=== Wonder Woman EARTH -2 ===
+Diana, Princess of the Amazons of Earth-Two, was born on the mystical Paradise Island several hundred years before[citation needed] becoming known as Wonder Woman. Isolated from the cruelty and corruption of men, the Amazons lived and worked in peace and obeyed the will of Aphrodite and Athena. Longing for a child of her own, Hippolyta (Queen of the Amazons) begged the gods to grant her request and turn her clay statue into a real girl. In sympathy, Aphrodite relented and animated the statue; the girl leaped off the pedestal into her mother's arms. Hyppolyta named her for the moon goddess, Diana (who became her godmother).
+
+Hippolyta raised her daughter as an Amazon, with the privileges of royalty. Diana aged slowly, stopping aging when reaching adulthood (as did all Amazons). She surpassed most of her Amazon sisters in skills and intelligence, running faster than a deer at age five and easily uprooting a tree at three.
+
+Diana was a contented Amazon until Captain Steve Trevor crash-landed on Paradise Island. Although she had never seen a man before, Diana was attracted to him (despite his injuries). Violating the island rule against taking in outsiders, Diana brought the unconscious Trevor back to the Amazons in an attempt to save his life. In response to her pleas, Hippolyta used the healing Purple Ray on Trevor and saved his life.
 
 == Abilities ==
 ===Powers and training===
@@ -541,6 +548,7 @@ Wonder Woman's [[BDSM|sexual and bondage themes]] in her earliest days were not 
 [[Category:Fictional characters with eidetic memory]]
 [[Category:Fictional characters with immortality]]
 [[Category:Fictional characters with slowed ageing]] 
+[[Category:Fictional characters with superhuman durability or invulnerability]]
 [[Category:Fictional characters with superhuman senses]]
 [[Category:Fictional characters with electric or magnetic abilities]]
 [[Category:Fictional deicides]]<!--Ares, God of War and half-brother-->

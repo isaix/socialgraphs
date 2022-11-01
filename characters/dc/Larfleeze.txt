@@ -10,7 +10,7 @@
 | alter_ego      = Agent Orange
 | full_name      = 
 | species        = <!-- optional -->
-| homeworld      = '''Ogatoo'''
+| homeworld      = '''[[List of DC Universe locations#Planetary systems|Ogatoo]]'''
 | alliances      = [[Orange Lantern Corps]]
 | partners       = 
 | supports       = <!-- optional -->
@@ -168,6 +168,7 @@ In a possible future, when Nekron launches a new assault on the universe, rapidl
 {{Reflist|30em}}
 
 {{Green Lantern}}
+{{Justice League characters}}
 
 [[Category:Comics characters introduced in 2008]]
 [[Category:DC Comics aliens]]

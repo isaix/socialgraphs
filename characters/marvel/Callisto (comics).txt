@@ -9,9 +9,10 @@
 | debut = ''The Uncanny X-Men'' #169 (May 1983)
 | creators = [[Chris Claremont]] (writer)<br />[[Paul Smith (comics)|Paul Smith]] (artist)
 | alliances = {{Plain list | 
-* [[Excalibur (comics)|Genoshan Excalibur]]
 * [[Morlocks (comics)|Morlocks]]
+* [[Excalibur (comics)|Genoshan Excalibur]]
 * [[Gene Nation]]
+* [[Marauders (comic book)|Marauders]]
 }}
 | aliases =
 | powers = * Superhuman senses

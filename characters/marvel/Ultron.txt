@@ -14,7 +14,7 @@
 |powers= 
 *[[Artificial intelligence]] with genius-level intellect
 *Abilities via robotic body vary but generally include:
-**[[Superhuman strength]], speed, agility and durability
+**[[Superhuman strength]], speed, and durability
 **Flight
 **Energy blasts
 }}
@@ -137,12 +137,12 @@ In the 2021 "[[Heroes Reborn (2021 comic)|Heroes Reborn]]" reality, Ultron was s
 ==In other media==
 ===Television===
 [[File:Ultron (The Avengers. Earth’s Mightiest Heroes).jpg|thumb|Ultron as seen in ''[[The Avengers: Earth's Mightiest Heroes]]'']]
-* Ultron appears in ''[[The Avengers: United They Stand]]'' animated series, voiced by [[John Stocker (voice actor)|John Stocker]].
+* Ultron appears in ''[[The Avengers: United They Stand]]'', voiced by [[John Stocker (voice actor)|John Stocker]].
 * Ultron makes a non-speaking cameo appearance in ''[[The Super Hero Squad Show]]'' animated series.
-* Ultron appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' animated series, with Ultron-5 / Ultron-6 voiced by [[Tom Kane]],<ref name="btva"/> and Ultron Sentries voiced by [[Wally Wingert]].<ref name="btva" />
-* Ultron appears in the anime series ''[[Marvel Disk Wars: The Avengers]]'' voiced by [[Takumi Yamazaki]] in Japanese and by [[Grant George]] in English.<ref name="btva" />
-* Ultron appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series,<ref>{{Cite web|url=https://www.cbr.com/the-wacker-factor-marvel-animation-and-ultimate-spider-man-web-warriors/|title=The Wacker Factor - Marvel Animation and "Ultimate Spider-Man: Web Warriors"|date=Aug 22, 2014|website=CBR}}</ref> voiced by [[Jim Meskimen]] (via [[Arsenal (Marvel Comics)|Arsenal]] and channeling the [[Scientist Supreme]]),<ref>{{cite episode|title=Thanos Triumphant|series-link=Avengers Assemble (TV series)|series=Avengers Assemble|network=Disney XD|season=2|number=13|airdate=March 1, 2015}}</ref> [[David Kaye (voice actor)|David Kaye]] (via robotic spider drone),<ref name="Crack in the System">{{cite episode|title=Crack in the System|series-link=Avengers Assemble (TV series)|series=Avengers Assemble|network=Disney XD|season=2|number=14|airdate=April 12, 2015}}</ref> [[Fred Tatasciore]] (as [[Doctor Spectrum]]'s replica),<ref name="Spectrums">{{cite episode|title=Spectrums|series-link=Avengers Assemble (TV series)|series=Avengers Assemble|network=Disney XD|season=2|number=21|airdate=July 12, 2015}}</ref> and [[William Salyers]] (in his "'''[[Truman Marsh]]'''" disguise).<ref name="U-Foes">{{cite episode|title=U-Foes|series-link=Avengers Assemble (TV series)|series=Avengers: Ultron Revolution|network=Disney XD|season=3|number=20|airdate=November 6, 2016}}</ref> 
-* Ultron appears in the animated special ''[[Lego Marvel Super Heroes: Avengers Reassembled]]'', voiced again by Jim Meskimen.<ref>{{cite episode |title=Lego Marvel Super Heroes: Avengers Reassembled | series = Lego Marvel Super Heroes | series-link=Lego Super Heroes | work = Disney XD | at=Closing credits | date = November 16, 2015}}</ref>
+* Ultron appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', with Ultron-5 / Ultron-6 voiced by [[Tom Kane]],<ref name="btva"/> and Ultron Sentries voiced by [[Wally Wingert]].<ref name="btva" />
+* Ultron appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Takumi Yamazaki]] in Japanese and [[Grant George]] in English.<ref name="btva" />
+* Ultron appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series,<ref>{{Cite web|url=https://www.cbr.com/the-wacker-factor-marvel-animation-and-ultimate-spider-man-web-warriors/|title=The Wacker Factor - Marvel Animation and "Ultimate Spider-Man: Web Warriors"|date=Aug 22, 2014|website=CBR}}</ref> with his true self voiced by [[Fred Tatasciore]],<ref name="Spectrums">{{cite episode|title=Spectrums|series=Avengers Assemble|network=Disney XD|season=2|number=21|airdate=July 12, 2015}}</ref> and other forms voiced by [[Jim Meskimen]] (via [[Arsenal (Marvel Comics)|Arsenal]] and channeling the [[Scientist Supreme]], as well as via the [[Super-Adaptoid]], his Crimson Cowl facade and the [[Destroyer (Thor)|Destroyer]]),<ref>{{cite episode|title=Thanos Triumphant|series=Avengers Assemble|network=Disney XD|season=2|number=13|airdate=March 1, 2015}}</ref> [[David Kaye (voice actor)|David Kaye]] (via a giant drone, controlling the [[Iron Legion]], and fusion with the [[Vision (Marvel Comics)|Vision]]),<ref name="Crack in the System">{{cite episode|title=Crack in the System|series=Avengers Assemble|network=Disney XD|season=2|number=14|airdate=April 12, 2015}}</ref> and [[William Salyers]] (in his "'''[[Truman Marsh]]'''" disguise).<ref name="U-Foes">{{cite episode|title=U-Foes|series=Avengers: Ultron Revolution|network=Disney XD|season=3|number=20|airdate=November 6, 2016}}</ref> 
+* Ultron appears in ''[[Lego Marvel Super Heroes: Avengers Reassembled]]'', voiced again by Jim Meskimen.<ref>{{cite episode |title=Lego Marvel Super Heroes: Avengers Reassembled | series = Lego Marvel Super Heroes | series-link=Lego Super Heroes | work = Disney XD | at=Closing credits | date = November 16, 2015}}</ref>
 
 ===Film===
 Ultron appears in ''[[Marvel Animated Features|Next Avengers: Heroes of Tomorrow]]'', voiced by [[Tom Kane]].<ref name="btva"/> 
@@ -198,6 +198,7 @@ Stories often end in Ultron's apparent destruction, only for the character to be
 [[Category:Characters created by Roy Thomas]]
 [[Category:Comics characters introduced in 1968]]
 [[Category:Fictional artificial intelligences]]
+[[Category:Fictional mad scientists]]
 [[Category:Fictional mass murderers]]
 [[Category:Fictional roboticists]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]

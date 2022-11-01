@@ -6,12 +6,12 @@
 | franchise = [[Marvel Cinematic Universe]]
 | image = Ming-Na Wen as Melinda May.jpg
 | caption = Ming-Na Wen as Melinda May in a promotional image for [[Agents of S.H.I.E.L.D. (season 4)|season four]]
-| first_date = September 24, 2013
 | first_minor = [[Pilot (Agents of S.H.I.E.L.D.)|Pilot]]
-| first_major = [[Agents of S.H.I.E.L.D.]]
 | last_minor = [[What We're Fighting For]]
-| last_major = Agents of S.H.I.E.L.D.
+| first_date = September 24, 2013
 | last_date = August 12, 2020
+| first_major = [[Agents of S.H.I.E.L.D.]]
+| last_major = Agents of S.H.I.E.L.D.
 | creator = {{Plainlist|
 * [[Joss Whedon]]
 * [[Jed Whedon]]

@@ -10,9 +10,8 @@
 |creators=[[Arnold Drake]]<br />[[Bruno Premiani]]
 |alliances=[[Doom Patrol]]
 |aliases=
-|powers=*Size control and alteration
-*Ability to shrink, grow, stretch, or lengthen her body at will
-*Regeneration
+|powers=*Size-shifting
+*[[Regeneration (biology)|Regeneration]]
 *[[Elasticity (physics)|Elasticity]]}}
 '''Elasti-Girl''' (also known as '''Elasti-Woman''') is a [[superheroine]] appearing in [[American comic books]] published by [[DC Comics]], primarily as a member of the [[Doom Patrol]].<ref name="dc-ency">{{Cite book | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Elasti-Girl | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 113 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref> Created by writer [[Arnold Drake]] and artist [[Bruno Premiani]], the character first appeared in ''[[My Greatest Adventure]]'' #80 (June 1963).
 
@@ -47,7 +46,7 @@ Rita makes a cameo in issue #50 of the 2006-07 series ''[[52 (comics)|52]]''. Sh
 ''Infinite Crisis'' ultimately retconned Byrne's reboot out of continuity.
 
 ===One Year Later===
-Following the "[[One Year Later]]" storyline, the Doom Patrol changes considerably, losing several members and gaining [[Beast Boy]], [[Bumblebee (comics)|Bumblebee]] and [[Mal Duncan|Vox]].<ref>''[[Teen Titans#Teen Titans (vol. 3, 2003 - present)|Teen Titans]]'' (vol. 3) #36 (July 2006)</ref>
+Following the "[[One Year Later]]" storyline, the Doom Patrol changes considerably, losing several members and gaining [[Beast Boy]], [[Bumblebee (DC Comics)|Bumblebee]] and [[Mal Duncan|Vox]].<ref>''[[Teen Titans#Teen Titans (vol. 3, 2003 - present)|Teen Titans]]'' (vol. 3) #36 (July 2006)</ref>
 
 The explanation for Rita's resurrection is that [[Chief (comics)|Chief]] salvaged a piece of Elasti-Girl's skull and used his technology to regrow her entire body due to its malleable form. Consequently, Elasti-Girl is very docile and is reluctant to question the Chief. The Chief hints that her malleable form hampers her thinking abilities, leading to her lack of personal initiative which makes her dependent upon Caulder (a.k.a. The Chief). As he observes her interaction with the Chief, [[Robin (Tim Drake)|Robin]] suspects that the Chief has brainwashed Rita and the other Patrol members. Rita's husband, [[Mento (comics)|Mento]], is under the control of his Mento-helmet and believes that his wife would never love him without it.
 
@@ -61,6 +60,9 @@ As depicted in [[John Byrne (comics)|John Byrne]]'s ''[[Doom Patrol#John Byrne's
 Because of her protoplasmic physiology, Rita can regenerate any part of her body. She can reconstruct a half-blown-off face or a torn leg and regrow severed limbs.
 
 In ''Doom Patrol'' #95 (May 1965), Elasti-Girl swaps powers with [[Negative Man]] to become Negative Girl.
+
+==Other versions==
+In ''[[Teen Titans: Earth One]]'', '''Rita Markov''' of [[STAR Labs]] is the mother of [[Tara Markov]]. <ref>''Teen Titans: Earth One'' #2</ref>
 
 ==Reception==
 Elasti-Girl was ranked 88th in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Comics" list.<ref>{{cite book| last = Frankenhoff| first = Brent| author-link = Brent Frankenhoff| title = Comics Buyer's Guide Presents: 100 Sexiest Women in Comics| publisher = [[Krause Publications]] | year = 2011| page = 55| isbn = 978-1-4402-2988-6}}</ref>
@@ -79,7 +81,7 @@ Elasti-Girl was ranked 88th in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women
 {{reflist}}
 
 ==External links==
-* [http://dc.wikia.com/wiki/Rita_Farr_(New_Earth) Elast-Girl] at DC Comics Wiki
+* [https://dc.wikia.com/wiki/Elasti-Girl Elasti-Girl] at DC Database
 * [https://comicvine.gamespot.com/elasti-girl/4005-4088/ Elasti-Girl] at Comic Vine
 
 {{Doom Patrol}}

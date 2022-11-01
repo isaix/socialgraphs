@@ -13,21 +13,26 @@
 |species = [[Eternals (comics)|Eternal]]
 |homeworld = <!-- optional -->
 |alliances =
-|aliases = Hephaestus, Vulcan, Phillip Stoss
+|aliases = Hephaestus<br>Vulcan<br>Ceasefire<br>Phillip Stoss
 |supports=<!--optional-->
-|powers = Eternal body grant superhuman speed, strength, durability and regeneration<br>Cosmic energy manipulation<br>Flight<br>Illusion generation<br>Matter transmutation<br>Teleporation
+|powers = *Eternal physiology granting superhuman speed, strength, durability, and immortality
+*Cosmic energy manipulation
+*Matter transmutation
+*Illusion generation
+*Teleportation
+*Flight
 |cat=super
 |subcat=Marvel Comics
 |sortkey=Phastos
 }}
 
-'''Phastos''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Eternals (comics)|The Eternals]]'' (vol. 2) #1 (October 1985). He is a member of the [[Eternals (comics)|Eternals]], a human offshoot race in the [[Marvel Universe]].
+'''Phastos''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Peter B. Gillis]] and [[Sal Buscema]], the character first appeared in ''[[Eternals (comics)|The Eternals]]'' (vol. 2) #1 (October 1985). He is a member of the [[Eternals (comics)|Eternals]], a human offshoot race in the [[Marvel Universe]].
 
 [[Brian Tyree Henry]] portrays Phastos in the [[Marvel Cinematic Universe]] film ''[[Eternals (film)|Eternals]]'' (2021).
 
 ==Publication history==
 {{Expand section|date=July 2019}}
-Phastos first appeared in ''[[Eternals (comics)|The Eternals]]'' (vol. 2) #1 (October 1985), created by writer [[Peter B. Gillis]] and artist [[Sal Buscema]].
+Phastos first appeared in ''[[Eternals (comics)|The Eternals]]'' (vol. 2) #1 (October 1985), created by writer [[Peter B. Gillis]] and artist [[Sal Buscema]].<ref name=":0">{{Cite news |last=Weldon |first=Glen |date=2021-10-04 |title=5 things to know about the MCU's first openly gay super-powered character |language=en |work=NPR |url=https://www.npr.org/2021/10/04/1043067672/eternals-marvel-phastos-openly-gay |access-date=2022-10-15}}</ref>
 
 ==Fictional character biography==
 Phastos's history is very murky. He is a third or fourth generation Eternal who chose to remain on Earth because of his obsessive search for an unidentified item or person.{{issue|date=July 2019}} He continues to serve as the master technologist for the Eternal race, and it was his genius which allowed [[Virako]] to return from apparent death.{{issue|date=July 2019}} Although he despises [[war]], Phastos chose to follow [[Ikaris]] into battle against the minions of [[Apocalypse (comics)|Apocalypse]].<ref>''The New Eternals: Apocalypse Now'' (February 2000)</ref>
@@ -35,11 +40,9 @@ Phastos's history is very murky. He is a third or fourth generation Eternal who 
 Phastos is shown living under the name '''Phillip Stoss''',<ref>''Eternals'' (vol. 4) #1</ref> before having his real identity revealed to him.{{issue|date=July 2019}}
 
 ==Powers and abilities==
-Phastos' Eternal body is superhumanly fast, strong, tough, and can regenerate. He can project "Cosmic Energy" in the form of beams from his eyes and hands.  His cosmic energy manipulation allows flight, illusion generation, matter transmutation, and teleportation.
+As an Eternal, Phastos has superhuman speed, strength, durability, and is immortal.<ref name=":2">{{Cite web |last=McCormick |first=Colin |date=2022-05-12 |title=The 10 Best Eternals Members, According To Ranker |url=https://screenrant.com/marvel-eternals-best-members-ranker/ |access-date=2022-10-15 |website=ScreenRant |language=en-US}}</ref><ref name=":6">{{Cite web |last=G |first=Alex |date=2020-09-09 |title=The History Of Marvel's Phastos Explained - Looper |url=https://www.looper.com/244735/the-history-of-marvels-phastos-explained/ |access-date=2022-10-15 |website=Looper.com |language=en-US}}</ref><ref name=":10">{{Cite web |date=2021-10-12 |title=7 Things to Know About 'Eternals' Phastos, the MCU's First Gay Hero |url=https://www.out.com/film/2021/10/12/7-things-know-about-eternals-phastos-mcus-first-gay-hero |access-date=2022-10-15 |website=www.out.com |language=en}}</ref><ref name=":11">{{Cite web |last=Schedeen |first=Jesse |date=2021-11-02 |title=Marvel's Eternals Powers, Origin, Cast and More Explained |url=https://www.ign.com/articles/marvel-eternals-powers-movie-cast-explained |access-date=2022-10-15 |website=IGN |language=en}}</ref> He can project "Cosmic Energy" in the form of beams from his eyes and hands.<ref name=":2" /><ref name=":4">{{Cite web |last=Bruce |first=Amanda |date=2021-11-27 |title=Eternals: 10 Things Only Comic Fans Know About Phastos |url=https://www.cbr.com/eternals-comics-phastos-trivia/ |access-date=2022-10-15 |website=CBR |language=en-US}}</ref><ref name=":10" /> His cosmic energy manipulation allows flight, illusion generation, matter transmutation, and teleportation.<ref name=":11" /><ref>{{Cite web |date=2019-07-31 |title=Who are the Eternals? What you need to know before Marvel's 'Eternals' |url=https://www.hypable.com/marvel-eternals-guide/ |access-date=2022-10-15 |website=Hypable |language=en-US}}</ref><ref>{{Cite web |last=Abdulbaki |first=Mae |date=2019-07-22 |title=Marvel's Eternals Movie Cast & Character Guide |url=https://screenrant.com/marvel-eternals-movie-cast-character-guide/ |access-date=2022-10-15 |website=ScreenRant |language=en-US}}</ref>
 
-Phastos carries a special hammer capable of firing bolts of an unknown energy.
-
-Phastos is also a brilliant engineer, technologist and inventor.
+Phastos carries a special hammer capable of firing bolts of an unknown energy and is a brilliant engineer, technologist and inventor.<ref name=":1">{{Cite web |last=Trumbore |first=Dave |date=2019-07-23 |title=Eternals Explained: Who Are the Characters in Marvel's New Movie? |url=https://collider.com/marvel-eternals-characters-explained/ |access-date=2022-10-15 |website=Collider |language=en-US}}</ref><ref name=":4" /><ref name=":3">{{Cite web |last=Harth |first=David |date=2021-12-13 |title=8 Eternals Who Can Defeat Thanos In The Comics |url=https://www.cbr.com/eternals-defeat-thanos-comics/ |access-date=2022-10-15 |website=CBR |language=en-US}}</ref><ref name=":5">{{Cite web |last=Priyadarshini |first=Manisha |date=2021-05-25 |title=Marvel's Eternals: Who Is Phastos? |url=https://www.dualshockers.com/marvels-eternals-who-is-phastos/ |access-date=2022-10-15 |website=DualShockers |language=en-US}}</ref><ref>{{Cite web |title=Which Eternals Characters Are in Marvel's Eternals Movie? |url=https://comicbook.com/marvel/news/marvels-eternals-cast-characters-mcu-marvel-studios/ |access-date=2022-10-15 |website=Marvel |language=en}}</ref>
 
 ==In other media==
 ===Film===

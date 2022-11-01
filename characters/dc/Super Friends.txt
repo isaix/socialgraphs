@@ -3,7 +3,7 @@
 {{Infobox television
 | image                = Super Friends.jpg
 | caption              = 1973–1974 season title card
-| genre                = [[Superhero fiction]]
+| genre                = [[Superhero fiction|Superhero]]
 | creator              =
 | developer            = 
 | voices               = [[Danny Dark]]<br />[[Olan Soule]]<br />[[Casey Kasem]]<br />[[Shannon Farnon]]<br />[[Norman Alden]]<br />[[Sherry Alberoni]]<br />[[Frank Welker]]<br />[[Ted Knight]]<br />[[Ted Cassidy]]

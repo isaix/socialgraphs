@@ -19,12 +19,14 @@ The Paul version of Plantman first appeared in ''The Astonishing Ant-Man'' #7 an
 |caption='''Plantman'''<br> Stan Woch, Art
 |character_name=Plantman
 |real_name=Samuel Smithers
+|species=Human mutate
 |publisher=[[Marvel Comics]]
 |debut=''Strange Tales'' #113 (October, 1963)
 |creators= [[Stan Lee]]<br>[[Jerry Siegel]] (co-writers)<br>[[Dick Ayers]] (artist)
 |alliances=[[Thunderbolts (comics)|Thunderbolts]]<br/>[[Maggia (comics)|Maggia]]<br/>[[New Enforcers]]<br/>[[Lethal Legion]]
 |aliases= Blackheath
-|powers=Plant manipulation<br>Plant-based weaponry 
+|powers=*Plant manipulation
+*[[Tool|Device]] usage 
 }}
 Growing up as a poor [[London]] orphan, Samuel Smithers found refuge and work as a lab assistant with a famous [[Botany|botanist]] who was researching the intelligence of plant life. After the botanist's death, Smithers traveled to the United States, hoping to continue his mentor's work. He invents a device capable of communicating with plants. Laughed out of the scientific community when he attempts to show his findings, he only finds work as a gardener. However, a freak lightning storm strikes Smithers' plant ray-gun, allowing it to control and animate plant life. With his "Vege-ray" and a disguise as Plantman, Smithers seeks revenge on his former employers, but he is stopped by the [[Human Torch]].<ref>''Strange Tales'' #113. Marvel Comics.</ref><ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=267–268}}</ref> Plantman attempts revenge on the Human Torch which ends with Plantman's arrest.<ref>''Strange Tales'' #121. Marvel Comics.</ref> He breaks out of jail, however, and travels to the southwestern United States to grow more plants, this time with his own spliced cells. Here he had partial control, but was also sensitive to the plant's whims. When at one point he thought he had killed [[Tony Stark]], he decided to go directly for world domination, but was foiled by [[Iron Man]].
 
@@ -80,9 +82,10 @@ The Samuel Smithers version of Plantman appears in ''[[The Super Hero Squad Show
 
 ==External links==
 * [http://www.marvel.com/universe/Plantman Plantman] at Marvel.com
-* [https://marvel.fandom.com/wiki/Samuel_Smithers_(Earth-616) Plantman (Samuel Smithers)] at Marvel Wiki
-* [https://marvel.fandom.com/wiki/Plantman_(Paul)_(Earth-616) Plantman (Paul)] at Marvel Wiki
+* [https://marvel.fandom.com/wiki/Samuel_Smithers_(Earth-616) Plantman (Samuel Smithers)] at Marvel Database
+* [https://marvel.fandom.com/wiki/Plantman_(Paul)_(Earth-616) Plantman (Paul)] at Marvel Database
 * {{Marvunapp|http://www.marvunapp.com/Appendix4/plantmansmithers.htm|Plantman}}
+* [https://www.writeups.org/plantman-marvel-comics/ Plantman] at Writeups.org
 
 {{Defenders}}
 {{Thunderbolts}}

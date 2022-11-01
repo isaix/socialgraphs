@@ -126,7 +126,7 @@ Zendaya has received numerous nominations and awards for her portrayal of MJ.
 | [[2019 Teen Choice Awards|Teen Choice Awards]]
 | Choice Summer Movie Actress
 | {{won}}
-| style="text-align: center;" |<ref>{{cite web|author=<!-- Billboard Staff -->|url=https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list|title=Here Are All the Winners From the 2019 Teen Choice Awards|work=[[Billboard (magazine)|Billboard]]|date=August 11, 2019|access-date=September 27, 2022|url-status=live|archive-url=https://web.archive.org/web/20190812042754/https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list|archive-date=August 12, 2019}}</ref>
+| style="text-align: center;" |<ref>{{cite magazine|author=<!-- Billboard Staff -->|url=https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list|title=Here Are All the Winners From the 2019 Teen Choice Awards|magazine=[[Billboard (magazine)|Billboard]]|date=August 11, 2019|access-date=September 27, 2022|url-status=live|archive-url=https://web.archive.org/web/20190812042754/https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list|archive-date=August 12, 2019}}</ref>
 |-
 | [[45th Saturn Awards|Saturn Awards]]
 | [[Saturn Award for Best Supporting Actress|Best Supporting Actress]]
@@ -210,3 +210,4 @@ A skin based on Zendaya's portrayal of MJ was added to ''[[Fortnite Battle Royal
 [[Category:Teenage characters in film]]
 [[Category:Fictional Massachusetts Institute of Technology people]]
 [[Category:Fictional high school students]]
+[[Category:Casting controversies in film]]

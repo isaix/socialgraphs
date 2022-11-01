@@ -62,7 +62,7 @@ When Flex uses his power, his "Hero Halo", a shimmering projection of the words 
 
 ==References==
 {{Refbegin}}
-* {{cite journal |last=Brooker |first=Will |date=June 2011 |title=Hero of the beach: Flex Mentallo at the end of the worlds |journal=Journal of Graphic Novels & Comics |volume=2 |issue=#1 | pages=25–37 |url=http://eprints.kingston.ac.uk/24054/ |doi=10.1080/21504857.2011.578406}}
+* {{cite journal |last=Brooker |first=Will |date=June 2011 |title=Hero of the beach: Flex Mentallo at the end of the worlds |journal=Journal of Graphic Novels & Comics |volume=2 |issue=#1 | pages=25–37 |url=http://eprints.kingston.ac.uk/24054/ |doi=10.1080/21504857.2011.578406|s2cid=194954361 }}
 {{Refend}}
 
 ==External links==

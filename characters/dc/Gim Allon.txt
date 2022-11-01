@@ -11,8 +11,14 @@
 |species = [[Metahuman]]
 |homeworld = [[Earth]] (31st century)
 |alliances=[[Legion of Super-Heroes]]<br>[[Science Police]]
-|aliases=Leviathan, Micro Lad
-|powers='''As Colossal Boy and Leviathan''':<br>Expand his body to giant size<br>Superhuman strength and mass<br>'''As Micro Lad''':<br>Shrink size of his body
+|aliases=Leviathan<br/> Micro Lad
+|powers='''(As Colossal Boy & Leviathan)''': 
+*Size enhancement
+*[[Superhuman strength]] and durability
+'''(As Micro Lad)''':
+*Size reduction
+'''(All)''':
+*[[Flight]] via ring
 |}}
 '''Gim Allon''', also known as '''Colossal Boy''', '''Leviathan''', and '''Micro Lad''', is a [[fictional character|fictional]] comic book superhero appearing in books published by [[DC Comics]]. Created by writer [[Jerry Siegel]] and artist [[Jim Mooney]], the character first appeared in ''[[Action Comics]]'' #267 (August 1960), and is a member of the 30th and 31st century superhero team, the [[Legion of Super-Heroes]].
 
@@ -47,10 +53,10 @@ The events of the ''[[Infinite Crisis]]'' miniseries have apparently restored a 
 In the "[[Watchmen]]" sequel "[[Doomsday Clock (comics)|Doomsday Clock]]", Colossal Boy is among the Legion of Super-Heroes members that appear in the present after [[Doctor Manhattan]] undid the experiment that erased the Legion of Super-Heroes and the [[Justice Society of America]].<ref>''Doomsday Clock'' #12 (December 2019). DC Comics.</ref>
 
 ==Powers and abilities==
-As Colossal Boy or Leviathan, Gim Allon could increase his size to many times the height of a human, with proportionate increases in strength and mass. In the 2004 version of Legion of Super-Heroes, the character comes from a race of humans that are giant-sized normally, and he possesses the power to shrink; the smallest size he can reach is 6 feet (183 centimeters) tall.
+As Colossal Boy or Leviathan, Gim Allon has the ability to increase his size into many times normal [[height]], with strength proportionate in [[mass]].<ref>''Who's Who in the Legion of Super-Heroes'' Vol 1 #1 (April 1988)</ref> In the 2004 version of Legion of Super-Heroes, Micro Lad comes from a race of humans that are giant-sized normally and he possesses the power to shrink.<ref>''Legion of Super-Heroes'' Vol 8 #8 (October 2020)</ref> The smallest size he can reach is 6 feet (183 centimeters) tall.
 
 ==Equipment==
-As a member of the [[Legion of Super-Heroes]] he is provided a Legion Flight Ring. It allows him to fly and protects him from the vacuum of space and other dangerous environments. [[Brainiac 5]] modified his ring so it will enlarge with him, allowing it to support the additional mass.
+As a member of the [[Legion of Super-Heroes]], he is provided with his own Legion Flight Ring. It allows him to fly and protects him from the vacuum of space and other dangerous environments. [[Brainiac 5]] modified his ring so it will enlarge with him, allowing it to support the additional mass.
 
 ==In other media==
 * Colossal Boy made a cameo in the ''[[Justice League Unlimited]]'' episode "Far From Home".
@@ -58,6 +64,10 @@ As a member of the [[Legion of Super-Heroes]] he is provided a Legion Flight Rin
 
 ==References==
 {{Reflist}}
+==External links==
+*[https://dc.fandom.com/Colossal_Boy Colossal Boy] at DC Database
+*[https://comicvine.gamespot.com/colossal-boy/4005-1271/ Colossal Boy] at Comic Vine
+*[https://www.writeups.org/colossal-boy-lsh-legion-super-heroes-dc-comics/ Colossal Boy] at Writeups.org
 
 {{Legion of Super-Heroes}}
 {{Superman characters}}

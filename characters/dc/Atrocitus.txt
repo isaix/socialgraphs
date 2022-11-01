@@ -8,7 +8,7 @@
 |publisher      = [[DC Comics]]
 |debut          = '''First appearance:'''<br />''[[Green Lantern (comic book)|Green Lantern]]'' vol. 4 #25 (December 2007)<br />'''Chronological first appearance:'''<br />''Green Lantern'' vol. 4 #29 (May 2008)
 |creators       = [[Geoff Johns]]<br />[[Ethan Van Sciver]]
-|homeworld      = Ryut
+|homeworld      = [[List of DC Universe locations#Planetary systems|Ryut]]
 |species        = 
 |alliances      = [[Red Lantern Corps]]<br/>The Five Inversions<br />The Empire of Tears
 |powers         = '''[[Power ring (weapon)#Red|Red Power Ring]]'''
@@ -147,3 +147,4 @@ In the alternate timeline of the "[[Flashpoint (comics)|Flashpoint]]" storyline,
 [[Category:Characters created by Geoff Johns]]
 [[Category:Characters created by Ethan Van Sciver]]
 [[Category:Vigilante characters in comics]]
+[[Category:Green Lantern characters]]

@@ -15,14 +15,12 @@
 |alliances = [[Legion of Super-Heroes#Original continuity (1958–1994)|Legion of Super-Heroes]]
 |partners  = <!-- optional -->
 |supports  = <!-- optional -->
-|aliases   =  Brainiac 5.1, B-5, Brainy
+|aliases   =  Brainiac 5.1<br/> B-5<br/> Brainy
 |powers = 
 *12th-level Intellect
-*Indomitable will
-*Tactical analysis
 *Mechanical aptitude
-*[[Force field (fiction)|Force field]] generation via belt
-*Flight via ring
+*[[Force field (fiction)|Force field]] via belt
+*[[Flight]] via ring
 |cat = superheroes
 |subcat = DC Comics
 |hero = y
@@ -43,7 +41,7 @@ Brainiac 5 is a green-skinned, blond-haired teenage [[Coluan]] of the planet Col
 
 As time went on, Brainiac 5 began to be portrayed as unstable. Long attracted to [[Supergirl]], Brainiac 5 created a robot duplicate of her in his sleep, convincing himself this was the real Supergirl.<ref>''Superboy'' #204 (September–October 1974)</ref> A few years the Legion encountered Pulsar Stargrave, a villain who convinced Brainiac 5 that he was the Coluan's long-lost father.<ref>''Superboy'' #224 (February 1977)</ref> Brainiac 5 joined Stargrave to battle the sorcerer [[Mordru]], but the android's influence would haunt him long after that. It was claimed in ''Superboy'' #225 that Stargrave was actually the original Brainiac android, but the truth of this is uncertain.
 
-When Stargrave murders [[Ultra Boy]]'s ex-girlfriend An Ryd, Brainiac 5 frames Ultra Boy for the murder. [[Chameleon Boy]], who suspected Brainiac 5 from the beginning, finds proof when Brainiac's madness leads him to an attempt to destroy the universe using the [[Miracle Machine]], a device that turns thoughts into reality. He is stopped by [[Matter-Eater Lad]], who eats the machine, and both are committed to a mental institution (the energies of the Machine having driven Matter-Eater Lad insane). Brainiac 5 eventually recovers his sanity and rejoins the group. Shortly afterward, however, he is accused of having murdered Ultra Boy's ex-girlfriend himself. To prove his innocence, he finds Stargrave and defeats him. He later manages to cure [[Matter-Eater Lad]]'s insanity. Around this time, he corrects another of his mistakes by finding a way of controlling Computo.
+When Stargrave murders [[Ultra Boy]]'s ex-girlfriend An Ryd, Brainiac 5 frames Ultra Boy for the murder. [[Chameleon Boy]], who suspected Brainiac 5 from the beginning, finds proof when Brainiac's madness leads him to an attempt to destroy the universe using the Miracle Machine, a device that turns thoughts into reality. He is stopped by [[Matter-Eater Lad]], who eats the machine, and both are committed to a mental institution (the energies of the Machine having driven Matter-Eater Lad insane). Brainiac 5 eventually recovers his sanity and rejoins the group. Shortly afterward, however, he is accused of having murdered Ultra Boy's ex-girlfriend himself. To prove his innocence, he finds Stargrave and defeats him. He later manages to cure [[Matter-Eater Lad]]'s insanity. Around this time, he corrects another of his mistakes by finding a way of controlling Computo.
 
 ====''Crisis on Infinite Earths''====
 {{Main|Crisis on Infinite Earths}}
@@ -115,18 +113,18 @@ A younger Brainiac 5 appears briefly during ''Justice League'' vol. 3 (2017) by 
 In the "[[Watchmen]]" sequel "[[Doomsday Clock (comics)|Doomsday Clock]]," Brainiac 5 is among the Legion of Super-Heroes members that appear in the present after [[Doctor Manhattan]] undid the experiment that erased the Legion of Super-Heroes and the [[Justice Society of America]].<ref>''Doomsday Clock'' #12 (December 2019). DC Comics.</ref>
 
 ==Powers and abilities==
-Brainiac 5 possesses a twelfth level intellect which grants him superhuman calculation skills, amazing memory and exceptional technical knowledge. By comparison, the 20th century Earth as whole constitutes a sixth level intellect, and most of his fellow Coluans have an eighth level intellect. The 31st century Earth as whole is a ninth level intellect. His incredible memory allows him to retain the knowledge of events that all others forget, such as their first meeting with three different Legions.<ref>''Legion of Three Worlds'' #3 (April 2009)</ref>
+Brainiac 5 possesses a twelfth level intelligence which grants him superhuman calculation skills, [[Eidetic memory|amazing memory]] and exceptional technical knowledge. By comparison, the 20th century Earth as whole constitutes a sixth level intelligence, and most of his fellow Coluans have an eighth level intelligence. The 31st century Earth as whole as is a ninth level intelligence. His memory allows him to retain the knowledge of events that all others forget, such as their first meeting with three different Legions.<ref>''Legion of Three Worlds'' #3 (April 2009)</ref>
 
-The Post-''Zero Hour'' version of Brainiac 5 was shown in several issues to be able to ponder twelve lines of thought simultaneously.<ref>''Legion of Super-Heroes'' #107 (Aug. 1998)</ref> When a renegade Titanian read his mind, she discovered that his subconscious — usually more active and chaotic part of the mind — was less active than twelve simultaneous conscious thoughts.  Whether any other version of Brainiac also exhibits this trait remains to be seen.<ref name="OriginsP-ZH"/>
+The Post-''Zero Hour'' version of Brainiac 5 was shown in several issues to be able to ponder twelve lines of thought simultaneously.<ref>''Legion of Super-Heroes'' #107 (Aug. 1998)</ref> When a renegade Titanian read his mind, she discovered that his subconscious — usually more active and [[Chaos (cosmogony)|chaotic]] part of the mind — was less active than twelve simultaneous conscious thoughts.  Whether any other version of Brainiac also exhibits this trait remains to be seen.<ref name="OriginsP-ZH"/>
 
 ===Equipment===
-Since Brainiac 5 processes a super intelligent mind, he built numerous devices to aid himself and his fellow Legionnaires in their missions. His primary role has been always that of a scientist. One of his most important inventions is the Legion Flight Ring, which it had significant roles in over these various adventures.<ref>''Legion of Super-Heroes'' #267 (September 1980)</ref> Another invention, which has proved invaluable to him, is a [[Force field (fiction)|force field]] belt which has remained his main method for self-defense in cases where he found himself battle in every version of the Legion.{{Citation needed|date=July 2010}}
+Since Brainiac 5 processes a [[superhuman]] intelligent mind, he built numerous devices to aid himself and his fellow Legionnaires in their missions. His primary role have always been that of a scientist. The Legion Flight Ring is one of his most important inventions, which it had significant roles in over these various adventures.<ref>''Legion of Super-Heroes'' #267 (September 1980)</ref> Another invention, a force field belt, that proves useful to him and remained his main method for self-defense in cases where he found himself battle in every version of the Legion.<ref>''Adventure Comics'' Vol 1 #334(July 1965)</ref>
 
-In recent issues of ''The Legion of Super Heroes'', Brainiac 5's force field belt, one of his signature inventions, has now been relegated to one of the predecessors of the title, with Brainiac 5 calling the invention an irreplaceable piece of his family history. {{Citation needed|date=July 2012}}
+In recent issues of ''The Legion of Super Heroes'', Brainiac 5's signature invention, the force field belt, was now being called as an irreplaceable piece of his family history by Brainiac 5 himself.<ref>''Legion of Super-Heroes'' Vol 2 #273 (March 1981)</ref>
 
-In various storylines, another invention of his has been the super-computer C.O.M.P.U.T.O. This machine has been included in most versions of the Legion, but always reworked in a storyline to suit the situation required. Brainiac 5 modified his "Time Sphere" into the "Time Bubble". With it, he travels through time and send or bring other DC characters to or from the 31st century. Other methods of travel have included these devices, such as the development on Threshold technology{{Issue|date=November 2008}} and a wormhole-conduit teleporter.{{Issue|date=November 2008}}
+In various storylines, another invention of his is the super-computer C.O.M.P.U.T.O. This machine had been included in most versions of the Legion, but always reworked in a storyline to suit the situation required for. Brainiac 5 modified his "Time Sphere" into the "Time Bubble". And with it, he can [[Time travel|travel through time]] to send or bring other DC characters to or from the 31st century. Other methods of space travel have included these devices, such as the development on Threshold technology<ref>''Legion of Super-Heroes'' Vol 4 #104 (May 1998)</ref> and a wormhole-conduit teleporter.<ref>''Legion Lost'' Vol 1 #1-12 (May 2000-April 2001)</ref>
 
-Not all of Brainiac 5's inventions have proved useful to the Legion. Both versions of C.O.M.P.U.T.O. each proved to be among his worst mistakes. While not a product of his own research but rather stolen data, Brainiac 5.1 also managed to create [[Bizarro]] versions of many Legion members.{{Issue|date=November 2008}}
+Not all of Brainiac 5's inventions have proved useful to the Legion. Both versions of C.O.M.P.U.T.O. each proved to be among his worst mistakes. While not a product of his own research but rather stolen data, Brainiac 5 also managed to create [[Bizarro]] versions of many Legion members.<ref>''Legion of Super-Heroes'' Vol 1 #114-115 (March-April 1999)</ref>
 
 ==In other media==
 ===Television===
@@ -156,8 +154,9 @@ Not all of Brainiac 5's inventions have proved useful to the Legion. Both versio
 {{reflist|30em}}
 
 ==External links==
-* [http://jameskeeley777.wixsite.com/legion/brainiac-5 BRAINIAC 5 at the LEGION Collection]
-* {{comicbookdb|type=character|id=553|title=Brainiac 5}}
+* [https://dc.fandom.com/wiki/Brainiac_5 Brainiac 5] at DC Database
+* [https://comicvine.gamespot.com/brainiac-5/4005-1255/ Brainiac 5] at Comic Vine
+* [https://www.cosmicteams.com/legion/profiles/Brainiac5.html Brainiac 5] at DC Cosmic Teams!
 
 {{Legion of Super-Heroes}}
 {{Superman characters}}

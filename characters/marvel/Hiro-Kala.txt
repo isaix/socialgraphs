@@ -8,7 +8,7 @@
 |creators = [[Greg Pak]] (writer)<br>[[Ron Garney]] (artist)
 |alter_ego =
 |full_name =
-|species = Sakaaran Shadow People–Gamma Mutate hybrid
+|species = [[List of alien races in Marvel Comics#Sakaarans|Sakaaran Shadow People]]–Human Gamma-Mutate hybrid
 |homeworld = Sakaar
 |alliances = <!-- optional -->
 |partners = <!-- optional -->
@@ -89,6 +89,7 @@ His appearances have been collected into [[trade paperback (comics)|trade paperb
 [[Category:Comics characters introduced in 2008]]
 [[Category:Characters created by Greg Pak]]
 [[Category:Hulk (comics)]]
+[[Category:Fictional swordfighters in comics]]
 [[Category:Fictional twins]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics hybrids]]

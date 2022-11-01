@@ -10,7 +10,7 @@
 | debut          = ''Superior Iron Man'' #1 (2014)
 | creators       = [[Tom Taylor (writer)|Tom Taylor]]<br>[[Yıldıray Çınar]]
 | alter_ego      = Jamie Carlson
-| species        = Human mutate
+| species        = Human gamma-mutate
 | homeworld      = <!-- optional -->
 | alliances      = [[Champions (2016 team)|Champions]]<br>[[Young Avengers]]<br>[[Howling Commandos]]<br>[[S.T.A.K.E.]]
 | partners       = <!-- optional -->

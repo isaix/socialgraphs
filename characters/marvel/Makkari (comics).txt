@@ -30,7 +30,7 @@
 |subcat          = Marvel Comics
 |hero            = y
 |sortkey         = Makkari
-}}
+|species=[[Eternals (comics)|Eternal]]}}
 
 '''Makkari''', formerly known as '''[[Hurricane (comics)|Hurricane]]''' and '''Mercury''', is a [[fictional character|fictional]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a member of the [[Eternals (comics)|Eternals]], a race of [[superhumans]] in the [[Marvel Universe]]. He first appeared in the 1976–78 [[comic book]] series ''The Eternals'', where the name was spelled '''Makarri'''. He was also a member of the [[First Line (comics)|First Line]] and [[Monster Hunters]].
 

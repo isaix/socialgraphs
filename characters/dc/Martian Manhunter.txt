@@ -5,33 +5,15 @@
 | caption = Martian Manhunter in promotional art for ''[[JLA: Secret Origins]]'' (January 2013) by [[Alex Ross]]
 | character_name = Martian Manhunter
 | publisher = [[DC Comics]]
-| debut= ''[[Detective Comics]]'' #225<br />(Nov. 1955)
+| debut= ''[[Detective Comics]]'' #225<br />(November 1955)
 | creators = [[Joseph Samachson]] (writer)<br />Joe Certa (artist)
-| voiced_by = {{Collapsible list|title=[[Voice acting|Voice Actors]]
-| [[Carl Lumbly]] (2001–2015)
-| [[Dorian Harewood]] (''[[The Batman (TV series)|The Batman]]'')
-| [[Daniel Riordan]] (''[[Justice League Heroes|JLH]]'')
-| [[Miguel Ferrer]] (''[[Justice League: The New Frontier|JL:TNF]]'')
-| [[Nicholas Guest]] (''[[Batman: The Brave and the Bold|B:BATB]]'')
-| [[Jonathan Adams (American actor)|Jonathan Adams]] (''[[Justice League: Crisis on Two Earths|JL:CoTE]]'')
-| [[Kevin Michael Richardson]] (''[[Young Justice (TV series)|Young Justice]]'')
-| [[Dwight Schultz]] (''[[DC Universe Online|DCU Online]]'')
-| [[Cam Clarke]] (''[[Lego Batman 2: DC Super Heroes|LB2]]'')
-| [[Ike Amadi]] (2014–present)
-| [[Dee Bradley Baker]] (''[[Lego DC Comics Super Heroes: Justice League: Attack of the Legion of Doom|LDC:AotLoD]]'')
-| [[Crispin Freeman]] (''[[Justice League Action|JLA]]'')
-| [[Nyambi Nyambi]] (''[[The Death of Superman (film)|DoS]]/[[Reign of the Supermen (film)|RotS]]'')}}
-| [[Reginald D Hunter]] (''[[The Sandman (Radio Play)|The Sandman]]'')
 | full_name = J'onn J'onzz
 | species = [[Martian (DC Comics)|Green Martian]]
 | homeworld = [[Mars (DC Comics)|Mars]]
 | alliances = {{Plain list|
 *[[Justice League]]
-*[[Outsiders (comics)|Outsiders]]
 *[[Stormwatch (comics)|Stormwatch]]
 *[[Justice League United]]
-*[[Department of Extranormal Operations|DEO]] 
-*[[Justice League International]]
 *[[Justice League Task Force (comics)|Justice League Task Force]]
 }}
 | partners = [[Zook (comics)|Zook]]<br>[[Miss Martian]]
@@ -54,8 +36,10 @@
 * Multilingualism
 * Expert detective 
 * Shapeshifting
+* Elasticity
+* Density control
 * Invisibility
-* [[Intangibility (superpower)|Intangibility]]
+* Intangibility
 * [[Regeneration (biology)|Regeneration]]
 * Bio-fusion
 * Extended longevity
@@ -199,7 +183,7 @@ The following are enemies of the Martian Manhunter:
 * '''Robo-Chargers''' – Gigantic monstrosities which seemingly combined elements of both androids and tanks, the Robo-Chargers were designed for war and employed by the Thythen. Fueled by the life force of living beings, the Robo-Chargers were used to police the planet Vonn. Their unconscious "batteries" were hung from girders, and had their essence drained through helmets connected with networks of cable to the Robo-Chargers. The Robo-Chargers stood several stories tall, and moved through rocky terrain with great speed on tank treads. The constructs were covered in turrets called projectors, which fired blasts that could disintegrate a target. The design of their upper bodies were humanoid, complete with head, chest, arms and five-fingered hands (including opposable thumbs). The Robo-Chargers had large antennae, likely used to receive commands from the Thythen, who also bore antennae. Whether communication with the Thythen was telepathic was not made clear, but this seems most likely to have been the case with the Martians.<ref name="Worlds Finest Comics #212"/>
 * '''Thythen''' – The Thythen were warmongers, "engaged in a cosmic struggle with their neighbors". According to writing found on a tablet and translated by J'onzz within the Alien Arsenal, the Thythen invaded the planet Vonn, and preyed upon the native people there. In order to escape the Thythen, this people abandoned their world and "broadcast" themselves to a distant solar system. Three members of the Thythen, an "unholy trinity", remained on Vonn to "charge their Robo-Chargers" with the remaining inhabitants life-force. These victims included a group of Green Martians, who had survived Mars' devastation and found their way to Vonn. The Thythen camp was located in the west, where their domed headquarters and the girders that held the Robo-Chargers' "batteries" could be seen from afar. The Thythen seemed to have no compunctions about exploiting the life energies of their prisoners while treating them inhumanely. They also encouraged the traitorous Bel Juz to lure others into a trap to expand their herd. Of the three Thythen on Vonn, two were disintegrated by their own Robo-Chargers after they were taken over by the minds of the Martians. The third traveled from Vonn in the Alien Arsenal before being defeated by Superman. How this Thythen was managed afterward is unknown.<ref name="Worlds Finest Comics #212">''World's Finest Comics'' #212</ref>
 * '''TOR''' – The ghost of a robot criminal from Mars. Martian scientists, among them J'onzz, constructed a nigh indestructible robot of vast strength and intellect to serve their planet "forever". J'onzz was apprehensive about the result, and rightly so, when a fellow scientist accidentally fed a master criminal thought-control card into the TOR control board. TOR's mechanical brain quickly absorbed its crime facts via a remote electronic connection, and the robot began to function as a violent criminal. TOR proceeded to ravage Mars, its appetite for material possessions and the general rule implacable. Unable to reason with TOR or damage it with Martian weapons, J'onzz devised a plan to use the robot's greed against it. TOR was lured onto a rocket ship with the false rumor of riches within, and blasted off to the dead planet of Turas. There it discovered that the solar dust on the planet would slowly destroy even its impressive being. Through unknown means, TOR eventually learned of J'onzz's own exile to Earth. TOR spent months developing machines that would allow it to mentally control an Earthling, as well as somehow make the host immune to harm. TOR succeeded in taking control of the gangster Marty Kirk, just 24 hours before TOR's fated destruction, and set upon a campaign of revenge. Despite TOR's best efforts in Kirk's body, J'onzz managed to elude the robot until its remaining 24 hours were nearly up. TOR made a last-ditch effort to ruin J'onzz by revealing his presence to his adopted world, but J'onzz set a fire that led to TOR's exorcism from Kirk.<ref>''Detective Comics'' #243 (May 1957)</ref>
-* '''[[Vulture (DC Comics)|VULTURE]]''' – An international crime syndicate whom J'onzz infiltrated for sometime before finally destroying them.
+* '''[[Vulture (DC Comics)|VULTURE]]''' – An international crime syndicate whom J'onzz infiltrated for some time before finally destroying them.
 * '''The [[White Martian]]s''' – A warlike offshoot of the Martian race. They are a polar-dwelling race, and enemies of the desert-dwelling Green Martians.
 * '''The Yellow Martians''' – Another offshoot of the Martian race about which nothing is currently known.
 
@@ -338,7 +322,6 @@ There have been few pastiches and parodies of and homages to the character due t
 
 ==Toys==
 {{expand section|date=July 2020}}
-
 * Martian Manhunter was a figure for Mattel's DC Multiverse line of figures based on his CW incarnation.
 * Martian Manhunter had an action figure based on his Young Justice incarnation that was a part of Mattel's DC multiverse line of figures.
 
@@ -414,6 +397,7 @@ Some of his appearances have been collected into [[trade paperback (comics)|trad
 [[Category:Fictional characters with X-ray vision]]
 [[Category:Fictional characters with fire or heat abilities]] 
 [[Category:Fictional characters with slowed ageing]]
+[[Category:Fictional characters with superhuman durability or invulnerability]]
 [[Category:Fictional Martians]]
 [[Category:Twin characters in comics]] 
 [[Category:Fictional illusionists]]

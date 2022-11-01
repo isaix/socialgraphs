@@ -12,7 +12,7 @@
 | alter_ego      = Nura Nal
 | full_name      = 
 | species        = [[List of alien races in DC Comics#Naltorians|Naltorian]]
-| homeworld      = Naltor
+| homeworld      = [[List of DC Universe locations#Planets and moons which exist during the era of the Legion of Super-Heroes|Naltor]]
 | alliances      = [[Legion of Super-Heroes]]<br/>[[Legion of Substitute Heroes]]
 | partners       = <!-- optional -->
 | supports       = <!-- optional -->

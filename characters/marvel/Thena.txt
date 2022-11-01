@@ -10,16 +10,17 @@
 |debut          = '''As Minerva:'''<br>''[[Red Raven Comics]]'' #1 (August 1940)<br>'''As Thena:'''<br>''[[Eternals (comics)|The Eternals]]'' #5 (November 1976)<br>'''As Corona:'''<br>''New Eternals: Apocalypse Now'' #1 (February 2000)
 |creators       = Martin A. Burnstein<br>[[Jack Kirby]]
 |alliances      = Eternals<br>[[Heroes for Hire]]<br>[[Stark International]]
-|aliases = Thena Eliot, [[Athena (comics)|Athena]], Zura, Betty Sue Bialovsky, [[Prime Eternal]]
-|powers         = *Superhuman speed, strength, durability, and regeneration
-*Energy blasts
-*Flight
-*Illusion generation
+|aliases = Thena Eliot<br>[[Athena (comics)|Athena]]<br>Zura<br>Betty Sue Bialovsky<br>[[Prime Eternal]]
+|powers         = *Superhuman speed, strength, durability, stamina, agility, and reflexes
+*Regenerative healing factor
 *Matter transmutation
+*Illusion generation
+*Energy blasts
+*Teleportation
 *Mind control
 *Telekinesis
 *Telepathy
-*Teleportation
+*Flight
 |cat            = super
 |subcat         = Marvel Comics
 |hero           = y
@@ -80,14 +81,14 @@ Thena wears body armor of unknown composition. She carries a bow that fires arro
 
 ==Other versions==
 === MC2 ===
-In [[A-Next|Avengers-Next]] issue #2, It is revealed that Thor had a daughter in the alternate timeline, who is also called [[Thena (MC2)|Thena]], and possesses her father's storm god powers.{{issue|date=July 2019}}
+In [[A-Next|Avengers-Next]] issue #2, It is revealed that Thor had a daughter in the alternate timeline, who is also called [[Thena (MC2)|Thena]], and possesses her father's storm god powers.<ref>''Avengers Next'' #2-[[Avengers Next Vol 1 5|5]]</ref>
 
 ==In other media==
 ===Television===
 * Thena appears in ''Marvel Knights: Eternals'', voiced by [[Lisa Ann Beley]].<ref name="btva">{{cite web|url=http://www.behindthevoiceactors.com/tv-shows/Eternals/Thena-Elliot/|title=Voice Of Thena Elliot - Eternals| work=Behind The Voice Actors|access-date=July 22, 2019| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref>
 
 ===Film===
-* Thena appears in ''[[Eternals (film)|Eternals]]'', portrayed by [[Angelina Jolie]].<ref>{{cite web|url=https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|title=‘The Eternals’ Details Unveiled At Marvel's Comic-Con Panel, Angelina Jolie Surprises Hall H; Pic To Open November 2020|last1=D'Alessandro|first1=Anthony|last2=Ramos|first2=Dino-Ray|website=[[Deadline Hollywood|Deadline]]|date=July 21, 2019|archive-url=https://web.archive.org/web/20190722033323/https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|archive-date=July 22, 2019|url-status=live}}</ref> This version suffers from "Mahd Wy'ry", a condition which the Eternals believe to be the result of accumulating so many memories over their centuries-long lives. They later discover that it is the result of an unsuccessful mind-wipe, which is performed on every Eternal after completing a mission. She has a close bond with [[Gilgamesh (Marvel Cinematic Universe)|Gilgamesh]] and faces off against Kro.
+* Thena appears in ''[[Eternals (film)|Eternals]]'', portrayed by [[Angelina Jolie]].<ref>{{cite web|url=https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|title='The Eternals' Details Unveiled At Marvel's Comic-Con Panel, Angelina Jolie Surprises Hall H; Pic To Open November 2020|last1=D'Alessandro|first1=Anthony|last2=Ramos|first2=Dino-Ray|website=[[Deadline Hollywood|Deadline]]|date=July 21, 2019|archive-url=https://web.archive.org/web/20190722033323/https://deadline.com/2019/07/the-eternals-details-unveiled-at-marvels-comic-con-panel-angelina-jolie-surprises-hall-h-pic-opening-nov-2020-1202649881/|archive-date=July 22, 2019|url-status=live}}</ref> This version suffers from "Mahd Wy'ry", a condition which the Eternals believe to be the result of accumulating so many memories over their centuries-long lives. They later discover that it is the result of an unsuccessful mind-wipe, which is performed on every Eternal after completing a mission. She has a close bond with [[Gilgamesh (Marvel Cinematic Universe)|Gilgamesh]] and faces off against Kro.
 
 === Video games ===
 * Thena appears as an unlockable playable character in ''[[Marvel Super War]]''.{{r|Thena Marvel Super War}}

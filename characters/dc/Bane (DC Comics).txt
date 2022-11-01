@@ -1,23 +1,17 @@
 {{For|other characters given this name, as well as other uses|Bane (disambiguation){{!}}Bane}}
 {{short description|Fictional character in the DC Comics universe, a supervillain}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|character_name= Bane
-|image= Bane Batman Vol 3 18.png
-|converted=y
-|caption= Textless cover of ''[[Batman (comic book)|Batman]]'' vol. 3 #18 (May&nbsp;2017), art by [[David Finch (comics)|David Finch]] and Danny Miki
-|real_name=
-|publisher= [[DC Comics]]
-|debut= ''Batman: Vengeance of Bane'' #1 (January 1993)
-|creators= [[Chuck Dixon]] (writer)<br>[[Graham Nolan]] (artist)
+|Dixon]] (writer)<br>[[Graham Nolan]] (artist)
 |species=[[Metahuman]]
 |alliances= [[Suicide Squad]]<br>[[Secret Society of Super Villains]]<br>[[Secret Six (comics)|Secret Six]]<br>[[League of Assassins]]<br/>[[Legion of Doom]]
 |aliases= 
 |powers=
-* Genius-level [[Military tactics|tactician]]
+* Genius-level intellect
+* Master [[Military tactics|tactician]]
 * Skilled [[hand-to-hand combat]]ant and [[Martial arts|martial artist]]
 * [[Superhuman strength]] and physical attributes via the [[drug]] Venom
 }}
-'''Bane''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book|American]] [[comic book]]s published by [[DC Comics]]. Created by writer [[Chuck Dixon]] and artist [[Graham Nolan]], he made his debut in ''Batman: Vengeance of Bane'' #1 (January 1993). Bane is usually depicted as a dangerous adversary of the [[superhero]] [[Batman]], and belongs to the collective of enemies that make up the [[List of Batman Family adversaries|''Batman'' rogues gallery]]. Possessing a mix of brute strength and exceptional intelligence, Bane is often credited as the only villain to have "broken the bat"; defeating him both physically and mentally.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=239}}</ref> He is a son of another of Batman's enemies, [[King Snake]]. 
+'''Bane''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book|American]] [[comic book]]s published by [[DC Comics]]. Created by writer [[Chuck Dixon]] and artist [[Graham Nolan]], he made his debut in ''Batman: Vengeance of Bane'' #1 (January 1993). Bane is usually depicted as a dangerous adversary of the [[superhero]] [[Batman]], and belongs to the collective of enemies that make up the [[List of Batman Family adversaries|Batman’s rogues gallery]]. Possessing a mix of brute strength and exceptional intelligence, Bane is often credited as the only villain to have "broken the bat"; defeating him both physically and mentally.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=239}}</ref> He is a son of another of Batman's enemies, [[King Snake]]. 
 
 [[Robert Swenson]] portrayed Bane in the 1997 film ''[[Batman & Robin (film)|Batman & Robin]]'', while [[Tom Hardy]] played him in the 2012 film ''[[The Dark Knight Rises]]''. Bane was also played by [[Shane West]] in the [[Gotham (season 5)|final season]] of the FOX television series ''[[Gotham (TV series)|Gotham]]''. [[IGN]]'s list of the Top 100 Comic Book Villains of All Time ranked Bane as #34.<ref>{{cite web|title=Top 100 Comic Book Villains #34: Bane|url=https://www.ign.com/lists/top-100-comic-book-villains/34archive-url=https://web.archive.org/web/20101213183349/http://comics.ign.com/top-100-villains/34.html|archive-url=https://www.ign.com/lists/top-100-comic-book-villains/34archive-url=https://web.archive.org/web/20101213183349/http://comics.ign.com/top-100-villains/34.html|url-status=dead|archive-date=13 December 2010|access-date=December 29, 2010|publisher=IGN}}</ref>
 
@@ -368,6 +362,7 @@ Bane appears in the 2017 series ''[[Batman: White Knight]]''. Bane, along with s
 [[Category:Fictional drug addicts]]
 [[Category:Fictional drug dealers]]
 [[Category:Male film villains]]
+[[Category:Fictional English people]]
 [[Category:Fictional Latin American people]]
 [[Category:Fictional mass murderers]]
 [[Category:Fictional mercenaries in comics]]

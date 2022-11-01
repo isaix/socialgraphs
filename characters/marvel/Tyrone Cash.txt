@@ -4,7 +4,7 @@
 | caption =
 | character_name = Tyrone Cash
 | real_name = Leonard Williams
-|species = Human mutate
+|species = Human gamma-mutate
 | publisher = [[Marvel Comics]]
 | debut = ''[[Ultimate Comics: Avengers]]'' Vol. 2 #1 (April 2010)
 | creators = [[Mark Millar]]<br>[[Leinil Francis Yu]]

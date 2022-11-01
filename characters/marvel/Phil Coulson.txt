@@ -10,7 +10,7 @@
 | creator            = {{ubl|[[Mark Fergus and Hawk Ostby|{{ubl|Mark Fergus|Hawk Ostby}}]]|[[Art Marcum and Matt Holloway|{{ubl|Art Marcum|Matt Holloway}}]]}}
 | portrayer          = [[Clark Gregg]]
 | full_name          = Phillip J. Coulson<ref>{{Cite web |url=https://www.avclub.com/agents-of-s-h-i-e-l-d-s-fifth-season-ends-with-a-moving-1826121879 |title=Agents Of S.H.I.E.L.D.'s fifth season ends with a moving goodbye |last=McLevy |first=Alex |date=May 18, 2018 |website=[[The A.V. Club]] |access-date=May 21, 2022}}</ref>
-| significant_others = [[Audrey Nathan]]<br>[[Rosalind Price]]<br>[[Melinda May]] 
+| significant_others = [[Audrey Nathan]]<br>Camilla Reyes<br>[[Rosalind Price]]<br>[[Melinda May]] 
 | species            = {{Plainlist|
 * Human
 * [[Life Model Decoy#Television|Life Model Decoy]]

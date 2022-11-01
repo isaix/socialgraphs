@@ -9,7 +9,7 @@
 | alter_ego = Tinya Wazzo<br/>Linnya Wazzo
 | full_name =
 | species = [[List of alien races in DC Comics#Bgztlians|Bgztlian]]
-| homeworld = Bgztl (4th dimension parallel with [[Earth]])
+| homeworld = [[List of DC Universe locations#Planets and moons which exist during the era of the Legion of Super-Heroes|Bgztl]] (4th dimension parallel with [[Earth]])
 | alliances = [[Legion of Super-Heroes]]<br/>[[L.E.G.I.O.N.]]<br/>[[Justice League]]<br/>Terrifics
 | aliases =Phase, Apparition
 | supports=<!--optional-->

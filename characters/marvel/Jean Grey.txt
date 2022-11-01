@@ -24,18 +24,31 @@
 * [[Quiet Council of Krakoa]]
 }}
 | aliases =  Jean Grey-Summers<br/>[[Marvel Girl]]<br/>[[Phoenix Force (comics)|Phoenix]]<br/>Dark Phoenix<br/>White Phoenix of the Crown & Redd Dayspring
-| powers = *[[Empathy]]
-*[[Psychokinesis|Telekinesis]]
-*[[Telepathy]]
-*Psychic siphoning
-*Psychic energy synthesis
+| powers = *[[Empathy]]:
+**Control over the emotions, feelings, and sensations
+**Alteration over the emotions, feelings, and sensations
+**Manipulation over the emotions, feelings, and sensations
+*[[Telepathy]]:
+**Mind link
+**Mind control
+**Memory alteration
+**Telepathic shield
+**Telepathic illusions
+**Telepathic camouflage
+*[[Telekinesis]]:
+**Force field
 **Telekinetic weapons
-*As the [[Phoenix Force (comics)|Phoenix Force]]'s avatar, Jean's own powers are magnified: 
-**Cosmic fire creation and manipulation
+*Psychokinesis:
+**Psychic siphoning
+**Psychic resistance
+**Psychic energy blast
+*'''As the [[Phoenix Force (comics)|Phoenix Force]]'''
+**Cosmic fire creation
+**Cosmic fire manipulation
 **Matter manipulation on atomic level
-**Immortality
 **Resurrection
 **Teleportation
+**Immortality
 | cat = super
 | subcat = Marvel Comics
 | hero = y
@@ -44,9 +57,9 @@
 
 '''Jean Elaine Grey''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has been known under the aliases '''Marvel Girl''', '''Phoenix''' and '''Dark Phoenix'''. Created by writer [[Stan Lee]] and artist/co-plotter [[Jack Kirby]], the character first appeared in ''[[Uncanny X-Men|The X-Men]]'' #1 (Sept. 1963).
 
-Jean is a member of a subspecies of humans known as [[Mutant (Marvel Comics)|mutants]], who are born with superhuman abilities. She was born with [[Telepathy|telepathic]] and [[Psychokinesis|telekinetic]] powers. Her powers first manifested when she saw her childhood friend being hit by a car. She is a caring, nurturing figure, but she also has to deal with being an [[Omega-level mutant]] and the physical manifestation of the cosmic Phoenix Force. Jean experienced a transformation into the Phoenix in the ''X-Men'' storyline "[[The Dark Phoenix Saga]]". She has faced death numerous times in the history of the series. Her first death was under her guise as Marvel Girl, when she died and was "reborn" as Phoenix in "The Dark Phoenix Saga". This transformation led to her second death, which was suicide, though not her last. Following her debut, Jean Grey has been labelled as one of Marvel's most notable and strongest female heroes.<ref name=":2" /><ref name=":3" /><ref name=":4" /><ref name=":5" />
+Jean is a member of a subspecies of humans known as [[Mutant (Marvel Comics)|mutants]], who are born with superhuman abilities. She was born with [[Telepathy|telepathic]] and [[Psychokinesis|telekinetic]] powers. Her powers first manifested when she saw her childhood friend being hit by a car. She is a caring, nurturing figure, but she also has to deal with being an [[Omega-level mutant]] and the physical manifestation of the cosmic Phoenix Force. Jean experienced a transformation into the Phoenix in the ''X-Men'' storyline "[[The Dark Phoenix Saga]]". She has faced death numerous times in the history of the series. Her first death was under her guise as Marvel Girl, when she died and was "reborn" as Phoenix in "The Dark Phoenix Saga". This transformation led to her second death, which was suicide, though not her last. She is also an important figure in the lives of other [[Marvel Universe]] characters, mostly the [[X-Men]], including her husband [[Cyclops (Marvel Comics)|Cyclops]], her mentor and father figure [[Professor X|Charles Xavier]], her unrequited love interest [[Wolverine (character)|Wolverine]], her best friend and sister-like figure [[Storm (Marvel Comics)|Storm]], and her genetic children [[Rachel Summers]], [[Cable (comics)|Cable]], [[Stryfe]] and [[Nate Grey|X-Man]].
 
-She is also an important figure in the lives of other [[Marvel Universe]] characters, mostly the [[X-Men]], including her husband [[Cyclops (Marvel Comics)|Cyclops]], her mentor and father figure [[Professor X|Charles Xavier]], her unrequited love interest [[Wolverine (character)|Wolverine]], her best friend and sister-like figure [[Storm (Marvel Comics)|Storm]], and her genetic children [[Rachel Summers]], [[Cable (comics)|Cable]], [[Stryfe]] and [[Nate Grey|X-Man]]. 
+Following her debut, Jean Grey has been labelled as one of Marvel's most notable and strongest female heroes.<ref name=":2" /><ref name=":3" /><ref name=":8">{{Cite web |title=Looking For A Role Model? These 195+ Marvel Female Characters Are Truly Heroic |url=https://www.scarymommy.com/marvel-female-characters |access-date=2022-11-01 |website=Scary Mommy |language=en}}</ref><ref name=":4">{{Cite web |last=Garcia |first=Mayra |date=2022-03-07 |title=Marvel: The 10 Strongest Female Villains |url=https://www.cbr.com/marvel-strong-female-villains/ |access-date=2022-08-08 |website=CBR |language=en-US}}</ref><ref name=":5" /><ref name=":9">{{Cite web |last=James |first=Jordan St |date=2022-05-02 |title=10 Most Powerful Marvel Mutants |url=https://collider.com/most-powerful-marvel-mutants/ |access-date=2022-11-01 |website=Collider |language=en-US}}</ref> 
 
 [[Famke Janssen]] portrayed the character as an adult in the [[20th Century Fox]] [[X-Men (film series)|''X-Men'' films]] while [[Sophie Turner]] portrayed her as a teenager and young adult.
 
@@ -852,17 +865,24 @@ Matthew Aguilar of ''[[Comicbook.com]]'' stated, "This story is a joy from begin
 * In 2006, ''[[IGN]]'' ranked Jean Grey 6th in their "Top 25 X-Men" list.<ref name="IGNTop252">{{cite web |author=Hilary Goldstein |author2=Richard George |title=The Top 25 X-Men |url=http://www.ign.com/articles/2006/05/15/the-top-25-x-men |url-status=live |archive-url=https://web.archive.org/web/20121019205117/http://www.ign.com/articles/2006/05/15/the-top-25-x-men |archive-date=2012-10-19 |access-date=2009-05-29 |website=[[IGN]]|date=15 May 2006 }}</ref>
 * In 2011, ''[[IGN]]'' ranked Jean Grey 13th in their "Top 100 Comic Book Heroes" list.<ref>{{cite web |title=Jean Grey |url=http://ign.com/top/comic-book-heroes/13 |url-status=live |archive-url=https://web.archive.org/web/20120120165628/http://au.ign.com/top/comic-book-heroes/13 |archive-date=20 January 2012 |access-date=29 May 2015 |website=IGN}}</ref>
 * In 2011, ''[[Comics Buyer's Guide]]'' ranked Jean Grey 3rd in their "100 Sexiest Women in Comics" list.<ref>{{cite book |last=Frankenhoff |first=Brent |title=Comics Buyer's Guide Presents: 100 Sexiest Women in Comics |publisher=[[Krause Publications]] |year=2011 |isbn=978-1-4402-2988-6 |pages=8–9 |author-link=Brent Frankenhoff}}</ref>
-* In 2013, ''[[IGN]]'' ranked Jean Grey's Dark Phoenix persona 9th in their "Top 100 Comic Book Villains of All Time" list, the highest rank for a female character.<ref name="IGNTop100Villains2">{{cite web |title=Top 100 Villains |url=http://au.comics.ign.com/top-100-villains/9.html |url-status=dead |archive-url=https://web.archive.org/web/20130713135056/http://au.comics.ign.com/top-100-villains/9.html |archive-date=2013-07-13 |access-date=2013-08-19 |website=IGN}}</ref>
+* In 2013, ''[[IGN]]'' ranked Jean Grey's Dark Phoenix persona 9th in their "Top 100 Comic Book Villains of All Time" list..<ref name="IGNTop100Villains2">{{cite web |title=Top 100 Villains |url=http://au.comics.ign.com/top-100-villains/9.html |url-status=dead |archive-url=https://web.archive.org/web/20130713135056/http://au.comics.ign.com/top-100-villains/9.html |archive-date=2013-07-13 |access-date=2013-08-19 |website=IGN}}</ref>
 * In 2015, ''[[Entertainment Weekly]]'' ranked Jean Grey 30th in their "Let's rank every X-Man ever" list.<ref name=":3">{{Cite web |last1=June 09 |first1=Darren Franich Updated |last2=EDT |first2=2022 at 12:31 PM |title=Let's rank every X-Man ever |url=https://ew.com/article/2014/05/21/x-men-best-worst/ |access-date=2022-08-27 |website=EW.com |language=en}}</ref>
 * In 2017, ''[[The Daily Dot]]'' ranked Jean Grey 7th in their "top 33 female superheroes of all time" list.<ref name=":2">{{Cite web |last=Baker-Whitelaw |first=Gavia |date=2017-09-21 |title=The top 30 female superheroes of all time |url=https://www.dailydot.com/parsec/female-superheroes/ |access-date=2022-08-27 |website=The Daily Dot |language=en-US}}</ref>
-* In 2020, ''[[Screen Rant]]'' ranked Jean Grey 5th in their "25 Most Powerful Mutants" list.<ref>{{Cite web |date=2018-01-09 |title=Marvel: 25 Most Powerful Mutants, Ranked From Weakest To Strongest |url=https://screenrant.com/marvel-most-powerful-mutants-ranked-weakest-strongest/ |access-date=2022-08-08 |website=ScreenRant |language=en-US}}</ref>
+* In 2018, ''[[CBR.com]]'' ranked Jean Grey 1st in their "X-Men: The Strongest Members Of The Summers Family" list.<ref>{{Cite web |last=Thompson |first=Jonathan |date=2018-07-23 |title=X-Men: The Strongest Members Of The Summers Family, Ranked |url=https://www.cbr.com/summers-family-members-ranked/ |access-date=2022-11-01 |website=CBR |language=en-US}}</ref>
+* In 2019, ''[[Screen Rant]]'' ranked Jean Grey 1st in their "X-Men: The 10 Most Powerful Members Of The Summers Family" list.<ref>{{Cite web |last=Natividad |first=Sid |date=2019-06-09 |title=X-Men: The 10 Most Powerful Members Of The Summers Family, Ranked |url=https://screenrant.com/x-men-powerful-members-summers-family-ranked/ |access-date=2022-11-01 |website=ScreenRant |language=en-US}}</ref>
+* In 2019, ''[[Comicbook.com]]'' ranked Jean Grey 16th in their "50 Most Important Superheroes Ever" list.<ref>{{Cite web |title=Ranking The 50 Most Important Superheroes Ever |url=https://comicbook.com/movies/news/the-50-most-important-superheroes-ranked/ |access-date=2022-11-01 |website=Movies |language=en}}</ref>
+* In 2019, ''[[CBR.com]]'' ranked Jean Grey 1st in their "X-Men: All Of Marvel's Omega-Level Mutants, Ranked By Power" list.<ref>{{Cite web |last=Murray |first=Kirsten |date=2019-07-28 |title=X-Men: All Of Marvel's Omega-Level Mutants, Ranked By Power |url=https://www.cbr.com/x-men-every-omega-level-mutant-strongest-most-powerful-weakest-ranked/ |access-date=2022-11-01 |website=CBR |language=en-US}}</ref>
+* In 2020, ''[[Scary Mommy]]'' included Jean Grey in their "195+ Marvel Female Characters Are Truly Heroic" list.<ref name=":8" />
 * In 2020, ''[[Newsarama]]'' ranked Jean Grey's Dark Phoenix persona 1st in their "Marvel's best Phoenix Force hosts" list.<ref>{{Cite web |author1=Chris Arrant |date=2020-09-03 |title=Marvel's best Phoenix Force hosts: Who wore it best? |url=https://www.gamesradar.com/phoenix-force-hosts-xmen-jean-grey/ |access-date=2022-09-02 |website=gamesradar |language=en}}</ref>
+* In 2020, ''[[Screen Rant]]'' ranked Jean Grey 5th in their "25 Most Powerful Mutants" list.<ref>{{Cite web |date=2018-01-09 |title=Marvel: 25 Most Powerful Mutants, Ranked From Weakest To Strongest |url=https://screenrant.com/marvel-most-powerful-mutants-ranked-weakest-strongest/ |access-date=2022-08-08 |website=ScreenRant |language=en-US}}</ref>
+* In 2021, ''[[CBR.com]]'' ranked Jean Grey 5th in their "10 Bravest Mutants in Marvel Comics" list.<ref>{{Cite web |last=Harth |first=David |date=2021-12-05 |title=The 10 Bravest Mutants in Marvel Comics, Ranked |url=https://www.cbr.com/bravest-mutants-marvel-comics-ranked/ |access-date=2022-11-01 |website=CBR |language=en-US}}</ref>
 * In 2022, ''[[The A.V. Club]]'' ranked Jean Grey 60th in their "100 best Marvel characters" list.<ref>{{Cite web |date=2022-07-06 |title=The 100 best Marvel characters ranked: 60-41 |url=https://www.avclub.com/marvel-movie-tv-heroes-ranked-1849136246 |access-date=2022-08-08 |website=The A.V. Club |language=en-us}}</ref>
-* In 2022, ''[[Sportskeeda]]'' ranked Jean Grey 6th in their "10 most overpowered superheroes in the Marvel Universe" list, the highest rank for a female character.<ref>{{Cite web |last=Corvington |first=Joshua |title=10 most overpowered superheroes in the Marvel Universe, ranked |url=https://www.sportskeeda.com/comics/10-overpowered-superheroes-marvel-universe-ranked |access-date=2022-08-08 |website=www.sportskeeda.com |language=en-us}}</ref>
-* In 2022, ''[[CBR.com]]'' ranked Jean Grey 3rd in their "10 Strongest Female Villains" list.<ref name=":4">{{Cite web |last=Garcia |first=Mayra |date=2022-03-07 |title=Marvel: The 10 Strongest Female Villains |url=https://www.cbr.com/marvel-strong-female-villains/ |access-date=2022-08-08 |website=CBR |language=en-US}}</ref>
+* In 2022, ''[[Sportskeeda]]'' ranked Jean Grey 6th in their "10 most overpowered superheroes in the Marvel Universe" list.<ref>{{Cite web |last=Corvington |first=Joshua |title=10 most overpowered superheroes in the Marvel Universe, ranked |url=https://www.sportskeeda.com/comics/10-overpowered-superheroes-marvel-universe-ranked |access-date=2022-08-08 |website=www.sportskeeda.com |language=en-us}}</ref>
 * In 2022, ''[[/Film|Slashfilm]]'' ranked Jean Grey 1st in their "Most Powerful X-Men Characters" list.<ref>{{Cite web |last=Garza |first=Joe |date=2022-07-17 |title=The Most Powerful X-Men Characters Ranked |url=https://www.slashfilm.com/930519/the-most-powerful-x-men-characters-ranked/ |access-date=2022-08-08 |website=SlashFilm.com |language=en-US}}</ref>
 * In 2022, ''[[The Mary Sue]]'' ranked Jean Grey 1st in their "10 Most Powerful X-Men of All Time" list.<ref name=":5">{{Cite web |date=2022-07-21 |title=10 Most Powerful X-Men of All Time, Ranked |url=https://www.themarysue.com/10-most-powerful-x-men-of-all-time-ranked/ |access-date=2022-08-08 |website=The Mary Sue |language=en}}</ref>
 * In 2022, ''[[Newsarama]]'' ranked Jean Grey 5th in their "Best X-Men members of all time" list.<ref>{{Cite web |author1=George Marston |date=2022-07-18 |title=Best X-Men members of all time |url=https://www.gamesradar.com/best-x-men-members-of-all-time/ |access-date=2022-09-02 |website=gamesradar |language=en}}</ref>
+* In 2022, ''[[Collider (website)|Collider]]'' ranked Jean Grey 8th in their "10 Most Powerful Marvel Mutants" list.<ref name=":9" />
+* In 2022, ''[[CBR.com]]'' ranked Jean Grey 3rd in their "10 Strongest Female Villains" list.<ref name=":4" />
 
 == Other versions ==
 As a fictional character in the [[Marvel Universe]], Jean Grey appears in various alternate plot lines and fictional universes.
@@ -1005,7 +1025,6 @@ When Raze – the future son of Wolverine and Mystique, now trapped in the prese
 === Video games ===
 
 * Jean Grey appears a playable character in ''[[X-Men Legends]]'' (2004), ''[[X-Men Legends II: Rise of Apocalypse]]'' (2005), ''[[Marvel Ultimate Alliance 2]]'' (2009), ''[[Marvel vs Capcom 3: Fate of Two Worlds]]'' (2011), ''[[Marvel Heroes (video game)|Marvel Heroes]]'' (2013), and ''[[Lego Marvel Super Heroes]]'' (2013), ''[[Marvel Ultimate Alliance 3]]'' (2019) and appeared as a non-playable character in the first ''[[Marvel: Ultimate Alliance]]''.
-
 
 ==Collected editions==
 ===Phoenix===

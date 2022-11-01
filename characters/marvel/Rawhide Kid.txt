@@ -4,7 +4,7 @@
 | image = RawhideKid.jpg
 | caption = ''The Rawhide Kid'' (Vol. 4) #1 (June 2010)
 | publisher = [[Marvel Comics]]
-| debut = '''(first version)'''<br> ''Rawhide Kid'' #1 (March 1955)'''(second version)'''<br> ''Rawhide Kid'' #17 (August, 1960)<ref>{{cite book|title= Official Handbook of the Marvel Universe A to Z #9|isbn=9780785131069|year=2009|pages=12|publisher=Marvel Comics}}</ref>
+| debut = '''(first version)'''<br> ''Rawhide Kid'' #1 (March 1955)''' (second version)'''<br> ''Rawhide Kid'' #17 (August, 1960)<ref>{{cite book|title= Official Handbook of the Marvel Universe A to Z #9|isbn=9780785131069|year=2009|pages=12|publisher=Marvel Comics}}</ref>
 | creators = '''(first version)'''<br> [[Stan Lee]] (writer)<br>[[Bob Brown (comics)|Bob Brown]] (artist)<br>'''(second version)'''<br>Stan Lee<br>[[Jack Kirby]]
 | alter_ego = Johnny Bart
 | full_name = John Barton Clay

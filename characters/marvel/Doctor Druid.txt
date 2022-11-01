@@ -2,10 +2,10 @@
 {{Use mdy dates|date=December 2014}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | character_name = Doctor Druid
-| image = [[Image:DoctorDruidClassic.jpeg|250px]]
+| image = DoctorDruidClassic.jpeg
 | caption = Promotional image of Doctor Druid.
 | publisher = [[Marvel Comics]]
-| debut = '''As Dr. Droom:''': ''[[Amazing Adventures]]'' #1 (June 1961);''' As Dr. Druid:''' ''Weird Wonder Tales'' #19 (September 1976)
+| debut = '''As Dr. Droom:''' ''[[Amazing Adventures]]'' #1 (June 1961)<br>'''As Dr. Druid:''' ''Weird Wonder Tales'' #19 (September 1976)
 | creators = [[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
 | real_name = Anthony Ludgate Druid
 | species = [[Human]]

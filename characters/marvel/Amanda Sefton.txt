@@ -11,14 +11,19 @@
 |debut=''[[Uncanny X-Men|X-Men]]'' #98 (April 1976)
 |creators=[[Chris Claremont]]<br>[[Dave Cockrum]]
 |alliances=[[List of X-Men members#Muir Island X-Men (1989)|Muir Island X-Men]]<br/>[[Excalibur (comics)|Excalibur]]<br/>[[Avengers (comics)|Avengers]]<br/>[[X-Men]]
-|aliases=Amanda Sefton, Magik
-|powers=[[Magic (paranormal)|Magic]],<br>[[Teleportation]],<br>Illusion generation,<br>[[Shapeshifting]],<br>Force bolts,<br>[[Hypnotism]],<br>Formerly wielded the [[Soulsword]]
+|aliases=Amanda Sefton<br>Magik
+|powers=*Vast [[Magic (paranormal)|magic]] powers:
+**Illusion generation
+**[[Shapeshifting]]
+**[[Teleportation]]
+**[[Hypnotism]]
+**Force bolts
 |cat=super
 |subcat=Marvel Comics
 |hero=y
 |sortkey=Sefton, Amanda
-}}
-'''Amanda Sefton''' (real name '''Jimaine Szardos''') (also known as '''Daytripper''' and the second '''Magik''') is a [[fictional character]], a [[witch]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Her lover is Kurt Wagner, [[Nightcrawler (comics)|Nightcrawler]] of the X-Men.
+|species=Sorceress}}
+'''Amanda Sefton''' (real name '''Jimaine Szardos''') (also known as '''Daytripper''' and the second '''Magik''') is a [[fictional character]] and a [[witch]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Her lover is Kurt Wagner, [[Nightcrawler (comics)|Nightcrawler]] of the X-Men.
 
 ==Publication history==
 {{Expand section|date=November 2008}}
@@ -30,10 +35,10 @@ As Magik, Amanda had her own [[eponym]]ous, four-issue [[Limited series (comics)
 Jimaine and her mother [[Margali Szardos|Margali]] are [[witch]]es.  When Nightcrawler joined the X-Men, Jimaine eventually followed him to the US, assumed the identity of '''Amanda Sefton''', took a job as a [[flight attendant]], and became Nightcrawler's girlfriend.<ref>''The Uncanny X-Men'' #169 (May 1983).</ref> When Margali attacked the X-Men, believing Nightcrawler to have been responsible for the death of Stefan Szardos (her son; Jimaine's brother), "Amanda" revealed herself as Jimaine, convinced her mother to let Kurt live, and resumed her on-and-off relationship with him.<ref>''The Uncanny X-Men'' Annual #4 (1980)</ref> Their relationship broke apart when Kurt suffered a severe case of self-doubt following an encounter with the [[Beyonder]] upon [[Secret Wars II|the latter's arrival on Earth]].<ref>''The Uncanny X-Men'' #204</ref>
 
 ===Daytripper===
+[[File:Theuncannyxmen-logo.svg|thumb|Logo of Uncanny X-Men, one of the groups Amanda belongs and the first comic which she appear ]]
 Much later, in need of her magical abilities, Nightcrawler called his former girlfriend Amanda Sefton to aid [[Excalibur (comics)|Excalibur]]. For dramatic reasons she chose to adopt the codename '''Daytripper''', playing on Kurt's codename, and presented herself in a new costume. Once familiarized with the problem at hand, Amanda did the best she could to help [[Meggan (character)|Meggan]] and [[Rachel Summers]] locate the lost [[Captain Britain]] in the timestream, but as they made contact they only achieved to exchange Captain Britain for Rachel, who in his place entered the timestream to emerge in some farfetched future.<ref>''Excalibur'' #75 (1994)</ref>
 
 Following this incident Kurt and Amanda traveled to Germany, where her mother Margali had been taken captive by [[D'Spayre]].<ref>''Excalibur'' #76 (April 1994)</ref> As Kurt wondered how such a powerful sorceress could be held captive against her will, Daytripper explained that the Winding Way is not only a mystic discipline, but also it functions like a journey with ups and downs. Currently Margali was at a low point and powerless or else D’Spayre could never have defeated her. The pair rescued their mother and Amanda returned with Kurt to Excalibur.<ref>''Excalibur'' #77 (May 1994)</ref>
-
 Back on Muir Island, Amanda was the only one who recognized that the team's scientist Rory Campbell was the man destined to become the future mutant hunter Ahab, but she promised him to keep her knowledge secret and offered to be there for him whenever the need would arise.<ref>''Excalibur'' #80</ref>
 
 Around this time she suffered a mystical/telepathic attack on a plane while taking a shift under her air hostess job. It involved the fate of the [[Black Queen (comics)|Black Queen]].<ref>''Excalibur'' Annual #2 (1994)</ref>
@@ -62,17 +67,27 @@ While [[Pixie (X-Men)|Pixie]] has stated that she has been approached by both Am
 After [[Nightcrawler (character)|Nightcrawler]]'s resurrection<ref>''[[Amazing X-Men]]'' vol. 2 #1–5</ref> and some period of readjustment, he sought out Amanda for a romantic reunion, but then Amanda was almost kidnapped by a villain called Trimega.<ref>''Nightcrawler'' vol. 4 #1</ref> After Nightcrawler and his [[Bamf]]s subdued Trimega, he chose to grant Amanda and [[Margali Szardos|Margali]] sanctuary in the [[X-Mansion|Jean Grey School for Higher Learning]]; but then an army of Trimegas descended upon the school. During the battle, it turned out that Margali was actually Trimega's creator and had orchestrated the attack in order to gain knowledge of how to cross into the Afterlife. Armed with that knowledge, Margali opened a portal, whose existence would endanger reality. In order to stop her scheme, Nightcrawler and Amanda attempted to pass the gate, but Nightcrawler's voluntary exile from Heaven barred him from entry, stranding Amanda alone in the Void.<ref>''Nightcrawler'' vol. 4 #4</ref> They met again when Nightcrawler, fatally stabbed in combat by the [[Crimson Pirates]], was intercepted by Amanda at an "interim station" between life and death, who successfully encouraged him—with some assistance from [[Wolverine (character)|Wolverine]] and [[Jean Grey|Phoenix]]—to return to the land of the living.<ref>''Nightcrawler'' vol. 4 #10</ref>
 
 ==Powers and abilities==
-Amanda is a sorceress following the path of the Winding Way. Her power changes in its levels, waxing and waning over time, allowing her to summon such powers as teleportation, illusions casting, shape changing, mystical force bolts, hypnotism, and the manipulation of other complex mystical forces.{{citation needed|date=August 2021}}
+Amanda is a sorceress following the path of the Winding Way. Her power changes in its levels, waxing and waning over time, allowing her to summon such powers as teleportation, illusions casting, shape changing, mystical force bolts, hypnotism, and the manipulation of other complex mystical forces.<ref name=":0">{{Cite web |last=Beaty |first=Drew |date=2021-10-31 |title=15 Most Powerful Marvel Magic Users (Who Aren’t Doctor Strange) |url=https://screenrant.com/marvel-comics-most-powerful-magic-users-not-doctor-strange/ |access-date=2022-10-23 |website=ScreenRant |language=en-US}}</ref>
 
 When she became the Sorceress Supreme of Limbo, Amanda began wielding the powerful Soulsword. While she couldn't access the full power of the sword, she could still create and control teleportation energies in the form of "stepping discs". This allows her to absorb souls of others either permanently or to simply store and transfer, to place and store the sword in absolute nothingness and to retrieve it from whence it came with ease. Like [[Magik (Illyana Rasputina)|Illyana Rasputin]], the more Amanda used the Soulsword, the more mystical Eldritch armor appeared on her body in addition to demonic features such as horns and hooves. The armor deflects or limits attacks, both physical and magical. However, on Earth, Amanda's abilities are limited to a different capacity. She has since lost these abilities when Limbo was sealed to her and resumed her normal display of powers.{{citation needed|date=August 2021}}
+
+== Reception ==
+
+=== Accolades ===
+
+* In 2014, ''[[Entertainment Weekly]]'' ranked Amanda Sefton 65th in their "Let's rank every X-Man ever" list.<ref>{{Cite web |last=June 09 |first=Darren Franich Updated |last2=EDT |first2=2022 at 12:31 PM |title=Let's rank every X-Man ever |url=https://ew.com/article/2014/05/21/x-men-best-worst/ |access-date=2022-10-23 |website=EW.com |language=en}}</ref>
+* In 2018, ''[[CBR.com]]'' ranked Amanda Sefton 6th in their "20 Fan-Favorite X-Men Who Aren't Even Mutants" list.<ref>{{Cite web |last=Webber |first=Tim |date=2018-09-15 |title=Not So Gifted: 20 Fan-Favorite X-Men Who Aren't Even Mutants |url=https://www.cbr.com/x-men-who-were-never-mutants/ |access-date=2022-10-23 |website=CBR |language=en-US}}</ref>
+* In 2020, ''[[Scary Mommy]]'' included Amanda Sefton in their "195+ Marvel Female Characters Are Truly Heroic" list.<ref>{{Cite web |title=Looking For A Role Model? These 195+ Marvel Female Characters Are Truly Heroic |url=https://www.scarymommy.com/marvel-female-characters |access-date=2022-10-23 |website=Scary Mommy |language=en}}</ref>
+* In 2022, ''[[Screen Rant]]'' ranked Amanda Sefton 1st in their "10 Best Magical Or Supernatural Heroes Not Yet In The MCU" list<ref>{{Cite web |last=Prom |first=Bradley |date=2022-09-29 |title=10 Best Magical Or Supernatural Heroes Not Yet In The MCU |url=https://screenrant.com/best-magical-supernatural-heroes-not-yet-mcu/ |access-date=2022-10-23 |website=ScreenRant |language=en-US}}</ref> and included her in their "15 Most Powerful Marvel Magic Users (Who Aren’t Doctor Strange)" list.<ref name=":0" />
 
 ==Other versions==
 In the "[[Days of Future Past]]" timeline, Amanda and Nightcrawler have a daughter Blue who inherited her father's appearance and similar teleporting powers.  Amanda and Nightcrawler, along with that timeline's version of Illyana Rasputin, were gunned down by a government strikeforce deployed to destroy the Xavier Institute after [[Senator Robert Kelly]] was assassinated.<ref>''The Uncanny X-Men'' #188</ref>
 
 == In other media ==
-In ''[[X-Men: Evolution]]'', Amanda Sefton appears as Nightcrawler's love interest, but she does not have most of the background of her comic counterpart. Her mother's name remains Margali, but the Seftons appear to be a normal family. She is portrayed as an American teenager of [[Demographics of Africa#Ethnicity|African]]/[[Romany people|Romany]] descent who accepts Kurt completely despite his mutation. She was voiced by [[Moneca Stori]].
 
-In her first appearance, the episode "Shadow Dance", Amanda asks Kurt to be her date for a [[school dance]] and tells him that she did have a crush on him for months but was too shy to tell him, and that her feelings remained even after she once accidentally saw him turning off his image inducer. They start dating seriously, and after a time ("The Toad, the Witch and the Wardrobe") Amanda attempts to introduce Kurt — as his true self — to her parents. The intention is ruined by [[Toad (Marvel Comics)|Toad]], who steals Kurt's image inducer, demolishing the Sefton home and revealing Kurt's true appearance before Amanda can properly prepare her parents. Even though Amanda's parents are understandably upset, Amanda shrugs off any discomforts which they might bring into her relationship with Kurt, and she continues to date him.
+=== Television ===
+
+* Amanda Sefton appeared in the 2000s ''[[X-Men: Evolution]]'' series, voiced by [[Moneca Stori|Monica Stori]].<ref>{{Cite web |title=Voice Of Amanda Sefton – Behind The Voice Actors |url=https://www.behindthevoiceactors.com/tv-shows/X-Men-Evolution/Amanda-Sefton/ |website=Behind The Voice Actors |postscript=. Check marks indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref> She is depicted as Nightcrawler's love interest, but she does not have most of the background of her comic counterpart. Her mother's name remains Margali, but the Seftons appear to be a normal family. She is portrayed as an American teenager of [[Demographics of Africa#Ethnicity|African]]/[[Romany people|Romany]] descent who accepts Kurt completely despite his mutation. She was voiced by [[Moneca Stori]]. In her first appearance, the episode "Shadow Dance", Amanda asks Kurt to be her date for a [[school dance]] and tells him that she did have a crush on him for months but was too shy to tell him, and that her feelings remained even after she once accidentally saw him turning off his image inducer. They start dating seriously, and after a time ("The Toad, the Witch and the Wardrobe") Amanda attempts to introduce Kurt — as his true self — to her parents. The intention is ruined by [[Toad (Marvel Comics)|Toad]], who steals Kurt's image inducer, demolishing the Sefton home and revealing Kurt's true appearance before Amanda can properly prepare her parents. Even though Amanda's parents are understandably upset, Amanda shrugs off any discomforts which they might bring into her relationship with Kurt, and she continues to date him.
 
 ==References==
 {{Reflist}}

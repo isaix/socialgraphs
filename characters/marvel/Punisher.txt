@@ -10,7 +10,7 @@
 | publisher      = [[Marvel Comics]]
 | debut          = ''[[The Amazing Spider-Man]]'' [[The Amazing Spider-Man 129|#129]] (February 1974)
 | creators       = [[Gerry Conway]]<br />[[John Romita Sr.]]<br />[[Ross Andru]]
-| full name      = Francis "Frank" Castle<ref>''Official Index to the Marvel Universe'' #3</ref><ref>''Punisher'' vol. 12, #6</ref><ref>''Cosmic Ghost Rider Destroys Marvel Universe'' #1</ref>{{Efn|Francis "Frank" Castle's full name as seen in this [http://www.i-mockery.com/comics/longbox21/pics/castle-duty.jpg ''New Avengers: Letters Home'' panel], also more info [http://www.i-mockery.com/comics/longbox21/ here]}} (born Castiglione)<ref>[[The Punisher (1986 series)|''Punisher'' #1]]</ref>
+| full name      = Francis "Frank" G. Castle<ref>''Official Index to the Marvel Universe'' #3</ref><ref>''Punisher'' vol. 12, #6</ref><ref>''Cosmic Ghost Rider Destroys Marvel Universe'' #1</ref>{{Efn|Francis "Frank" Castle's full name as seen in this [http://www.i-mockery.com/comics/longbox21/pics/castle-duty.jpg ''New Avengers: Letters Home'' panel], also more info [http://www.i-mockery.com/comics/longbox21/ here]. Middle initial "G." seen on dogtags in ''[[The 'Nam]]'' issue #69.}} (born Castiglione)<ref>[[The Punisher (1986 series)|''Punisher'' #1]]. 1986</ref>
 | alliances      = {{Plain list|
 * [[United States Marine Corps|U.S. Marine Corps]] [[United States Marine Corps Force Reconnaissance|Force Reconnaissance]]<ref>''Punisher: Nightmare'' (Marvel Comics issue #2 2013)</ref>
 * Code Red<ref>''Hulk'' Vol. 2 #14</ref>
@@ -315,8 +315,8 @@ The character of the Punisher has appeared in many types of media. Since his fir
 {{Nick Fury}}
 {{Ghost Rider}}
 {{Garth Ennis}}
-{{Portal bar|Comics|United States|Italy}}
 {{Authority control}}
+{{Portal bar|Comics|United States|Italy}}
 
 {{DEFAULTSORT:Punisher}}
 [[Category:Punisher| ]]

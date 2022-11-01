@@ -2,37 +2,39 @@
 {{about||the Marvel Comics character also known as "Mister Friese"|Iceman (Marvel Comics)|other uses|}}
 {{Infobox comics character
 | character_name = Mr. Freeze
-| image          = Mister Freeze (Victor Fries, PhD. - circa 2020).png
-| image_size     = 150
-| caption        = Mr. Freeze in ''Detective Comics'' #1027 (September 2020).<br />Art by Brad Walker.
+| image          = Batman_Mr._Freeze.jpg
+| image_size     = 235
+| caption        = Textless cover of ''Batman: Mr. Freeze'' (May 1997).<br />Art by Brian Stelfreeze.
 | real_name      = Victor Fries
 | publisher      = [[DC Comics]]
 | debut          = '''As Mr. Zero:'''<br />''[[Batman (comic book)|Batman]]'' #121 (February 1959)<br />'''As Mr. Freeze:'''<br />''[[Batman (TV series)|Batman]]''<br />"[[Instant Freeze]]" (February 2, 1966)<br />'''As Victor Fries:'''<br />''[[Batman: The Animated Series]]''<br />"[[Heart of Ice (Batman: The Animated Series episode)|Heart of Ice]]" (September 7, 1992)
 | first_comic    = 
 | first_series   = 
 | first_episode  = 
-| creators       = '''As Mr. Zero''':<br />Dave Wood (writer)<br />[[Sheldon Moldoff]] (artist)<br />[[Bob Kane]] (concept)<br />'''As Victor Fries''':<br />[[Paul Dini]] (writer)<br />[[Bruce Timm]] (character designer)
-| alliances      = Injustice League<br />[[Secret Society of Super Villains]]<br />GothCorp 
-<br>[[Suicide Squad]]
+| creators       = '''As Mr. Zero''':<br />Dave Wood (writer)<br />[[Sheldon Moldoff]] (artist)<br />[[Bob Kane]] (concept)<br />'''As Victor Fries''':<br />[[Paul Dini]] (writer)<br />[[Bruce Timm]] (concept)<br />[[Mike Mignola]] (designer)<ref name="Bio">{{cite web|url= http://www.artofmikemignola.com/Bio|title= Art of Mike Mignola - Bio|year= 2010|publisher= Art of Mike Mignola|archive-url= https://web.archive.org/web/20131105025849/http://www.artofmikemignola.com/Bio|archive-date= November 5, 2013|url-status= dead|df= mdy-all|access-date= February 9, 2012}}</ref>
+| alliances      = Injustice League<br />[[Secret Society of Super Villains]]<br />GothCorp<br>[[Suicide Squad]]
 | aliases        = Mr. Zero<br />Dr. Art Schivel<br />Crown Prince of Chilblains<br />King of Cold
 | powers         = 
-* Genius-level intellect
-* [[Temperature|Sub-zero]] physiology allows survival at extremely low temperatures
-* Refrigerated [[Powered exoskeleton|exo-skeletal battle suit]] grants superhuman strength and durability
+* [[Genius]]-level intellect
+* [[Temperature|Sub-zero]] physiology
+** Self-sustenance at frozen temperatures
+** Thermokinesis & cryokinesis
+** Decelerated aging
+** Immunity to toxins
+* [[Powered exoskeleton|Cryo-suit]] grants [[superhuman strength]] and durability
 * Utilizes [[cryogenic]] weaponry
 | cat            = super
 | subcat         = DC Comics
 | hero           = n
 | villain        = y
 |species=[[Metahuman]]
-| homeworld = Germany
 }}
 
-'''Mr. Freeze''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[DC Comics]]. Created by writer Dave Wood and artist [[Sheldon Moldoff]], he first appeared in ''[[Batman (comic book)|Batman]]'' #121 (February 1959)<ref name="UGO - Freeze">{{cite web|url=http://batman.ugo.com/roguesgallery/mrfreeze/ |title=UGO's World of Batman – Rogues Gallery: Mr. Freeze |access-date=May 10, 2008 |publisher=[[UGO]] |url-status=dead |archive-url=https://web.archive.org/web/20080527232551/http://batman.ugo.com/roguesgallery/mrfreeze/ |archive-date=May 27, 2008 }}</ref> as the ice-based criminal '''Mr. Zero''', but he was soon renamed "Mr. Freeze".<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=86}}</ref>
+'''Mr. Freeze''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[DC Comics]]. The character was created by Dave Wood, [[Sheldon Moldoff]] and [[Bob Kane]], and first appeared in ''[[Batman (comic book)|Batman]]'' #121 in February 1959 as the ice-based criminal '''Mr. Zero'''.<ref name="UGO - Freeze">{{cite web|url=http://batman.ugo.com/roguesgallery/mrfreeze/ |title=UGO's World of Batman – Rogues Gallery: Mr. Freeze |access-date=May 10, 2008 |publisher=[[UGO]] |url-status=dead |archive-url=https://web.archive.org/web/20080527232551/http://batman.ugo.com/roguesgallery/mrfreeze/ |archive-date=May 27, 2008 }}</ref> He was soon renamed "Mr. Freeze" and, years later, received a revamped [[origin story]] based on the one conceived by writer [[Paul Dini]] for ''[[Batman: The Animated Series]]''. Dini's depiction of the character as a tragic [[villain]] popularized Mr. Freeze into becoming one of [[Batman]]'s most enduring enemies belonging to the collective of adversaries that make up his [[List of Batman Family adversaries#Classic rogues gallery|rogues gallery]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=86}}</ref>
 
-Years later, the character's origin story was revamped to match the one conceived by writer [[Paul Dini]] for ''[[Batman: The Animated Series]]'', in which '''Dr. Victor Fries''' was a [[cryogenics]] expert in [[Gotham City]] who was caught in a laboratory mishap while attempting to cure his terminally ill wife, [[Nora Fries|Nora]]; the accident drastically lowered his body temperature to sub-zero levels, forcing him to wear a cryogenic suit in order to survive. Freeze's main goal remains to find a cure for his wife's illness, though his methods often bring him into conflict with [[Batman]]. This depiction of Mr. Freeze has since endured as one of the [[superhero]] Batman's most recurring enemies. He belongs to the collective of adversaries that make up Batman's central [[List of Batman Family adversaries#Classic rogues gallery|rogues gallery]].
+Mr. Freeze is the [[alter ego]] of '''Dr. Victor Fries''', a German-born [[cryogenics]] expert in [[Gotham City]] who was caught in a laboratory mishap whilst attempting to cure his terminally ill wife, [[Nora Fries|Nora]]. The accident drastically lowered his body temperature to sub-zero levels, forcing him to wear a cryogenic suit in order to survive. Fries turns to crime to find a cure for his wife's illness through any means necessary, which often puts him into conflict with Batman.
 
-''[[IGN]]''{{'}}s list of the Top 100 Comic Book Villains of All Time List ranked Mr. Freeze as #67.<ref name="IGNT100CBVATMF67">{{cite web |url=https://www.ign.com/lists/top-100-comic-book-villains/67|title=Mr. Freeze is Number 67 |publisher=Comics.ign.com |access-date=2010-12-25}}</ref> The character has been portrayed in live-action by [[George Sanders]], [[Otto Preminger]], and [[Eli Wallach]] in the ''[[Batman (TV series)|Batman]]'' television series; by [[Arnold Schwarzenegger]] in the 1997 film ''[[Batman & Robin (film)|Batman & Robin]]''; and by [[Nathan Darrow]] in the [[Fox Broadcasting Company|Fox]] crime series ''[[Gotham (TV series)|Gotham]]''. He has also been voiced by [[Michael Ansara]] in the [[DC Animated Universe]] and by [[Maurice LaMarche]] in the ''[[Batman: Arkham]]'' video game franchise.
+The character has been adapted in various media incarnations, having been portrayed in live-action by [[George Sanders]], [[Otto Preminger]] and [[Eli Wallach]] in the 1960s ''[[Batman (TV series)|Batman]]'' television series, [[Arnold Schwarzenegger]] in the 1997 film ''[[Batman & Robin (film)|Batman & Robin]]'', and [[Nathan Darrow]] in the [[Fox Broadcasting Company|Fox]] crime drama ''[[Gotham (TV series)|Gotham]]''. [[Michael Ansara]], [[Clancy Brown]], [[Maurice LaMarche]], and others have provided his voice in media ranging from animation to video games.
 
 {{TOC limit|3}}
 
@@ -59,7 +61,7 @@ Long after this, Freeze becomes part of a [[Mock trial|mock criminal tria]]l,<re
 ===Post-''Crisis''===
 Following the [[Crisis On Infinite Earths|Crisis]] rebooting the history of the [[DC Universe]], Mr. Freeze is revamped using a history similar to the one created by Paul Dini for ''Batman: The Animated Series''.<ref name="wf interview page 2">{{cite web |url=http://www.worldsfinestonline.com/WF/heartofice/interview/02.php |title=''Heart of Ice'' interview "The Role of Mr. Freeze In The Animated Universe" page 2 – Finding a Voice|access-date=2008-02-08 |publisher= worldsfinestonline.com}}</ref> Dr. Victor Fries, Ph.D. (surname pronounced "freeze") is a brilliant cryogenicist. As a child, he was fascinated with cryonic preservation and liked to freeze animals. His parents are horrified by his "hobby" and send him to a strict boarding school, where he is miserable and feels detached from humanity. In college, he meets [[Nora Fries|Nora]], the woman he ultimately marries.<ref name="UGO - Freeze"/>
 
-Nora contracts a fatal illness 1½ years after Bruce Wayne becomes Batman, so Fries begins developing a freeze ray for [[List of locations of the DC Universe|GothCorp]] in order to preserve her in suspended animation until a cure can be found. Fries' boss Ferris Boyle decides to tell the mob about the gun, leading Batman to create a team of specialists to help him do his job better. As Fries puts Nora in suspended animation, Boyle interrupts and tampers with the experiment, resulting in an explosion that kills Nora. Fries survives, but the chemicals in the freeze ray lower his body temperature to the point that he must wear a cryogenic suit in order to survive. He swears revenge on those responsible for the death of his wife (whom he talks to often) and becomes Mr. Freeze, the first superpowered villain whom Batman faces in this continuity. Eventually, Batman's operatives find Freeze, who shoots one of them with his freeze gun, but Batman eventually apprehends him.<ref name="UGO - Freeze"/> Initially locked in [[Arkham Asylum]], Freeze was eventually transferred to the Gotham State Penitentiary, from where he escaped and attempted to steal technology from [[S.T.A.R. Labs]] until he was stopped and returned to prison by Batman.<ref>''Detective Comic'' #595</ref>
+Eighteen months after Bruce Wayne becomes Batman, Nora contracts a fatal disease, so Fries begins developing a freeze ray for [[List of locations of the DC Universe|GothCorp]] in order to preserve her in suspended animation until a cure can be found. Fries' boss Ferris Boyle decides to tell the mob about the gun, leading Batman to create a team of specialists to help him do his job better. As Fries puts Nora in suspended animation, Boyle interrupts and tampers with the experiment, resulting in an explosion that kills Nora. Fries survives, but the chemicals in the freeze ray lower his body temperature to the point that he must wear a cryogenic suit in order to survive. He swears revenge on those responsible for the death of his wife (whom he talks to often) and becomes Mr. Freeze, the first superpowered villain whom Batman faces in this continuity. Eventually, Batman's operatives find Freeze, who shoots one of them with his freeze gun, but Batman eventually apprehends him.<ref name="UGO - Freeze"/> Initially locked in [[Arkham Asylum]], Freeze was eventually transferred to the Gotham State Penitentiary, from where he escaped and attempted to steal technology from [[S.T.A.R. Labs]] until he was stopped and returned to prison by Batman.<ref>''Detective Comic'' #595</ref>
 
 Freeze's crimes tend to involve freezing everyone and everything that he encounters<ref name="UGO - Freeze"/> so he never forges alliances with the other criminals in Gotham, preferring to work alone. On rare occasions, he has worked with another member of Batman's rogues' gallery, usually, as an enforcer for Gotham's mob bosses, such as the [[Penguin (character)|Penguin]] during his [[Batman: City of Crime|reign]]<ref>''Detective comics'' #804–806</ref> or [[Black Mask (comics)|Black Mask]] during the [[Batman: Under the Hood|return]] of [[Jason Todd]].<ref>''Batman'' #635</ref><ref>''Batman'' #836</ref> In one of his notable team-ups, Freeze constructs a cryogenic machine for [[Hush (comics)|Hush]] so that Hush might take revenge on Batman, Freeze's equipment allowing Hush to preserve [[Catwoman]]'s surgically removed heart to use as a means of threatening her life.<ref>''Detective Comics'' #850</ref> After Batman's [[Batman RIP|death]], most of the Arkham inmates were [[Batman: Battle for the Cowl|freed]] by a [[Jeremiah Arkham|new Black Mask]]. Freeze was among them and he started working on a project called Ice-X Protocol when the GCPD tried to capture him. He stunned them with his gun and captured Gordon, taking him to his secret lair. Gordon managed to break free and defeat Freeze by causing an explosion that weakened Freeze. After his capture, Freeze was taken to [[Iron Heights]] prison.<ref>''Battle for the Cowl: Commissioner Gordon'' #1</ref> During his time with the [[Secret Society of Super Villains]], he fashions a sub-zero machine for [[Nyssa Raatko|Nyssa al Ghul]] in exchange for the use of her [[Lazarus Pit]]. He attempts to restore Nora to life without waiting for the adjusting needed in the pool chemicals; she returns to life as the twisted Lazara and escapes. She blames her husband for her plight, and she estranges herself from him.<ref>''Batgirl'' #69–70</ref>
 
@@ -85,7 +87,7 @@ Combined with his suit, Freeze's strength and durability are augmented to superh
 In the ''[[Underworld Unleashed]]'' storyline, the demon [[Neron (DC Comics)|Neron]] granted Mr. Freeze the ability to generate subzero temperatures, no longer needing his freeze gun or refrigeration power suit. However, after his encounter with [[Kyle Rayner|Green Lantern]], [[Donna Troy]], and [[Purgatory (DC Comics)|Purgatory]] in Central Park, he reverted to his original subzero biology. He then gained a new subzero armor and weaponry.<ref>{{Cite comic|writer = [[Mark Waid|Waid, Mark]]|artist = [[Howard Porter (artist)|Porter, Howard]]; [[Phil Jimenez|Jimenez, Phil]] and others| Title = Underworld Unleashed| Issue = #3| Date = November 1995 – January 1996| Publisher = [[DC Comics]]| location=New York City}}</ref>
 
 ==Reception==
-The character of Mr. Freeze has been analyzed as a stereotypical depiction of a villainous European in fiction.<ref>Georg Drennig, "Otherness and the European as Villain and Antihero in American Comics," in ''Comics as a Nexus of Cultures'', eds. Mark Berninger, Jochen Ecke, and Gideon Haberkorn (Jefferson, North Carolina: McFarland & Company, 2010) 131-132.</ref> ''[[IGN]]''{{'}}s list of the Top 100 Comic Book Villains of All Time List ranked Mr. Freeze as #67.<ref name="IGNT100CBVATMF67" />
+The character of Mr. Freeze has been analyzed as a stereotypical depiction of a villainous European in fiction.<ref>Georg Drennig, "Otherness and the European as Villain and Antihero in American Comics," in ''Comics as a Nexus of Cultures'', eds. Mark Berninger, Jochen Ecke, and Gideon Haberkorn (Jefferson, North Carolina: McFarland & Company, 2010) 131-132.</ref> ''[[IGN]]''{{'}}s list of the Top 100 Comic Book Villains of All Time List ranked Mr. Freeze as #67.<ref name="IGNT100CBVATMF67">{{cite web |url=https://www.ign.com/lists/top-100-comic-book-villains/67|title=Mr. Freeze is Number 67 |publisher=Comics.ign.com |access-date=2010-12-25}}</ref>
 
 ==Other characters named Mr. Freeze==
 ===Robot Mr. Freeze===
@@ -154,10 +156,12 @@ In [[DC Graphic Novels for Young Adults]], Nora and Victor's backgrounds and the
 [[Category:Fictional characters with ice or cold abilities]]
 [[Category:Fictional characters with slowed ageing]]
 [[Category:Fictional chemical engineers]]
+[[Category:Fictional mutants]]
 [[Category:Fictional cryonically preserved characters in comics]]
 [[Category:DC Comics cyborgs]]
 [[Category:Cyborg supervillains]]
 [[Category:Fictional German American people]]
+[[Category:Fictional monsters]]
 [[Category:Fictional inventors]]
 [[Category:Fictional life scientists]]
 [[Category:Fictional mass murderers]]

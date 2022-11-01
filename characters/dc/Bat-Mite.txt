@@ -6,8 +6,8 @@
 | debut = ''[[Detective Comics]]'' #267 (May 1959)
 | creators = [[Bill Finger]] (writer)<br>[[Sheldon Moldoff]] (artist)
 | full_name = Unknown (unpronounceable to humans, according to him)
-| species = [[Imp]]
-| homeworld = Mite Dimension (possibly an analogue to the Fifth Dimension, though never confirmed)
+| species = [[List of alien races in DC Comics#0–9|Fifth Dimensional Imp (Zrfffian)]]
+| homeworld = Mite Dimension (possibly an analogue to the [[Five-dimensional space|Fifth Dimension]], though never confirmed)
 | alliances =Justice League of Mites
 | aliases = <!-- optional: actual identities the character uses, not nicknames -->
 | supports= [[Batman]]

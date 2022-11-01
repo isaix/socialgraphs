@@ -4,7 +4,7 @@
 |caption=Felix Faust, art by [[Ian Churchill]].
 |character_name=Felix Faust
 |real_name=Felix Faust
-|species=Homo magi
+|species=[[Homo Magi]]
 |publisher=[[DC Comics]]
 |debut=''[[Justice League|Justice League of America]]'' #10 (March 1962)
 |creators=[[Gardner Fox]]<br>[[Mike Sekowsky]]
@@ -123,6 +123,10 @@ In ''[[JLA/Avengers]]'', Felix Faust is among the mind-controlled villains defen
 
 ==References==
 {{Reflist}}
+==External links==
+* [https://dc.fandom.com/wiki/Felix_Faust Felix Faust] at DC Database
+* [https://comicvine.gamespot.com/felix-faust/4005-6593/ Felix Faust] at Comic Vine
+* [https://www.cosmicteams.com/profiles/felixfaust.html Felix Faust] at DC Cosmic Teams!
 
 {{Hellblazer}}
 {{Justice League characters}}

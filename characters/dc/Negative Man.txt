@@ -1,17 +1,19 @@
 {{short description|Fictional character}}
-{{notability|date=November 2021}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Mygreatestadventure80.JPG
 |caption=Negative Man, art by [[Bruno Premiani]].
 |character_name=Negative Man
 |real_name=Larry Trainor
 |species=[[Metahuman]]
-|aliases=Rebis
+|aliases=N-Man<br/> Neg-Man<br/> Rebis
 |publisher=[[DC Comics]]
 |debut= ''[[My Greatest Adventure]]'' #80 (June 1963)
 |creators=[[Bob Haney]]<br>[[Arnold Drake]]<br>[[Bruno Premiani]]
 |alliances=[[Doom Patrol]]
-|powers=Radioactive "soul-self" is capable of flight, intangibility and can generate minor explosions upon contact with positive energy, temporally [[astral projection]]
+|powers=*[[Radiation|Radioactive]] "soul-self" grants: 
+**[[Flight]]
+**Intangibility
+**Energy absorption and projection
 }}
 '''Negative Man''' is a [[superhero]] from [[DC Comics]]. The character was created by [[Bob Haney]], [[Arnold Drake]], and [[Bruno Premiani]] and made his first appearance in ''[[My Greatest Adventure]]'' #80 (June 1963).<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=212}}</ref>
 
@@ -78,8 +80,8 @@ Larry Trainor makes a cameo appearance in ''[[Justice League: The New Frontier]]
 {{reflist}}
 
 ==External links==
-* [https://dc.fandom.com/wiki/Lawrence_Trainor_(New_Earth) Negative Man] at DC Comics Fandom
-* [https://comicvine.gamespot.com/negative-man/4005-4087/ Negative Man] at DC Comics Wiki
+* [https://dc.fandom.com/wiki/Negative_Man Negative Man] at DC Database
+* [https://comicvine.gamespot.com/negative-man/4005-4087/ Negative Man] at Comic Vine
 
 {{Doom Patrol}}
 

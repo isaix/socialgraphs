@@ -3,7 +3,7 @@
 '''Libra''' is the name of different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-The original Libra first appeared in ''[[Avengers (comics)|Avengers]]'' #72 (Jan. 1970), and was created by [[Roy Thomas]] and [[Sal Buscema]].
+The original Libra first appeared in ''[[The Avengers (comic book)|Avengers]]'' #72 (Jan. 1970), and was created by [[Roy Thomas]] and [[Sal Buscema]].
 
 The character subsequently appears in:
 * ''The Avengers'' #80–82 (Sept.–Nov. 1970),
@@ -29,7 +29,7 @@ image=<!--  Commented out because image was deleted: [[Image:LibraComics.jpg|125
 |character_name=Libra
 |real_name=Gustav Brandt
 |publisher=[[Marvel Comics]]
-|debut=''The Avengers'' #72 (Jan. 1970)
+|debut=''[[The Avengers (comic book)|The Avengers]]''  #72 (Jan. 1970)
 |creators=[[Roy Thomas]]<br>[[Sal Buscema]]
 |alliances=[[Zodiac (comics)|The Zodiac]]<br/>[[Avengers (comics)|The Avengers]]
 |aliases=Master of the Balance, Lloyd Willoughby

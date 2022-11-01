@@ -9,12 +9,13 @@
 | creators = [[Otto Binder]] (writer)<br>[[Al Plastino]] (art)
 | alter_ego = [[Cyborg Superman]]
 | full_name =
-| species = [[Kryptonian]]
+| species = [[Kryptonian]] [[cyborg]]
 | homeworld = Krypton
 | alliances =[[Black Lantern Corps]]
 | aliases = Zor-L
 | supports = <!--optional-->
-| powers = '''Under a yellow sun:'''
+| powers = *Cybernetic implants
+'''(Under a yellow sun)''':
 *Kryptonian power set
 }}
 '''Zor-El''' is a fictional character appearing in [[American comic book]]s published by [[DC Comics]]. A [[Kryptonian]], he is the brother of [[Jor-El]], husband of [[Alura (DC Comics)|Alura]], father of [[Supergirl (Kara Zor-El)|Supergirl]], and paternal uncle of [[Superman]].<ref>{{cite book |last1=Fleisher |first1=Michael L. |title=The Original Encyclopedia of Comic Book Heroes, Volume Three: Superman |date=2007 |publisher=DC Comics |isbn=978-1-4012-1389-3 |page=511}}</ref>

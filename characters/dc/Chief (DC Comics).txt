@@ -1,19 +1,20 @@
 {{Short description|Fictional character in DC Comics}}
-{{notability|date=November 2021}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 | character_name=Chief 
 | image=Chief.PNG
 | image_size=250
 | caption=The Chief. Art by [[Tony Daniel]].
-| real_name=Dr. Niles Caulder
+| real_name=Niles Caulder
+| species=[[Human]]
 | publisher=[[DC Comics]]
 | debut= ''[[My Greatest Adventure]]'' #80 (June 1963)
 | creators=[[Arnold Drake]]<br />[[Bruno Premiani]]
 | alliances=[[Doom Patrol]]
 | aliases= 
-| powers=[[Genius]]-level intellect
+| powers=*[[Genius]]-level intellect
+*Expert surgeon
 }}
-The '''Chief''' ('''Dr. Niles Caulder''') is a [[fictional character]] appearing in material from [[DC Comics]], usually as the leader of the superhero team [[Doom Patrol]].<ref name="dc-doom">{{Cite book | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Doom Patrol | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | page = 109  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}} Please cite actual comic books rather than this encyclopedia so we can locate source material</ref> Created by [[Arnold Drake]] and [[Bruno Premiani]], he made his debut alongside the other original members of the Doom Patrol in ''My Greatest Adventure'' #80 (June 1963).
+The '''Chief''' ('''Niles Caulder''') is a [[superhero]] appearing in [[American comic books]] published by [[DC Comics]], usually as the leader of the superhero team [[Doom Patrol]].<ref name="dc-doom">{{Cite book | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Doom Patrol | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | page = 109  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}} Please cite actual comic books rather than this encyclopedia so we can locate source material</ref> Created by [[Arnold Drake]] and [[Bruno Premiani]], he made his debut alongside the other original members of the Doom Patrol in ''My Greatest Adventure'' #80 (June 1963).
 
 The Chief made his first live-action appearance on the [[DC Universe (streaming service)|DC Universe]] series ''[[Titans (2018 TV series)|Titans]]'', played by [[Bruno Bichir]]. In DC Universe and [[HBO Max|HBO Max's]] [[Doom Patrol (TV series)|eponymous ''Doom Patrol'' series]], he was portrayed by [[Timothy Dalton]] in the first two seasons and guest starred in a few episodes of the third season.
 
@@ -24,7 +25,7 @@ Drake has confirmed in an interview that his inspiration for The Chief was the w
 
 ==Fictional character biography==
 ===Pre-Crisis===
-Dr. Niles Caulder is a [[paraplegic]] with a [[genius]]-level intellect.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=68}}</ref> Caulder uses his scientific knowledge to develop numerous inventions and innovations that have made him wealthy. Caulder founded and organized the team called Doom Patrol to protect the innocent and fight crime, and to teach humanity to accept others who live as ostracized "freaks," who have been radically transformed from terrible accidents.<ref name="dc-doom"/> It is Caulder's genius that allowed the team members to survive (e.g., designing [[Robotman (Cliff Steele)|Robotman]]'s body, devising [[Negative Man]]'s medicated bandages), and helped grant their freakishness and amazing abilities.<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |page=129}}</ref>
+'''Niles Caulder''' is a [[paraplegic]] with [[genius]] intelligence.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=68}}</ref> Caulder uses his scientific knowledge to develop numerous inventions and innovations that have made him wealthy. Caulder founded and organized the team called Doom Patrol to protect the innocent and fight crime, and to teach humanity to accept others who live as ostracized "freaks," who have been radically transformed from terrible accidents.<ref name="dc-doom"/> It is Caulder's genius that allowed the team members to survive (e.g., designing [[Robotman (Cliff Steele)|Robotman]]'s body, devising [[Negative Man]]'s medicated bandages), and helped grant their freakishness and amazing abilities.<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |page=129}}</ref>
 
 Caulder developed an interest in creating better life at a young age. Proving at a young age to be both a brilliant inventor and engineer, Caulder received funding from a mysterious benefactor. Thanks to the funding, Caulder succeeded in creating a chemical capable of prolonging life. Ultimately, it was revealed that the benefactor was a man called [[General Immortus]], who hired Caulder to create a chemical to replace the one that had been prolonging his life for centuries but was now failing. When the young scientist discovered the truth about his employer, he refused to continue the work. Immortus responded by implanting an explosive device in Caulder's upper torso, which he could set off remotely, and any attempt to remove it while Niles lived would also detonate it. Caulder eventually devised a plan to get the bomb out, but it cost him his ability to walk.<ref name="dc-immo">{{Citation|last = Wallace|first = Dan|contribution = General Immortus|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|page = 136|publisher = [[Dorling Kindersley]]|place = New York|year = 2008|isbn = 978-0-7566-4119-1|oclc = 213309017}} Please cite actual comic books rather than this encyclopedia so we can locate source material</ref> The incident inspired and reminded Caulder that a better life may come from surviving a tragic event, such as his own.
 
@@ -49,7 +50,7 @@ In the final issues of the series, the Chief had combined himself with Alice Wir
 ===Infinite Crisis===
 After [[Superboy-Prime]]'s pounding on the barriers to reality, certain events are rewritten,<ref>''Infinite Crisis: Secret Files & Origins'' (April 2006)</ref> and Niles has his body back and still acts as the team leader. It has been revealed that he apparently still is responsible for the creation of the original members of the Patrol, though they claim to have forgiven him.
 
-Caulder now seems to be intent on expanding the Doom Patrol's ranks; he has already convinced [[Beast Boy]] to return to the team and formally join it for the first time, and gotten [[Bumblebee (comics)|Bumblebee]] and [[Mal Duncan|Vox]] to join. [[Tim Drake|Robin]] doubts the Chief's motives, and after seeing him appear to manipulate [[Elasti-Girl]], Robin accuses him of brainwashing the Doom Patrol by keeping them dependent on him. For his part, Caulder maintains that by joining the Doom Patrol, team members "won't have to be freaks anymore." Later, when Caulder is overheard telling [[Kid Devil]] that his teammates do not like him and he should join the Doom Patrol, the others finally see that he is controlling them with fear and self-loathing. While Caulder tells them that they need him, [[Mento (comics)|Mento]] finally takes off his helmet, allowing him to think clearly. Mento then informs the Chief that he is no longer their leader and if he ever speaks to Elasti-Girl or Beast Boy like that again, he will destroy Caulder's intellect. Shocked by this, the Chief rushes off to his lab.
+Caulder now seems to be intent on expanding the Doom Patrol's ranks; he has already convinced [[Beast Boy]] to return to the team and formally join it for the first time, and gotten [[Bumblebee (DC Comics)|Bumblebee]] and [[Mal Duncan|Vox]] to join. [[Tim Drake|Robin]] doubts the Chief's motives, and after seeing him appear to manipulate [[Elasti-Girl]], Robin accuses him of brainwashing the Doom Patrol by keeping them dependent on him. For his part, Caulder maintains that by joining the Doom Patrol, team members "won't have to be freaks anymore." Later, when Caulder is overheard telling [[Kid Devil]] that his teammates do not like him and he should join the Doom Patrol, the others finally see that he is controlling them with fear and self-loathing. While Caulder tells them that they need him, [[Mento (comics)|Mento]] finally takes off his helmet, allowing him to think clearly. Mento then informs the Chief that he is no longer their leader and if he ever speaks to Elasti-Girl or Beast Boy like that again, he will destroy Caulder's intellect. Shocked by this, the Chief rushes off to his lab.
 
 Also in the Teen Titans story{{Issue|date=April 2008}}, it is also revealed that Caulder brutally murdered the scientist who would become "[[Brain (comics)|The Brain]]" because they were both working on General Immortus' potion and Caulder was jealous of the Brain's genius and tried to blow up the other scientist's lab in order to force him to become Robotman prior to Cliff Steele's accident that made him the character of the same name. Brain also reveals that he and the Doom Patrol are not the only innocent humans whose bodies are mutilated against their will by Caulder to create his own personal super-hero team. Two never before mentioned characters (Electric Blu and the Human Cannon) and a Negative Girl (possibly a retcon of [[Valentina Vostok]]) are said to be out there somewhere, having rejected Caulder for the damage he inflicted upon them.
 
@@ -67,12 +68,12 @@ During the events of [[Forever Evil]], it is revealed that Niles Caulder has cre
 ===Young Animal===
 Doom Patrol is contacted by Niles Caulder in issue #7 and embark on a mission with him leading. The mission goes haywire and it is revealed that Niles Caulder is gambling again, leading the team to evict him as a leader and as a member of the team. This marks the team embracing being a new iteration of the Doom Patrol.
 
-==Powers and abilities==
-Chief has genius-level intellect, as well as electrical and robotic engineering prowess.
+==Skills and abilities==
+As the Chief, Caulder has proficiency in chemistry, electrical engineering, leadership, and robotics.<ref>''Who's Who: The Definitive Directory of the DC Universe'' Vol 1 #4 (June 1985)</ref>
 
 ==Other versions==
 ===Earth One===
-In ''[[Teen Titans: Earth One]]'' continuity, Caulder is a senior member of S.T.A.R. Labs, which in this version are the main antagonistic force behind the creation of the [[Teen Titans|Titans]].<ref>''Teen Titans: Earth One'' #1</ref>
+In ''[[Teen Titans: Earth One]]'' continuity, Caulder is a senior member of [[S.T.A.R. Labs]], which in this version are the main antagonistic force behind the creation of the [[Teen Titans|Titans]] as well as the "[[Blackfire (DC Comics)|Blackfire]] project".<ref>''Teen Titans: Earth One'' Vol. 2</ref>
 
 ===Elseworlds===
 The Chief has appeared in several [[Elseworlds]] publications, mostly in cameos, such as [[JLA: The Nail series|Justice League The Nail]], [[Justice (DC Comics)|Justice]] and [[DC: The New Frontier|The New Frontier]].<ref>''Justice League: The Nail'' #1</ref><ref>''The New Frontier'' #6</ref><ref>''Justice'' #3</ref>
@@ -87,7 +88,7 @@ The Chief has appeared in several [[Elseworlds]] publications, mostly in cameos,
 
 ====Live-action====
 * The Chief appears in the ''[[Titans (2018 TV series)|Titans]]'' episode "Doom Patrol", portrayed by [[Bruno Bichir]].<ref>{{Cite web|url=https://deadline.com/2018/02/titans-bruno-bichir-cast-the-chief-dc-live-action-series-1202289194/|title = 'Titans': Bruno Bichir Cast as the Chief in DC Live-Action Series|date = 15 February 2018}}</ref> This version saved the lives of fellow Doom Patrol members [[Elasti-Girl|Rita Farr]], [[Negative Man|Larry Trainor]], and [[Robotman (Cliff Steele)|Cliff Steele]] as well as [[Beast Boy|Gar Logan]] and Shyleen Lao. The Chief also regained the ability to walk until he is paralyzed by [[Raven (DC Comics)|Rachel Roth]].
-* The Chief appears in ''[[Doom Patrol (TV series)|Doom Patrol]]'', portrayed by [[Timothy Dalton]] as an adult<ref>{{cite web |last1=Andreeva |first1=Nellie |title='Doom Patrol': Timothy Dalton To Star As The Chief In DC Universe TV Series |url=https://deadline.com/2018/09/doom-patrol-timothy-dalton-cast-dr-niles-the-chief-caulder-dc-universe-tv-series-1202457287/ |website=Deadline Hollywood |access-date=September 5, 2018 |date=September 5, 2018}}</ref> and Abigail Shapiro as a child. Similarly to the post-''Crisis'' comics incarnation, this version was responsible for turning the future Doom Patrol members into metahumans in an attempt to protect his daughter [[Dorothy Spinner]]. Additionally, he formed and led an earlier incarnation of the Doom Patrol in the 1950s before they were defeated by [[Mr. Nobody (comics)|Mr. Nobody]].
+* The Chief appears in ''[[Doom Patrol (TV series)|Doom Patrol]]'', portrayed by [[Timothy Dalton]] as an adult<ref>{{cite web |last1=Andreeva |first1=Nellie |title='Doom Patrol': Timothy Dalton To Star As The Chief In DC Universe TV Series |url=https://deadline.com/2018/09/doom-patrol-timothy-dalton-cast-dr-niles-the-chief-caulder-dc-universe-tv-series-1202457287/ |website=Deadline Hollywood |access-date=September 5, 2018 |date=September 5, 2018}}</ref> and Abigail Shapiro as a child. Similarly to the post-''Crisis'' comics incarnation and separate ''Titans'' counterpart,<ref>https://screenrant.com/titans-doom-patrol-not-same-universe-arrowverse-crisis-confirmed/</ref> this version was responsible for turning the future Doom Patrol members into metahumans in an attempt to protect his daughter [[Dorothy Spinner]]. Additionally, he formed and led an earlier incarnation of the Doom Patrol in the 1950s before they were defeated by [[Mr. Nobody (comics)|Mr. Nobody]] and has some level of immortality thanks to a talisman stolen from Heinrich Von Fuchs.
 
 ===Miscellaneous===
 The Chief appears in issue #7 of the ''[[Batman: The Brave and the Bold (comics)|Batman: The Brave and the Bold]]'' tie-in comics.
@@ -96,17 +97,21 @@ The Chief appears in issue #7 of the ''[[Batman: The Brave and the Bold (comics)
 {{Reflist}}
 
 ==External links==
-* [[wikia:dc:Niles Caulder (New Earth)|Chief]] at DC Comics Wiki
-* [https://comicvine.gamespot.com/the-chief/4005-35126/ Chief] at Comic Vine
+* [https://dc.fandom.com/wiki/Chief Chief] at DC Database
+* [https://comicvine.gamespot.com/the-chief/4005-35126/ The Chief] at Comic Vine
 
 {{Doom Patrol}}
 
 {{DEFAULTSORT:Chief}}
 [[Category:DC Comics male superheroes]]
 [[Category:DC Comics superheroes]]
-[[Category:Fictional scientists]]
 [[Category:Comics characters introduced in 1963]]
 [[Category:Doom Patrol]]
 [[Category:Characters created by Arnold Drake]]
 [[Category:DC Comics supervillains]]
 [[Category:Fictional characters with paraplegia]]
+[[Category:Fictional chemists]]
+[[Category:Fictional engineers]]
+[[Category:Fictional roboticists]]
+[[Category:Fictional scientists]]
+[[Category:Fictional surgeons]]

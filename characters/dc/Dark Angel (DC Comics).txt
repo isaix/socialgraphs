@@ -7,9 +7,14 @@
 |creators=[[John Byrne (comics)|John Byrne]]
 |character_name=Dark Angel
 |real_name=[[Baroness Paula Von Gunther]]<BR>[[Donna Troy]]
+|species=[[Ghost]]
 |alliances=
 |aliases=
-|powers= Mind control, size alteration, teleportation and altering the time stream, immortality, supernatural powers
+|powers= *Mind control
+*Size alteration
+*[[Teleportation]]
+*Chronokinesis
+*[[Immortality]]
 }}
 
 '''Dark Angel''' is a [[DC Comics]] <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->supervillain who battled [[Wonder Woman]]. She is a wandering spirit who inhabited the body of [[Paula von Gunther|Baroness Paula Von Gunther]] during [[World War II]]. Recently it was revealed that Dark Angel was, in fact, the [[Donna Troy]] of the pre-''[[Crisis on Infinite Earths|Crisis]]'' [[Multiverse (DC Comics)#Earth-Seven|Earth-Seven]], saved from certain death by the [[Anti-Monitor]]. 
@@ -36,21 +41,19 @@ A year after the events of ''[[Infinite Crisis]]'', Dark Angel appeared as the s
 She later pursues Donna Troy, [[Kyle Rayner]] and [[Jason Todd]] through the Multiverse (possibly at the Monitors' behest), inquiring to the denizens of the Wildstorm Universe (Earth-50) as to whether her lookalike had passed through.<ref>''Countdown Presents: The Search for Ray Palmer - Wildstorm'' #1</ref> Dark Angel then appears in ''Countdown to Adventure'' #3, disguised as an [[Barbara Gordon|Oracle]] on Earth-33, turning the conjurers against Forerunner when she arrives. She then sheds her disguise and attacks Forerunner, killing the Earth-33 version of [[Starman (comics)|Starman]] before she is defeated. She escapes before Forerunner can finish her.
 
 ==Powers and abilities==
-Dark Angel has vast powers and is able to perform a variety of feats including mind control, altering her size, teleportation and altering the time stream.
+Dark Angel is an incredibly powerful sorceress, able to cast various magic spells, transverse through space-time, and be nearly immortal.
 
 ==See also==
 * [[List of Wonder Woman enemies]]
 
 ==References==
-*{{cite book|title=Wonder Woman: The Ultimate Guide To The Amazon Princess|last=Beatty|first=Scott|year=2009|publisher=Dorling Kindersley Publishing|isbn=0-7894-9616-X|pages=[https://archive.org/details/wonderwomanultim00beat/page/92 92–93]|url-access=registration|url=https://archive.org/details/wonderwomanultim00beat/page/92}}
+*{{cite book|title=Wonder Woman: The Ultimate Guide To The Amazon Princess|last=Beatty|first=Scott|year=2009|publisher=Dorling Kindersley Publishing|isbn=978-0-7894-9616-4|pages=[https://archive.org/details/wonderwomanultim00beat/page/92 92–93]|url-access=registration|url=https://archive.org/details/wonderwomanultim00beat/page/92}}
 {{Reflist|30em}}
 
 ==External links==
 *[http://rapsheet.co.uk/RapSheetMain/Character.asp?UniqueId=770 Dark Angel Rapsheet]
 *[https://web.archive.org/web/20061126043705/http://www.titanstower.com/source/whoswho/darkangel.html Titans Tower Profile]
-*[http://www.dcuguide.com/who.php?name=baronesspaulavongunther The Unofficial Baroness Paula von Gunther Biography]
-*[http://www.dcuguide.com/who.php?name=darkangel2 The Unofficial Dark Angel Biography]
-*[http://www.tv.com/wonder-woman/wonder-woman-meets-baroness-von-gunther/episode/31042/summary.html ''Wonder Woman Meets Baroness Paula von Gunther'']
+*[https://dc.fandom.com/wiki/Dark_Angel Dark Angel] at DC Database
 
 {{Wonder Woman}}
 
@@ -62,7 +65,6 @@ Dark Angel has vast powers and is able to perform a variety of feats including m
 [[Category:DC Comics characters who use magic]]
 [[Category:DC Comics undead characters]]
 [[Category:Fictional characters who can change size]]
-[[Category:Fictional characters who can stretch themselves]] 
 [[Category:Fictional characters who can manipulate time]]
 [[Category:Fictional characters with spirit possession or body swapping abilities]] 
 [[Category:Fictional characters with immortality]]

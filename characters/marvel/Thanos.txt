@@ -10,7 +10,7 @@
 | caption = Textless variant cover of ''[[Infinity (comic book)|Infinity]]'' #4 (October 2013).<br>Art by [[Jerome Opeña]] and Dustin Weaver.
 | publisher = [[Marvel Comics]]
 | debut = ''[[Iron Man (comic book)|The Invincible Iron Man]]'' #55 (February 1973)
-| creators = [[Jim Starlin]]
+| creators = [[Jim Starlin]]<br>[[Mike Friedrich]]
 | alter_ego = 
 | species = [[Eternals (comics)|Eternal]]–[[Deviant (comics)|Deviant]] [[Hybrid (biology)|hybrid]]
 | homeworld = [[Titan (Marvel Comics location)|Titan]]
@@ -20,7 +20,8 @@
 * [[Superhuman strength]], speed, stamina, durability, and agility
 * Superhuman physiology of [[Titan (Marvel Comics location)|Eternals]]
 * Skilled [[hand-to-hand combat]]ant
-* [[Genius]]-level [[military tactics|tactician]]
+* Genius-level intellect
+* Master [[Military tactics|tactician]]
 * Plasma energy projection
 * Immortality
 * Nigh-[[invulnerability]]
@@ -32,7 +33,7 @@
 }}
 '''Thanos''' is a<!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.--> [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He was created by writer-artist [[Jim Starlin]], and first appeared in ''[[Iron Man (comic book)|The Invincible Iron Man]]'' #55 ([[cover date]] February 1973). An [[Eternals (comics)|Eternal]]–[[Deviant (comics)|Deviant]] warlord from the moon [[Titan (Marvel Comics location)|Titan]], Thanos is regarded as one of the most powerful beings in the [[Marvel Universe]]. He has clashed with many heroes including the [[Avengers (comics)|Avengers]], the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]], the [[Fantastic Four]], the [[Eternals (comics)|Eternals]], and the [[X-Men]].
 
-In creating Thanos, Starling drew inspiration from [[Jack Kirby]]'s ''[[New Gods]]'' series for [[DC Comics]], particularly the character of [[Darkseid]]. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is ''[[The Infinity Gauntlet]]'' (1991), the culmination of several story arcs that see him gather the six [[Infinity Gems]] and use them to kill half of the universe's population, including many of its heroes, to woo [[Death (Marvel comics)|Mistress Death]], the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel.
+In creating Thanos, Starlin drew inspiration from [[Jack Kirby]]'s ''[[New Gods]]'' series for [[DC Comics]], particularly the character of [[Darkseid]]. Thanos is usually portrayed as a villain, although many stories depict him as believing his actions to be justified. Perhaps the character's best-known storyline is ''[[The Infinity Gauntlet]]'' (1991), the culmination of several story arcs that see him gather the six [[Infinity Gems]] and use them to kill half of the universe's population, including many of its heroes, to woo [[Death (Marvel comics)|Mistress Death]], the living embodiment of death in the Marvel Universe. Although these events were later undone, the storyline has remained one of the most popular published by Marvel.
 
 Debuting in the [[Bronze Age of Comic Books|Bronze Age of comic books]], the character has appeared in almost five decades of Marvel publications, as well as many media adaptations, including animated television series and video games. In the [[Marvel Cinematic Universe]], the [[Thanos (Marvel Cinematic Universe)|character]] was first played by [[Damion Poitier]] in the film ''[[The Avengers (2012 film)|The Avengers]]'' (2012) and then by [[Josh Brolin]] in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]'' (2014), ''[[Avengers: Age of Ultron]]'' (2015), ''[[Avengers: Infinity War]]'' (2018), ''[[Avengers: Endgame]]'' (2019), and the first season of the animated series ''[[What If...? (TV series)|What If...?]]'' (2021).
 
@@ -244,6 +245,12 @@ The [[Reddit]] forum /r/ThanosDidNothingWrong, dedicated to sharing theories and
 
 A May 2019 ''[[Forbes]]'' column posited that "Thanos did nothing wrong" has become a popular internet meme, and that the film ''Endgame'' provides some evidence in favor of this view, in particular when Captain America says, "I saw a pod of whales when I was coming over the bridge . . . There's fewer ships, cleaner water." The author notes that given the contemporary [[extinction]] crisis driven by human actions, "you could indeed argue that Thanos did nothing wrong -- and in the long run, the villain might have actually saved the world."<ref>{{cite news|last=Chamary|first=JV|date=May 7, 2019|title=The Science Of 'Avengers: Endgame' Proves Thanos Did Nothing Wrong|url=https://www.forbes.com/sites/jvchamary/2019/05/07/avengers-endgame-biodiversity/#21b2744d775b|work=Forbes|access-date=May 29, 2019|archive-date=August 18, 2021|archive-url=https://web.archive.org/web/20210818125300/https://www.forbes.com/sites/jvchamary/2019/05/07/avengers-endgame-biodiversity/#21b2744d775b|url-status=live}}</ref>
 
+In 2021, ''[[CBR.com]]'' ranked Thanos 2nd in their "15 Most Powerful Eternals" list.<ref>{{Cite web |last=Lealos |first=Shawn S. |date=2019-07-27 |title=The 15 Most Powerful Eternals, Ranked |url=https://www.cbr.com/most-powerful-eternals-ranked/ |access-date=2022-10-14 |website=CBR |language=en-US}}</ref>
+
+In 2021, ''[[Screen Rant]]'' ranked Thanos 8th in their "10 Most Powerful Members Of The Eternals" list<ref>{{Cite web |last=Harn |first=Darby |date=2021-05-27 |title=10 Most Powerful Members Of The Eternals |url=https://screenrant.com/marvel-eternals-strongest-members/ |access-date=2022-08-30 |website=ScreenRant |language=en-US}}</ref>
+
+In 2021, ''[[CBR.com]]'' ranked Thanos 2nd in their "10 Strongest Characters From Eternals Comics" list.<ref>{{Cite web |last=Harth |first=David |date=2021-11-13 |title=The 10 Strongest Characters From Eternals Comics |url=https://www.cbr.com/eternals-comics-strong-powerful-characters-marvel/ |access-date=2022-08-30 |website=CBR |language=en-US}}</ref>
+
 ==References==
 {{Reflist}}
 
@@ -256,11 +263,11 @@ A May 2019 ''[[Forbes]]'' column posited that "Thanos did nothing wrong" has bec
 * [https://marvelcinematicuniverse.fandom.com/wiki/Thanos Thanos] at Marvel Cinematic Universe Wiki
 
 {{Thanos}}
+{{Avengers characters}}
 {{Navboxes
 |title= Other articles and topics related to Thanos
 |state=collapsed
 |list1=
-{{Avengers characters}}
 {{Champions (comics)|Champions}}
 {{Eternals}}
 {{Fantastic Four}}

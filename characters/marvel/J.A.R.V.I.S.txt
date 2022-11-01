@@ -7,7 +7,7 @@
 | image = J.A.R.V.I.S. (MCU).png
 | caption = 
 | first = {{ubl|'''[[Marvel Cinematic Universe]]:'''|''[[Iron Man (2008 film)|Iron Man]]'' (2008)|'''[[Marvel Comics]]:'''|''[[Iron Man|The Invincible Iron Man]]'' vol. 2 #11 (May 2009)}}
-| last = {{ubl|'''Marvel Cinematic Universe:'''|''[[Avengers: Age of Ultron]]'' (2015)}}
+| last = ''[[Avengers: Age of Ultron]]'' (2015)
 | creator = {{ubl|[[Mark Fergus and Hawk Ostby|{{ubl|Mark Fergus|Hawk Ostby}}]]|[[Art Marcum and Matt Holloway|{{ubl|Art Marcum|Matt Holloway}}]]}}
 | based_on = {{based_on|[[Edwin Jarvis]] and [[H.O.M.E.R.]]|[[Stan Lee]] and [[Jack Kirby]]}}
 | portrayer = [[Paul Bettany]] (as [[Vision (Marvel Cinematic Universe)|Vision]])

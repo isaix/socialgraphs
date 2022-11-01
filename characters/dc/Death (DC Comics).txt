@@ -17,7 +17,6 @@
 | species   = <!-- optional -->
 | homeworld = France
 | alliances = [[Endless (comics)|The Endless]]
-<br>[[Justice League]]
 | partners  = <!-- optional -->
 | supports  = <!-- optional -->
 | aliases   = Grandmother Death (by Nada's tribe)<br>Teleute (ancient Greek)<br>Madame Mort

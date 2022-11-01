@@ -2,14 +2,21 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Atomic Skull (Albert Michaels).jpg
 |caption= Atomic Skull (Albert Michaels), art by [[Curt Swan]].
-|real_name=- Albert Michaels<br>- Joseph Martin
+|real_name=Albert Michaels<br> Joseph Martin
+|species=[[Metahuman]]
 |publisher=[[DC Comics]]
 |debut='''(Michaels)'''<br>''[[Superman]]'' #303 (September 1976)<br>'''(Michaels as the Atomic Skull)'''<br>''[[Superman]]'' #323 (May 1978)<br>'''(Martin)'''<br>''[[Superman (comic book)|The Adventures of Superman]]'' #483 (October 1991)<br>'''(Martin as the Atomic Skull)'''<br>''[[Action Comics]]'' #670 (October 1991)
 |creators='''(Michaels)'''<br>[[Gerry Conway]]<br>[[Curt Swan]]<br/>'''(Martin)'''<br>[[Roger Stern]]<br>[[Bob McLeod (comics)|Bob McLeod]]
 |alliances='''(Michaels)'''<br>[[List_of_criminal_organizations_in_DC_Comics#S|SKULL]]<br/>[[S.T.A.R. Labs]]<br>[[Secret Society of Super Villains]]<br>[[Injustice League]]<br/>'''(Martin)'''<br>[[Secret Society of Super Villains]]
 |aliases='''(Martin)''' <br> Skull
-|powers= '''(Michaels)'''<br>Seizure-generated atomic "brain-blasts"<br>Brilliant scientist<br>Superhuman strength
-<br>'''(Martin)'''<br>Superhuman strength, agility, and endurance<br>Atomic blasts
+|powers= '''(Both)''': 
+*[[Superhuman strength]], stamina, and durability
+*Atomic blasts
+'''(Michaels)''':
+*Resurrection
+*[[Genius]]-level intellect
+'''(Martin)''':
+*Power augmentation
 |}}
 '''Atomic Skull''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] in [[American comic books]] published by [[DC Comics]], who is commonly a foe of [[Superman]].<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |page=18}}</ref> The character first appeared in 1978.
 
@@ -51,9 +58,9 @@ In June 2016, DC Comics relaunched its entire line of comic book titles with ''[
 In ''Hal Jordan and the Green Lantern Corps'' #45, the Atomic Skull is shown trying to make amends by being the warden at [[Stryker's Island|Stryker's Island Penitentiary]]. When [[Hal Jordan]] tried to break out [[Hector Hammond]], the Atomic Skull fought him, but before he could do anything else, Hector Hammond renders him temporarily brain dead using his psychic powers and Hal Jordan convinces him to let the Atomic Skull live.<ref>''Hal Jordan and the Green Lantern Corps'' #45</ref>
 
 ==Powers and abilities==
-Albert Michaels can deliver powerful energy bolts through the visor of his mask. The energy blasts have been described as powerful brain waves, heat vision and atomic blasts throughout the years. Aside from his energy attacks, Michaels is also the head of the SKULL organization and a brilliant scientist.
+Albert Michaels can deliver powerful energy bolts through the visor of his mask. These blasts have been described as unique [[Neural oscillations|brainwaves]], heat vision, and radioactive energy throughout the years. Beside from his energy attacks, Michaels is an experienced [[Leadership|leader]] of the SKULL organization and a brilliant [[scientist]].<ref>''Superman'' Vol 1 #323 (May 1978)</ref>
 
-Joseph Martin has superhuman strength, agility and endurance, comparable to that of Superboy (Conner Kent), Superman, and Mon-El. He can also produce purple atomic blasts from his hands and mouth for long range attacks and use the same energy to power up his already impressive physical strength to a higher degree.
+Joseph Martin has immense strength, stamina, and durability, comparable to that of [[Superboy (Kon-El)]], Superman, and [[Lar Gand]]. He can also project blasts of purple atomic energy from his hands or mouth for long-range attacks and use the same one to power himself up in a higher degree.<ref>''Action Comics'' Vol 1 #670 (October 1991)</ref>
 
 ==Other versions==
 ===Movie serial===
@@ -74,9 +81,9 @@ In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, a
 
 [[Image:Atomic Skull jlu.jpg|thumb|right|The Atomic Skull in ''[[Justice League Unlimited]]''.]]
 * The Joseph Martin version of the Atomic Skull appears in ''[[Justice League Unlimited]]'', voiced by [[Lex Lang]]. He first appears in "The Cat and the Canary" as [[Wildcat (DC Comics)|Wildcat]]'s main opponent at [[Roulette (DC Comics)|Roulette]]'s Meta-Brawl until the [[Green Arrow]] and the [[Black Canary]] interrupted the match. Atomic Skull later returns as a member of the [[Secret Society of Super Villains|Secret Society]]. In "Alive" and "Destroyer", he sides with [[Lex Luthor]] during a mutiny in the two-part series finale. He is found among the survivors of [[Darkseid]]'s attack. He and Luthor join to help the heroes during the defense of Earth against the forces of [[Apokolips]]. He fights alongside [[Hawkgirl]] and [[Commander Steel]] in Washington DC. He is last seen taking advantage of the Justice League's "five-minute [[Head start (positioning)|head start]]" granted to the surviving supervillains at the final episode's end (notably he is the one who vocally opposes being arrested after helping save the world from Darkseid's forces).
-* The Albert Michaels version of the Atomic Skull appears in the ''[[Young Justice (TV series)|Young Justice]]'' animated series. In the episode "Revelation", he is seen as a member of the Injustice League and is mainly used to power [[Poison Ivy (character)|Poison Ivy]]'s plant creature.
-* A character who resembles the Atomic Skull appears in ''[[The Flash (2014 TV series)|The Flash]]'' live action series. In the episode "Invincible", he appears in [[Hunter Zolomon|Zoom]]'s metahuman army. This version also semi-looks like Firestorm.
-* The Albert Michaels version of Atomic Skull appeared in the ''[[Powerless (TV series)|Powerless]]'' TV series. He was seen battling [[Firestorm (comics)|Firestorm]] and [[The Flash (comics)#Barry Allen|The Flash]] in the opening credits.
+* The Albert Michaels version of the Atomic Skull appears in ''[[Young Justice (TV series)|Young Justice]]''. In the episode "Revelation", he is seen as a member of the Injustice League and is mainly used to power [[Poison Ivy (character)|Poison Ivy]]'s plant creature.
+* A character who resembles the Atomic Skull appears in ''[[The Flash (2014 TV series)|The Flash]]'' live-action series. In the episode "Invincible", he appears in [[Hunter Zolomon|Zoom]]'s metahuman army. This version also semi-looks like Firestorm.
+* The Albert Michaels version of Atomic Skull appeared in the ''[[Powerless (TV series)|Powerless]]'' TV series. He was seen battling [[Firestorm (comics)|Firestorm]] and [[Flash (Barry Allen)|Flash]] in the opening credits.
 
 ===Film===
 * The Joseph Martin version of the Atomic Skull appears in ''[[Superman vs. The Elite]]'', voiced by [[Dee Bradley Baker]]. He appears in the film's opening, killing random civilians in order to get [[Superman]]'s attention. They brawl around the city, eventually culminating in the Atomic Skull's defeat after Superman throws him into a large pond. Later on, he is seen in [[Stryker's Island]], being used to power the prison but soon escapes by overloading the generator before running rampant throughout Metropolis. He is soon confronted by the combined forces of [[Superman]] and The [[The Elite (DC Comics)|Elite]], who manage to defeat the Atomic Skull through [[Coldcast]] absorbing the Atomic Skull's radiation, but with massive collateral damage. At this point, The Elite's leader [[Manchester Black]] plans to execute the Atomic Skull himself, leaving the decision up to the son of a professor who was killed by the Atomic Skull and a vehement Superman supporter. The boy votes for the Atomic Skull's death and Manchester Black executes the Atomic Skull to the cheer of the watching crowd and the horror of Superman.
@@ -95,8 +102,9 @@ In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, a
 {{Reflist}}
 
 ==External links==
-*[http://www.dcuguide.com/who.php?name=atomicskull2 DCU Guide: Atomic Skull (Joseph Martin)]
-*[http://www.dcuguide.com/who.php?name=atomicskull DCU Guide: Atomic Skull (Dr. Albert Michaels)]
+*[https://dc.fandom.com/wiki/Atomic_Skull Atomic Skull] at DC Database
+*[https://comicvine.gamespot.com/albert-michaels/4005-84829/ Albert Michaels] at Comic Vine
+*[https://comicvine.gamespot.com/joseph-martin/4005-13006/ Joseph Martin] at Comic Vine
 
 {{Birds of Prey}}
 {{Captain Atom}}
@@ -117,6 +125,7 @@ In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, a
 [[Category:DC Comics metahumans]]
 [[Category:Fictional biologists]]
 [[Category:Fictional characters who have made pacts with devils]]
+[[Category:Fictional characters with death or rebirth abilities]]
 [[Category:Fictional characters with energy-manipulation abilities]]
 [[Category:Fictional characters with nuclear or radiation abilities]]
 [[Category:Fictional inventors]]

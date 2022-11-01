@@ -1,4 +1,6 @@
-{{short description|Fictional character in the DC Comics universe}}{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+{{short description|Fictional character in the DC Comics universe}}
+<noinclude>{{User:RMCD bot/subject notice|1=Blok (character)|2=Talk:Blok (comics)#Requested move 27 October 2022}}
+</noinclude>{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 | image= [[Image:Blok Legion.jpg|250px]]
 | caption= Art by Steve Lightle
 | character_name = Blok
@@ -6,14 +8,14 @@
 | debut = ''Superboy and the Legion of Super-Heroes'' #253 (July 1979)
 | creators = [[Gerry Conway]] <br>[[Joe Staton]]
 | real_name = Blok
-| species = [[List of alien races in DC Comics#Dryad]]
-| homeworld = Dryad
+| species = [[List of alien races in DC Comics#Dryad|Dryad]]
+| homeworld = [[List of DC Universe locations#Planets and moons which exist during the era of the Legion of Super-Heroes|Dryad]]
 | alliances = League of Super-Assassins<br/>[[Legion of Super-Heroes]]
 | aliases = <!-- optional: actual identities the character uses, not nicknames -->
 | supports=<!--optional-->
 | powers = Energy absorption, mass increase, super-strength, durability
 }}
-'''Blok''' is a [[superhero]] in the 30th century of appearing in [[American comic books]] published by [[DC Comics]]. He has a massive, stony body possessed of incredible strength and endurance.
+'''Blok''' is a [[superhero]] appearing in [[American comic books]] published by [[DC Comics]]. He has a massive, stony body possessed of incredible strength and endurance.
 
 ==Publication history==
 Blok appeared in ''Superboy and the Legion of Super-Heroes'' #253 (July 1979) by [[Gerry Conway]] and [[Joe Staton]] in an era referred to as the [[Bronze Age of Comic Books]].<ref>{{cite web |title=Legion of Super-Heroes Teams Through the Ages, Ranked |url=https://www.cbr.com/legion-of-super-heroes-teams-ranked/ |website=CBR |access-date=3 April 2020 |date=27 December 2019}}</ref>

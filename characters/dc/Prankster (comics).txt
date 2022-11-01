@@ -1,6 +1,5 @@
 {{Short description|DC comics character}}
 {{About||the Charlton Comics character|Prankster (Charlton Comics)}}
-{{notability|date=April 2021}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Prankster
@@ -14,7 +13,8 @@
 | species        =
 | alliances      = [[Intergang]] <br /> [[Injustice League]] <br /> [[Secret Society of Super Villains|Underground Society]]
 | aliases        = Doctor Loomis <br /> The Pranksta <br />The Exorsist <br /> Prisoner K1287931
-| powers         = [[Genius]]-level intellect<br />Holographic projection<br />[[Magic (illusion)|Illusion casting]]<br />Force field generation<br />Expert in weaponry<br />Utilizes high-tech equipment, weapons, and armors
+| powers         = *[[Genius]]-level intellect
+*Equipment usage
 | cat            = super
 | subcat         = DC Comics
 | hero           =
@@ -72,10 +72,8 @@ Prankster gathers an army of followers who are sympathetic to his cause. Upon ha
 
 During the ''[[Forever Evil]]'' storyline, Prankster is among the villains recruited by the [[Crime Syndicate of America]] to join the [[Secret Society of Super Villains]].<ref>''Forever Evil'' #1</ref>
 
-==Powers and abilities==
-The Prankster has an arsenal of trick items that he uses in his crimes. Thanks to Brainiac 13's upgrade of Metropolis, the Prankster has a new set of advanced tricks. The Prankster's tricks include: ultrasonic devices that cause a person to laugh uncontrollably, [[joy buzzer]]s, exploding [[whoopee cushion]]s, and Nano-Robots.
-
-The Prankster uses a vehicle that allows him to fly.
+==Skills and abilities==
+The Prankster has an arsenal of [[Practical joke device|trick items]] that he uses in his crimes. Thanks to Brainiac 13's upgrade on Metropolis, Loomis possesses a new set of advanced tricks. These tricks include: ultrasonic devices that cause a person to laugh uncontrollably, high-voltage joy buzzers, exploding whoopee cushions, and nanobots.<ref>''The Adventures of Superman'' Vol 1 #579 (June 2000)</ref>
 
 ==Other versions==
 ===Smallville===
@@ -96,6 +94,7 @@ The Prankster appears in the ''[[Smallville]]'' comic follow up ''[[Smallville s
 
 ==External links==
 * [http://superman.nu/wiki/index.php/Prankster Supermanica entry on the pre-Crisis Prankster]
+* [https://www.supermansupersite.com/prankster.html The Prankster] at The Superman Super Site
 
 {{Superman characters}}
 {{Plastic Man}}

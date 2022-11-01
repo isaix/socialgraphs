@@ -20,18 +20,19 @@
 * [[The Children (comics)|The Children]]
 * [[Weapon X]]
 * [[X-Men]]<ref>''Official Handbook of the Marvel Universe A to Z,'' vol. 13 (2010) Marvel Comics</ref>
+* [[Marauders (comic book)|Marauders]]
 }}
 | aliases = Sister Beaubier
-| powers = *Gestalt Photokinesis
-*Photokinesis
-*Superhuman speed
-*Accelerated Metabolism
+| powers = *Invisibility to technological detection
+*Accelerated metabolism
+*G-Force compensation
+*Molecular acceleration
+*Gestalt Photokinesis
+*Heightened reflexes
 *Enhanced durability
+*Superhuman speed
+*Photokinesis 
 *Flight
-*G-Force Compensation
-*Heightened Reflexes
-*Molecular Acceleration
-*Invisibility to Technological Detection
 |}}
 
 '''Aurora'''  ({{lang-fr|Aurore}}) ('''Jeanne-Marie Beaubier''') is a [[fictional character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Chris Claremont]] and [[John Byrne (comics)|John Byrne]], the character first appeared in ''The Uncanny X-Men'' #120 (April 1979) as a member of the [[Canadians|Canadian]] superhero team, [[Alpha Flight]].<ref name=created/>
@@ -45,7 +46,7 @@ During the ''[[Chaos War (comics)|Chaos War]]'' storyline, Aurora, alongside Nor
 Aurora first appeared in ''The Uncanny X-Men'' #120 as a member of [[Alpha Flight]], and was created by [[Chris Claremont]] and [[John Byrne (comics)|John Byrne]].<ref name=created>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=29}}</ref>
 
 ==Fictional character biography==
-'''Jeanne-Marie Beaubier''' was born in [[Montreal|Montreal, Quebec]], [[Canada]]. She and her twin brother Jean-Paul were separated in infancy after their parents died. Jean-Paul was adopted by Mr. and Mrs. Louis Martin, who were cousins of his mother. The Martins could not afford to adopt Jeanne-Marie as well and arranged for Jeanne-Marie to be raised at Madame DuPont's School for Girls in Laval, Quebec, a reactionary religious school. Soon afterward, the Martins moved to Northern Quebec. The Martins were killed in an accident several years later and Jean-Paul was placed in a foster home, unaware that he had a sister.
+'''Jeanne-Marie Beaubier''' was born in [[Montreal|Montreal, Quebec]], [[Canada]]. She and her twin brother Jean-Paul were separated in infancy after their parents died. Jean-Paul was adopted by Mr. and Mrs. Louis Martin, who were cousins of his mother. The Martins could not afford to adopt Jeanne-Marie as well and arranged for Jeanne-Marie to be raised at Madame DuPont's School for Girls in Laval, Quebec, a reactionary religious school.<ref>''Alpha Flight'' #1</ref> Soon afterward, the Martins moved to Northern Quebec. The Martins were killed in an accident several years later and Jean-Paul was placed in a foster home, unaware that he had a sister.
 
 Extremely nervous and introverted, Jeanne-Marie Beaubier was miserable at Madame DuPont's School. At the age of thirteen, she attempted suicide by throwing herself from the roof of one of the school's buildings. Instead of falling to her death, Beaubier discovered that she could fly at great speed. Unaware that she was a [[Mutant (Marvel Comics)|mutant]], the deeply religious Beaubier believed that her flight was the result of a divine miracle. The next morning, she explained to the school's headmistress what she believed had happened. Believing the young girl to be guilty of [[blasphemy]], the headmistress had Beaubier [[corporal punishment|severely disciplined]]. This incident (and possibly other abuse) triggered a [[dissociative identity disorder]] in Jeanne-Marie; a second personality, extroverted and far more uninhibited, emerged. Under the influence of this second personality, Beaubier secretly left the school that same night. Returning three days later, she had no memory of where she had been or what she had done and she was again physically punished. The resulting trauma was so great that Beaubier repressed her second personality.
 
@@ -80,13 +81,22 @@ Some time later, Northstar strangely felt his connection to his sister evaporate
 
 ==Powers and abilities==
 [[Image:Northstar and Aurora.jpg|200px|thumb|Northstar and Aurora. Art by [[Leinil Francis Yu]].]]
-Aurora has the powers of flight and superhuman speed and reflexes (theoretically able to approach light-speed. This has never been attempted since if any being or amount of matter were to approach the speed of light in our solar system, it would wreak devastating havoc on the gravitational forces holding our system together). The greater her increase in speed, the more durable her body becomes, but this ability has not been measured.
+Aurora has the powers of flight and superhuman speed and reflexes (theoretically able to approach light-speed.<ref name=":0">{{Cite web |last=Chrysostomou |first=George |date=2019-06-10 |title=Alpha Flight: The 10 Most Powerful Members of Canada’s Avengers, Ranked |url=https://www.cbr.com/alpha-flight-strongest-members-ranked/ |access-date=2022-10-19 |website=CBR |language=en-US}}</ref> This has never been attempted since if any being or amount of matter were to approach the speed of light in our solar system, it would wreak devastating havoc on the gravitational forces holding our system together). The greater her increase in speed, the more durable her body becomes, but this ability has not been measured.
 
-She also has super-human levels of endurance and stamina that allows her to maintain her super-speed. In an early issue of ''[[Alpha Flight (comic book)|Alpha Flight]]'', Northstar reveals to readers that Aurora has greater endurance and can fly longer, while he can fly faster in the same period of time.<ref>''Alpha Flight'' #1 (1983)</ref>  Her strength and reaction time are above-average for a woman of her age and exercise level, however, Aurora usually does not rely on her physical strength while battling opponents and, instead, uses super-speed tricks, like flying with someone at great speed until they pass out from lack of oxygen or pummeling them with hundreds of punches a second until they succumb. Aurora also uses her super speed to perform stunts such as creating a cyclone by running in circles, running up walls and across water, and she could breathe while traveling at subsonic speeds.
+She also has super-human levels of endurance and stamina that allows her to maintain her super-speed. In an early issue of ''[[Alpha Flight (comic book)|Alpha Flight]]'', Northstar reveals to readers that Aurora has greater endurance and can fly longer, while he can fly faster in the same period of time.<ref>''Alpha Flight'' #1 (1983)</ref> Her strength and reaction time are above-average for a woman of her age and exercise level, however, Aurora usually does not rely on her physical strength while battling opponents and, instead, uses super-speed tricks, like flying with someone at great speed until they pass out from lack of oxygen or pummeling them with hundreds of punches a second until they succumb. Aurora also uses her super speed to perform stunts such as creating a cyclone by running in circles, running up walls and across water, and she could breathe while traveling at subsonic speeds.
 
 Originally, while in physical contact with her brother, usually while holding hands, the pair could emit bursts of brilliant white light with an average flash equal in intensity of one million [[candela]] (one candela being equal to the amount of light created by one candle). It was generally used to blind their opponents, but with the minor drawback that they were not able to control its intensity. Experiments performed on Aurora by Walter Langowski enabled her to generate light independently from Northstar, but a side effect of this was that physical contact between the two would temporarily neutralize both of their powers.{{issue|date=May 2021}} Her speed was also greatly reduced to only being able to move and fly at the speed of sound. However, with Aurora's recent resurrection in a new body, these modifications are now gone, enabling them to generate light together again and restoring her previous levels of speed.<ref>''X-Factor'' #5 (2020)</ref>
 
 Aurora is moderately skilled in hand-to-hand combat using a style utilizing her superhuman speed, and received coaching from [[Puck (comics)|Puck]] and Wolverine.
+
+== Reception ==
+
+=== Accolades ===
+
+* In 2019, ''[[CBR.com]]'' ranked Aurora 9th in their "10 Most Powerful Members of Canada’s Avengers" list.<ref name=":0" />
+* in 2021, ''[[Screen Rant]]'' ranked Aurora 2nd in their "10 Fastest X-Men In Marvel Comics" list.<ref>{{Cite web |last=Harn |first=Darby |date=2021-12-30 |title=The 10 Fastest X-Men In Marvel Comics |url=https://screenrant.com/x-men-fastest-characters-marvel-comics/ |access-date=2022-10-19 |website=ScreenRant |language=en-US}}</ref>
+* In 2022, ''[[Sportskeeda]]'' ranked Aurora 3rd in their "5 fastest characters in comic history" list.<ref>{{Cite web |last=Pendurkar |first=Rohan |title=Who is the fastest speedster? Ranking the 5 fastest characters in comic history |url=https://www.sportskeeda.com/comics/who-fastest-speedster-ranking-5-fastest-characters-comic-history |access-date=2022-10-19 |website=www.sportskeeda.com |language=en-us}}</ref>
+* In 2022, ''[[CBR.com]]'' ranked Aurora 9th in their "Marvel: The 20 Fastest Speedsters" list.
 
 ==Other versions==
 

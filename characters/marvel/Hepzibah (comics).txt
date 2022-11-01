@@ -1,10 +1,10 @@
-{{about||Miz Ma'm'selle Hepzibah|Pogo (comic strip)}}
+{{for|Miz Ma'm'selle Hepzibah|Pogo (comic strip)}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name=Hepzibah
 |image=Hepzibah.jpg
 |caption=Hepzibah.<br>Art by [[Salvador Larroca]].
 |real_name=Unknown (Unpronounceable)
-|species=[[List of alien races in Marvel Comics#M|Mephitisoid]]
+|species=[[List of alien races in Marvel Comics#Mephitisoids|Mephitisoid]]
 |publisher=[[Marvel Comics]]
 |debut=''[[Uncanny X-Men|The X-Men]]'' #107 (Oct. 1977)
 |creators=[[Dave Cockrum]] (concept and artwork), [[Chris Claremont]] (writer)

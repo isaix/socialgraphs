@@ -6,10 +6,13 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |character_name=Cyclone
 |image=Maxinehunkel2.jpg
-|caption=Maxine Hunkel as Cyclone, from the cover of ''Justice Society of America'' (vol. 3) #3<br>Art by [[Alex Ross]]
+|caption=Textless cover of ''[[Justice Society of America]]'' #3 (April 2007).<br>Art by [[Alex Ross]].
 |publisher=[[DC Comics]]
-|debut=''[[Justice Society of America]]'' (vol. 3) #1 (2006)
-|creators=[[Mark Waid]] (writer)<br>[[Alex Ross]] (artist)<br>[[Geoff Johns]] (writer)<br>[[Dale Eaglesham]] (artist)
+|debut='''As Red Tornado:'''<br>''[[Kingdom Come (comics)|Kingdom Come]]'' #2 (June 1996)<br>'''As Cyclone:'''<br>''[[Justice Society of America]]'' #1 (February 2007)
+|creators={{Plainlist|
+* [[Mark Waid]]
+* [[Alex Ross]]
+}}
 |real_name=Maxine Hunkel
 |species = Metahuman
 |homeworld = <!-- optional -->
@@ -18,20 +21,20 @@
 |supports=<!--optional-->
 |powers=Flight<br>Wind manipulation<br>Sound wave control
 |}}
-'''Cyclone''' (real name '''Maxine Hunkel''') is a [[fictional character]] in the [[DC Comics]] [[DC Universe|Universe]]. She is the granddaughter of the original [[Red Tornado (Ma Hunkel)|Red Tornado]] and a member of the [[Justice Society of America]]. Cyclone was created by [[Mark Waid]], [[Alex Ross]], [[Geoff Johns]] and [[Dale Eaglesham]].
+'''Cyclone''' ('''Maxine Hunkel''') is a [[superheroine]] appearing in [[American comic books]] published by [[DC Comics]]. She is the granddaughter of the original [[Red Tornado (Ma Hunkel)|Red Tornado]] and a member of the [[Justice Society of America]].
 
-Cyclone will appear in the upcoming [[DC Extended Universe]] film ''[[Black Adam (film)|Black Adam]]'', portrayed by [[Quintessa Swindell]].
+The character made her live-action debut in the [[DC Extended Universe]] film ''[[Black Adam (film)|Black Adam]]'' (2022), played by [[Quintessa Swindell]].
 
 ==Publication history==
-Although not named as such at the time, the character who would eventually become known as Maxine Hunkel first appeared (as a new Red Tornado) in ''[[Kingdom Come (comics)|Kingdom Come]]'' #2 (1996) by Mark Waid and Alex Ross.
+Although not named as such at the time, the character who would eventually become known as Maxine Hunkel first appeared (as a new Red Tornado) in ''[[Kingdom Come (comics)|Kingdom Come]]'' #2 (June 1996) by writer [[Mark Waid]] and artist [[Alex Ross]].
 
-A decade later, prior to the relaunch of the ''Justice Society of America'' series, writer Geoff Johns created Maxine Hunkel, a hero who would follow the legacy of the Red Tornado. Remembering the character he designed for ''Kingdom Come'', cover artist Alex Ross based his design for Maxine on the earlier character, retroactively making them one and the same.
+A decade later, prior to the relaunch of the ''[[Justice Society of America]]'' series, writer [[Geoff Johns]] created Maxine Hunkel, a hero who would follow the legacy of the Red Tornado. Remembering the character he designed for ''Kingdom Come'', cover artist Alex Ross based his design for Maxine on the earlier character, [[retcon|retroactively]] making them one and the same.
 
-Johns is quoted by Newsarama.com:<ref>[http://forum.newsarama.com/showthread.php?t=91761 HIGH SOCIETY II: THE JUSTICE SOCIETY'S NEW BLOOD] {{Webarchive|url=https://web.archive.org/web/20070929104828/http://forum.newsarama.com/showthread.php?t=91761 |date=2007-09-29}} by Troy Brownfield, Newsarama.com, retrieved March 1, 2007</ref>
+Johns said:<ref>[http://forum.newsarama.com/showthread.php?t=91761 HIGH SOCIETY II: THE JUSTICE SOCIETY'S NEW BLOOD] {{Webarchive|url=https://web.archive.org/web/20070929104828/http://forum.newsarama.com/showthread.php?t=91761 |date=2007-09-29}} by Troy Brownfield, Newsarama.com, retrieved March 1, 2007</ref>
 
-{{quote|I came up with the character and concept [of Maxine]. When I told Alex, he told me about this character that he’d put into Kingdom Come, and discussed Maxine being the ‘younger’ version of that one.}}
+{{quote|I came up with the character and concept [of Maxine]. When I told Alex, he told me about this character that he’d put into ''Kingdom Come'', and discussed Maxine being the ‘younger’ version of that one.}}
 
-Maxine made her debut in the DC Universe in ''Justice Society of America'' (vol. 3) #1 (December 2006).
+Maxine made her debut in the [[DC Universe]] in ''Justice Society of America'' #1 (February 2007).
 
 ==Fictional character biography==
 Maxine Hunkel is the granddaughter of the original Red Tornado, Abigail "''Ma''" Hunkel, an honorary member of the Justice Society and current caretaker of their headquarters. Maxine grew up idolizing her grandmother's allies in the JSA.
@@ -64,7 +67,7 @@ Prior to her mainstream debut, Cyclone was featured in ''[[Kingdom Come (comics)
 An alternate-reality version of Cyclone is seen in the ''[[Trinity (comic book)|Trinity]]'' series, as a member of the time-altered Justice Society International. She is killed in that timeline when she is sniped down while riding one of her cyclones.
 
 ==In other media==
-Cyclone is set to make her live-action debut in the upcoming [[DC Extended Universe]] film, ''[[Black Adam (film)|Black Adam]]'',<ref>{{cite news |last=Hullender|first=Tatiana|title=Black Adam Movie Adds Cyclone To Its JSA Roster: EXCLUSIVE|url=https://www.theilluminerdi.com/2020/02/03/black-adam-cyclone-exclusive/|accessdate=February 4, 2020|work=The Illuminerdi|date=February 3, 2020}}</ref> portrayed by [[Quintessa Swindell]]. Like her comics counterpart, she will be a member of the Justice Society of America.<ref>{{cite web|url=https://variety.com/2020/film/news/justice-society-of-america-black-adam-hawkman-cyclone-1234744998/|title=‘Black Adam’ Will Introduce the Justice Society of America: Hawkman, Doctor Fate and More |work=Variety|last=Earl|first=William|date=August 22, 2020}}</ref>
+Cyclone made her live-action debut in the [[DC Extended Universe]] film ''[[Black Adam (film)|Black Adam]]'',<ref>{{cite news |last=Hullender|first=Tatiana|title=Black Adam Movie Adds Cyclone To Its JSA Roster: EXCLUSIVE|url=https://www.theilluminerdi.com/2020/02/03/black-adam-cyclone-exclusive/|accessdate=February 4, 2020|work=The Illuminerdi|date=February 3, 2020}}</ref> portrayed by [[Quintessa Swindell]]. Like her comics counterpart, she is  a member of the Justice Society.<ref>{{cite web|url=https://variety.com/2020/film/news/justice-society-of-america-black-adam-hawkman-cyclone-1234744998/|title=‘Black Adam’ Will Introduce the Justice Society of America: Hawkman, Doctor Fate and More |work=Variety|last=Earl|first=William|date=August 22, 2020}}</ref>
 
 ==References==
 {{Reflist}}
@@ -72,8 +75,6 @@ Cyclone is set to make her live-action debut in the upcoming [[DC Extended Unive
 {{Justice Society of America}}
 
 [[Category:Characters created by Alex Ross]]
-[[Category:Characters created by Dale Eaglesham]]
-[[Category:Characters created by Geoff Johns]]
 [[Category:Characters created by Mark Waid]]
 [[Category:Comics characters introduced in 2006]]
 [[Category:DC Comics female superheroes]]
